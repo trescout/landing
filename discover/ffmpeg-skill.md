@@ -2,16 +2,16 @@
 
 kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.
 
-- ★ 9.553
+- ★ 10.182
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 9.553 → 10.182, son sürüm v4.7.1 (23 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 9.446 → 9.553, son sürüm v4.7.0 (22 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 9.212 → 9.446, son sürüm v4.6.3 (22 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 9.017 → 9.212, son sürüm v4.5.0 (21 Kasım 2026).
-- **21 Kasım 2026:** Yıldız 8.960 → 9.017, son sürüm v4.3.4 (21 Kasım 2026).
 
 ## Ne kazandırır?
 

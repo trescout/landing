@@ -2,16 +2,16 @@
 
 Die für Claude Code und Agenten der künstlichen Intelligenz entwickelte Marketingkompetenzbibliothek bietet spezielle Fähigkeiten in Bereichen wie Conversion-Rate-Optimierung (CRO), Texterstellung, Suchmaschinenoptimierung (SEO), Analyse und Wachstumstechnik. Dieses Toolset ermöglicht es KI-Modellen, marketingorientierte Aufgaben professioneller und datengesteuerter auszuführen.
 
-- ★ 61.560
+- ★ 62.236
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 61,560 → 62,236, neueste Version v2.14.28 (23. November 2026).
 - **20. November 2026:** Sterne 61,223 → 61,560, neueste Version v2.14.25 (20. November 2026).
 - **18. November 2026:** Sterne 59,817 → 61,223, neueste Version v2.14.13 (18. November 2026).
 - **12. November 2026:** Sterne 59,639 → 59,817, neueste Version v2.14.12 (11. November 2026).
-- **11. November 2026:** Sterne 59,487 → 59,639, neueste Version v2.14.10 (11. November 2026).
 
 ## Was es bringt
 

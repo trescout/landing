@@ -2227,7 +2227,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "cmds": {
       "kurulum": [
         {
@@ -8486,13 +8486,13 @@
     "tagline_pt": "A habilidade Last30days obtém dados atuais pesquisando em plataformas como Reddit, X, YouTube, Hacker News e Polymarket.",
     "tagline_es": "Last30days-skill obtiene datos actuales investigando en plataformas como Reddit, X, YouTube, Hacker News y Polymarket.",
     "tagline_de": "Aktuelle Daten erhält Last30days-skill durch Recherchen auf Plattformen wie Reddit, X, YouTube, Hacker News und Polymarket.",
-    "last_seen": "2026-11-22"
+    "last_seen": "2026-11-23"
   },
   {
     "slug": "copilotkit",
     "title": "CopilotKit",
     "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
-    "meta": "★ 38.854 · TypeScript",
+    "meta": "★ 38.915 · TypeScript",
     "image": "/assets/discover/og/copilotkit.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -8500,7 +8500,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 38854,
+    "stars": 38915,
     "lite": false,
     "headline": "Uygulamalarınız için yapay zekâ arayüzleri",
     "last_review": "2026-11-23",
@@ -8833,6 +8833,13 @@
         "onceki_yildiz": 38799,
         "surum": "v1.90.0",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 38915,
+        "onceki_yildiz": 38854,
+        "surum": "v1.90.1",
+        "surum_tarihi": "2026-11-23"
       }
     ],
     "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.",
@@ -9444,7 +9451,7 @@
     "tagline_pt": "NGINX é um repositório de código-fonte aberto, um servidor web de alto desempenho e proxy reverso, baseado na linguagem C.",
     "tagline_es": "NGINX es un repositorio de código fuente abierto, un servidor web de alto rendimiento y proxy inverso, basado en el lenguaje C.",
     "tagline_de": "NGINX ist ein Open-Source-Code-Repository, ein Hochleistungs-Webserver und Reverse-Proxy, basierend auf der C-Sprache.",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "cmds": {
       "kurulum": [
         {
@@ -19760,7 +19767,7 @@
     "tagline_pt": "Firecrawl é uma ferramenta para rastrear e extrair dados de sites em grande escala e gerar texto limpo que modelos de inteligência artificial podem processar.",
     "tagline_es": "Firecrawl es una herramienta para rastrear y extraer datos de sitios web a escala y generar texto limpio que los modelos de inteligencia artificial puedan procesar.",
     "tagline_de": "Firecrawl ist ein Tool zum Crawlen und Extrahieren von Daten aus Websites in großem Maßstab und zum Generieren von sauberem Text, den Modelle der künstlichen Intelligenz verarbeiten können.",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "cmds": {
       "kurulum": [
         {
@@ -25687,7 +25694,7 @@
     "slug": "marketingskills",
     "title": "Marketingskills",
     "tagline": "Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin…",
-    "meta": "★ 61.560 · JavaScript",
+    "meta": "★ 62.236 · JavaScript",
     "image": "/assets/discover/og/marketingskills.webp",
     "source": "GitHub",
     "date": "2026-07-06",
@@ -25695,7 +25702,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 61560,
+    "stars": 62236,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza pazarlama becerileri kazandırın",
     "last_review": "2026-11-23",
@@ -25888,6 +25895,13 @@
         "onceki_yildiz": 61223,
         "surum": "v2.14.25",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 62236,
+        "onceki_yildiz": 61560,
+        "surum": "v2.14.28",
+        "surum_tarihi": "2026-11-23"
       }
     ],
     "tagline_en": "Claude Code and the marketingskills library developed for artificial intelligence agents, conversion rate optimization (CRO), text…",
@@ -28243,7 +28257,7 @@
     "tagline_pt": "Desenvolvido pelo Google Labs, Stitch Skills é um agente projetado para funcionar com o servidor Stitch MCP.",
     "tagline_es": "Desarrollado por Google Labs, Stitch Skills es un agente diseñado para trabajar con el servidor Stitch MCP.",
     "tagline_de": "Stitch Skills wurde von Google Labs entwickelt und ist ein Agent, der für die Zusammenarbeit mit dem Stitch MCP-Server entwickelt wurde.",
-    "last_seen": "2026-11-22"
+    "last_seen": "2026-11-23"
   },
   {
     "slug": "terraform",
@@ -28655,14 +28669,14 @@
     "slug": "core",
     "title": "Core",
     "tagline": "Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur.",
-    "meta": "★ 92.306 · Python",
+    "meta": "★ 92.467 · Python",
     "image": "/assets/discover/og/core.webp",
     "source": "GitHub",
     "date": "2026-07-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 92306,
+    "stars": 92467,
     "lite": false,
     "headline": "Yerel kontrollü ev otomasyonu platformu",
     "last_review": "2026-11-23",
@@ -28792,6 +28806,13 @@
         "onceki_yildiz": 92117,
         "surum": "2026.11.2",
         "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 92467,
+        "onceki_yildiz": 92306,
+        "surum": "2026.11.3",
+        "surum_tarihi": "2026-11-23"
       }
     ],
     "tagline_en": "Home Assistant is an open source home automation platform that prioritizes local control and privacy.",
@@ -44133,7 +44154,7 @@
         "onceki_yildiz": 64430
       }
     ],
-    "last_seen": "2026-11-22"
+    "last_seen": "2026-11-23"
   },
   {
     "slug": "macro",
@@ -46092,7 +46113,7 @@
         "surum_tarihi": "2026-06-25"
       }
     ],
-    "last_seen": "2026-11-22"
+    "last_seen": "2026-11-23"
   },
   {
     "slug": "omarchy",
@@ -48015,14 +48036,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 82.318 · TypeScript",
+    "meta": "★ 82.323 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 82318,
+    "stars": 82323,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-11-23",
@@ -48452,6 +48473,13 @@
         "yildiz": 82318,
         "onceki_yildiz": 82173,
         "surum": "v3.80.2",
+        "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 82323,
+        "onceki_yildiz": 82318,
+        "surum": "v3.80.4",
         "surum_tarihi": "2026-11-23"
       }
     ],
@@ -52967,7 +52995,7 @@
     "tagline_pt": "MiniMind é um projeto Python de código aberto que permite treinar do zero um grande modelo de linguagem com 64 milhões de parâmetros em cerca de duas horas.",
     "tagline_es": "MiniMind es un proyecto Python de código abierto que permite entrenar un modelo de lenguaje grande con 64 millones de parámetros desde cero en aproximadamente dos horas.",
     "tagline_de": "MiniMind ist ein Open-Source-Python-Projekt, das das Training eines großen Sprachmodells mit 64 Millionen Parametern von Grund auf in etwa zwei Stunden ermöglicht.",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "headline": "Sıfırdan iki saatte eğitilen 64M parametreli dil modeli",
     "cmds": {
       "kurulum": [
@@ -59758,7 +59786,7 @@
     "tagline_pt": "AutoClip é uma ferramenta de edição de vídeo que detecta e corta automaticamente momentos importantes de vídeos longos usando inteligência artificial.",
     "tagline_es": "AutoClip es una herramienta de edición de video que detecta y corta automáticamente momentos importantes de videos largos utilizando inteligencia artificial.",
     "tagline_de": "AutoClip ist ein Videobearbeitungstool, das mithilfe künstlicher Intelligenz wichtige Momente aus langen Videos automatisch erkennt und ausschneidet.",
-    "last_seen": "2026-11-22"
+    "last_seen": "2026-11-23"
   },
   {
     "slug": "univer",
@@ -65292,14 +65320,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.659 · Go",
+    "meta": "★ 3.661 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3659,
+    "stars": 3661,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -65500,6 +65528,13 @@
         "yildiz": 3659,
         "onceki_yildiz": 3624,
         "surum": "deploy-20261123-1432",
+        "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 3661,
+        "onceki_yildiz": 3659,
+        "surum": "backend-v0.1.5",
         "surum_tarihi": "2026-11-23"
       }
     ],
@@ -69391,7 +69426,7 @@
       "Geliştirici aracı"
     ],
     "stars": 19451,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.",
     "lite": false,
     "headline": "Yapay zekâ destekli hata avcılığı yetenek paketi",
@@ -69464,7 +69499,7 @@
     "slug": "skillevaluator",
     "title": "SkillEvaluator",
     "tagline": "NVIDIA tarafından geliştirilen SkillEvaluator, yapay zekâ ajanlarının yeteneklerini kalite kontrolü, anlamsal çakışma tespiti…",
-    "meta": "★ 4.448 · Python",
+    "meta": "★ 4.449 · Python",
     "image": "/assets/discover/og/skillevaluator.webp",
     "source": "GitHub",
     "date": "2026-11-16",
@@ -69472,7 +69507,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4448,
+    "stars": 4449,
     "last_seen": "2026-11-19",
     "summary": "NVIDIA tarafından geliştirilen SkillEvaluator, yapay zekâ ajanlarının yeteneklerini kalite kontrolü, anlamsal çakışma tespiti ve sentetik veri üretimi gibi yöntemlerle değerlendiren çok katmanlı bir çerçeve (framework). Bu araç, ajanların davranışları üzerindeki etkileri ölçmek amacıyla canlı değerlendirme süreçleri sunuyor.",
     "lite": false,
@@ -69506,6 +69541,13 @@
         "onceki_yildiz": 3655,
         "surum": "v1.1.0",
         "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 4449,
+        "onceki_yildiz": 4448,
+        "surum": "v1.0.1",
+        "surum_tarihi": "2026-11-18"
       }
     ],
     "tagline_en": "SkillEvaluator, developed by NVIDIA, for quality control of artificial intelligence agents' capabilities, semantic conflict detection...",
@@ -69648,7 +69690,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 9.553 · Python",
+    "meta": "★ 10.182 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -69656,7 +69698,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9553,
+    "stars": 10182,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -69732,6 +69774,13 @@
         "onceki_yildiz": 9446,
         "surum": "v4.7.0",
         "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-23",
+        "yildiz": 10182,
+        "onceki_yildiz": 9553,
+        "surum": "v4.7.1",
+        "surum_tarihi": "2026-11-23"
       }
     ],
     "tagline_en": "kajisho5/ffmpeg-skill is a Python project that provides local video editing tools for coding agents.",
@@ -69842,7 +69891,7 @@
       "Geliştirici aracı"
     ],
     "stars": 11388,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "OpenVINO, yapay zekâ modellerinin çıkarım (inference) süreçlerini optimize etmek ve dağıtmak için kullanılan açık kaynaklı (open source) bir araç takımıdır. C++ diliyle geliştirilen bu platform, modellerin farklı donanımlar üzerinde daha verimli çalışmasını sağlar.",
     "lite": false,
     "headline": "Yapay zekâ modellerine yüksek performans",
@@ -69945,7 +69994,7 @@
       "Geliştirici aracı"
     ],
     "stars": 4775,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını içeren açık bir rehber sunuyor. Yasal düzenleme takipleri ve gizlilik bildirimleri gibi araçlarla geliştiricilerin App Store ve Google Play onay süreçlerini kolaylaştırmayı hedefliyor.",
     "lite": false,
     "headline": "Uygulama mağazası retlerini önleme rehberi",
@@ -70006,7 +70055,7 @@
       "Geliştirici aracı"
     ],
     "stars": 14742,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "Tracer-Cloud/opensre, yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçler (CI/CD) için geliştirilmiş açık kaynaklı (open source) bir yapay zekâ ajanıdır. Kurulumu sırasında yönetici yetkisi gerektirmeyen bu araç, sistem güvenilirliğini artırmayı amaçlar.",
     "lite": false,
     "headline": "Yapay zekâ ile test süreçlerini hızlandırma",
@@ -70059,7 +70108,7 @@
       "Geliştirici aracı"
     ],
     "stars": 75294,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "AFFiNE, planlama, düzenleme ve içerik oluşturma süreçlerini tek bir platformda birleştiren yeni nesil bir bilgi tabanıdır. Gizlilik odaklı ve açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bu yazılım, Notion ve Miro gibi araçlara alternatif bir çalışma alanı sunar.",
     "lite": false,
     "headline": "Açık kaynak not alma ve çizim alanı",
@@ -70093,7 +70142,7 @@
       "Geliştirici aracı"
     ],
     "stars": 16177,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "summary": "XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir dosya indirme aracıdır. Python diliyle geliştirilen bu proje, eklenti tabanlı özellik paketleri (feature packs) sayesinde işlevselliğini genişletebilen bir yapı sunar.",
     "lite": false,
     "headline": "Gelişmiş dosya indirme yöneticisi",

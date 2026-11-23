@@ -2,16 +2,16 @@
 
 Home Assistant ist eine Open-Source-Hausautomationsplattform, die lokale Kontrolle und Privatsphäre in den Vordergrund stellt. Dieses mit der Python-Sprache entwickelte System ermöglicht es Benutzern, ihre Smart-Geräte über ein zentrales Netzwerk zu verwalten.
 
-- ★ 92.306
+- ★ 92.467
 - Python
 - GitHub Trending · 2026-07-12
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 92,306 → 92,467, neueste Version 2026.11.3 (23. November 2026).
 - **17. November 2026:** Sterne 92,117 → 92,306, neueste Version 2026.11.2 (16. November 2026).
 - **10. November 2026:** Sterne 91,982 → 92,117, neueste Version 2026.11.1 (9. November 2026).
 - **5. November 2026:** Sterne 91,710 → 91,982, neueste Version 2026.11.0 (4. November 2026).
-- **25. Oktober 2026:** Sterne 91,686 → 91,710, neueste Version 2026.10.4 (24. Oktober 2026).
 
 ## Was es bringt
 

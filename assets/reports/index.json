@@ -4,6 +4,23 @@
  "updated": "2026-11-23",
  "reports": [
   {
+   "date": "2026-11-23",
+   "daily": {
+    "tr": {
+     "json": "https://trescout.com/reports/trescout-rapor-2026-11-23.json",
+     "pdf": "https://trescout.com/reports/trescout-rapor-2026-11-23.pdf",
+     "page": "https://trescout.com/reports/2026-11-23/"
+    }
+   },
+   "noRepeat": {
+    "tr": {
+     "json": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-11-23.json",
+     "pdf": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-11-23.pdf",
+     "page": "https://trescout.com/reports/tekrarsiz/2026-11-23/"
+    }
+   }
+  },
+  {
    "date": "2026-11-22",
    "daily": {
     "tr": {
