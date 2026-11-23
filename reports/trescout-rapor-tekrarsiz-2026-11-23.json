@@ -1,0 +1,359 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-23",
+  "capturedAt": "2026-11-23T20:40:38.955Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "summary": "Nvidia yönetim kurulu, Jensen Huang'ı tekrar icra kurulu başkanı (CEO) olarak görevlendirdi. Şirket, bu kararla birlikte üst yönetim yapısında değişikliğe gitti.",
+          "meta": "1.488 oy · 2.613 yorum",
+          "snapshot": {
+            "sourceId": "50611576",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 1488,
+              "engagementCount": 2613,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50611576",
+                  "popularity": 1488,
+                  "engagementCount": 2613
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-23T14:00:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50611576"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50611576",
+              "popularity": 1488,
+              "engagementCount": 2613
+            }
+          ]
+        },
+        {
+          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "summary": "",
+          "meta": "928 oy · 315 yorum",
+          "snapshot": {
+            "sourceId": "50609685",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 928,
+              "engagementCount": 315,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50609685",
+                  "popularity": 928,
+                  "engagementCount": 315
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-23T10:06:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50609685"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50609685",
+              "popularity": 928,
+              "engagementCount": 315
+            }
+          ]
+        },
+        {
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/",
+          "summary": "",
+          "meta": "905 oy · 250 yorum",
+          "snapshot": {
+            "sourceId": "50614249",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 905,
+              "engagementCount": 250,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50614249",
+                  "popularity": 905,
+                  "engagementCount": 250
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-23T16:13:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50614249",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Alpha builds of Ladybird are available today for macOS and Linux. They're for early adopters who don't mind bugs and want to help by reporting them."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50614249",
+              "popularity": 905,
+              "engagementCount": 250
+            }
+          ]
+        },
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://spelunkr.tv/",
+          "summary": "",
+          "meta": "873 oy · 152 yorum",
+          "snapshot": {
+            "sourceId": "50606192",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 873,
+              "engagementCount": 152,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50606192",
+                  "popularity": 873,
+                  "engagementCount": 152
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-23T01:13:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50606192",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "24/7 synchronized channels of forgotten Internet Archive video. Like cable TV, but weirder."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50606192",
+              "popularity": 873,
+              "engagementCount": 152
+            }
+          ]
+        },
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "summary": "Kişisel bilgisayarlarda yerel yapay zekâ kurulumu için Inkling, Qwen ve Unsloth araçlarını kullanan bir rehber yayımlandı. Bu yöntem, kullanıcıların kendi özel yapay zekâ sistemlerini ücretsiz ve gizlilik odaklı bir şekilde oluşturmalarına olanak tanıyor.",
+          "meta": "715 oy · 288 yorum",
+          "snapshot": {
+            "sourceId": "50603845",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 288,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50603845",
+                  "popularity": 715,
+                  "engagementCount": 288
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-22T21:01:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50603845",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50603845",
+              "popularity": 715,
+              "engagementCount": 288
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "summary": "",
+          "meta": "♥ 634 · 329.497 indirme",
+          "snapshot": {
+            "sourceId": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 634,
+              "engagementCount": 329497,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 375.2,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "llama.cpp",
+                  "inkling2",
+                  "uncensored",
+                  "lora",
+                  "image-text-to-text",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE in this repo). It comes as a LoRA adapter for any GGUF of AtomicChat/Inkling-2-Mini-GGUF and as three ready-made GGUF files with the edit baked in. Every gate we hold it to is measured below, and the two it misses are shown."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+          "url": "https://huggingface.co/papers/2611.26954",
+          "summary": "",
+          "meta": "16 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26954",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26954",
+                "publishedAt": "2026-11-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/Jingchensun/future-opsd",
+                "githubStars": 8
+              }
+            },
+            "description": "Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scalability. We address this with an on-policy self-distillation framework that turns past-future video pairs into a natural self-supervised signal without extra annotations or LLM sup"
+          }
+        },
+        {
+          "title": "Autoregressive View Model",
+          "url": "https://huggingface.co/papers/2611.23417",
+          "summary": "",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.23417",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.23417",
+                "publishedAt": "2026-11-17T00:00:00.000Z"
+              }
+            },
+            "description": "We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context grounds reconstruction and interpolation, while a learned prior enables extrapolation into unseen regions. AVM retrieves relevant views from inputs and generated history to form a bounded active context. We fin"
+          }
+        },
+        {
+          "title": "Search From the Start: Search-Native Pretraining for Language Models",
+          "url": "https://huggingface.co/papers/2611.26809",
+          "summary": "",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26809",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26809",
+                "publishedAt": "2026-11-19T00:00:00.000Z"
+              }
+            },
+            "description": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment pretraining corpus at scale with web-search queries and retrieve web response using a local index. Traini"
+          }
+        },
+        {
+          "title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
+          "url": "https://huggingface.co/papers/2611.27398",
+          "summary": "",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.27398",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.27398",
+                "publishedAt": "2026-11-20T10:03:29.000Z"
+              }
+            },
+            "description": "We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tracking objects through transformations, identifying new entities, maintaining a state graph of their relationships, and assigning semantic labels to transformations. While foundation models (e.g., SAM 2/3) maintain tracklets through appearance changes, they cannot update semantic identities as object"
+          }
+        },
+        {
+          "title": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence",
+          "url": "https://huggingface.co/papers/2611.22479",
+          "summary": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence makalesi, güvenlik açıklarının yaşam döngüsü boyunca ortaya çıkan kanıtları izlemek için Vulnerability-Lookup adlı bir model sunuyor. Çalışma, bilinen güvenlik açığı katalogları ve istismar kayıtlarını analiz ederek, yamaların yayınlanması ile istismar edilme süreçleri arasındaki zaman çizelgesini şeffaf bir şekilde belgelemeyi hedefliyor.",
+          "meta": "3 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2611.22479",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.22479",
+                "publishedAt": "2026-11-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/vulnerability-lookup/exploitation-patch-timeline-paper",
+                "githubStars": 2
+              }
+            },
+            "description": "-05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings. We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, and ensures traceability to original sources. Among 3,758 vulnerability identifiers with exploitation evidence, 98% have disclosure dates, while only 15.7% have patch evidence. Vendor-side dates required by VTEM a"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [],
+  "githubStale": true
+}

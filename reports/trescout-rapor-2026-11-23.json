@@ -1,0 +1,854 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-23",
+  "capturedAt": "2026-11-23T20:40:38.955Z",
+  "editorial": "Yazılım geliştirme süreçlerinde hata ayıklama (debugging) araçları ve döngüsel dönüştürücü (loop transformer) mimarileri bugün teknoloji gündeminin merkezinde yer alıyor. Özellikle kodlama yeteneklerini genelleştiren yeni modeller ve video tahminleme üzerine odaklanan akademik çalışmalar, yapay zekâ geliştirme ekosistemindeki teknik derinliğin arttığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter, hata ayıklama (bug hunting) ve sızma testleri (red-team work) için geliştirilmiş bir Claude Code yetenek paketidir. İçerisinde 82 farklı yetenek, 15 eğik çizgi komutu (slash command) ve 24 güvenlik açığı sınıfına ayrılmış 681 rapor deseni barındırır.",
+          "meta": "Python · ★ 19.547 · +2.037 bugün",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 19547,
+              "engagementCount": 2037,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2037
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers, kod yazan yapay zekâ ajanları için oluşturulmuş bir yetenek çerçevesi (framework) ve yazılım geliştirme metodolojisidir. Birleştirilebilir yetenekler ve yönlendirme talimatları aracılığıyla ajanların yazılım geliştirme süreçlerinde daha etkili çalışmasını hedefler.",
+          "meta": "Shell · ★ 324.946 · +838 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 324946,
+              "engagementCount": 838,
+              "rank": 2,
+              "extra": {
+                "starsToday": 838,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, çeşitli yazılımları yapay zekâ ajanlarının kullanımına hazır hale getiren bir komut satırı arayüzü aracıdır. Pi, OpenClaw, nanobot, kod düzenleyici Cursor ve Claude Code gibi farklı yapay zekâ sistemleriyle uyumlu çalışmayı hedefler.",
+          "meta": "Python · ★ 63.498 · +783 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 63498,
+              "engagementCount": 783,
+              "rank": 3,
+              "extra": {
+                "starsToday": 783,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "",
+          "meta": "Python · ★ 69.388 · +828 bugün",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69388,
+              "engagementCount": 828,
+              "rank": 4,
+              "extra": {
+                "starsToday": 828,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. MiniMind 以 Apache 2.0 协议完全开源、永久免费。赞助完全自愿，不换取任何特权，也不影响项目使用。感谢每一位支持者，让这个业余时间维护的项目得以持续。"
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "",
+          "meta": "TypeScript · ★ 18.766 · +395 bugün",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18766,
+              "engagementCount": 395,
+              "rank": 5,
+              "extra": {
+                "starsToday": 395
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "",
+          "meta": "TypeScript · ★ 207.787 · +920 bugün",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 207787,
+              "engagementCount": 920,
+              "rank": 6,
+              "extra": {
+                "starsToday": 920,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "",
+          "meta": "C · ★ 33.028 · +174 bugün",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 33028,
+              "engagementCount": 174,
+              "rank": 7,
+              "extra": {
+                "starsToday": 174,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO, yapay zekâ modellerinin çıkarım (inference) süreçlerini optimize etmek ve dağıtmak için geliştirilen açık kaynaklı (open source) bir araç setidir. C++ diliyle yazılan bu proje, modellerin farklı donanımlar üzerinde daha verimli çalışmasını sağlar.",
+          "meta": "C++ · ★ 12.261 · +183 bugün",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 12261,
+              "engagementCount": 183,
+              "rank": 8,
+              "extra": {
+                "starsToday": 183,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "",
+          "meta": "HTML · ★ 70.884 · +624 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 70884,
+              "engagementCount": 624,
+              "rank": 9,
+              "extra": {
+                "starsToday": 624
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill, Reddit, X, YouTube, Hacker News, Polymarket ve web genelinde araştırma yaparak konuları özetleyen bir yapay zekâ ajanı yeteneğidir (skill). Python diliyle geliştirilen bu araç, farklı platformlardan topladığı verileri sentezleyerek kullanıcıya dayanaklı bir özet sunar.",
+          "meta": "Python · ★ 73.368 · +790 bugün",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 73368,
+              "engagementCount": 790,
+              "rank": 10,
+              "extra": {
+                "starsToday": 790
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Google Labs tarafından geliştirilen stitch-skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Bu kütüphane, Antigravity, Gemini CLI, Claude Code ve kod düzenleme aracı Cursor gibi yazılımlarla uyumluluk sağlamak için açık standartları takip eder.",
+          "meta": "TypeScript · ★ 12.227 · +425 bugün",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12227,
+              "engagementCount": 425,
+              "rank": 11,
+              "extra": {
+                "starsToday": 425
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          },
+          "streakDays": 8
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance, geliştiricilerin Apple App Store ve Google Play mağazalarındaki yaygın reddedilme sebeplerinden kaçınmalarına yardımcı olan açık kaynaklı bir rehberdir. Proje, 124 farklı ret modeline yönelik çözüm önerileri, yasal uyumluluk takipleri ve yapay zekâ kodlama ajanları için özel yetenekler içerir.",
+          "meta": "Shell · ★ 4.842 · +755 bugün",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 4842,
+              "engagementCount": 755,
+              "rank": 12,
+              "extra": {
+                "starsToday": 755
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "",
+          "meta": "Python · ★ 14.764 · +438 bugün",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14764,
+              "engagementCount": 438,
+              "rank": 13,
+              "extra": {
+                "starsToday": 438,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "",
+          "meta": "TypeScript · ★ 77.311 · +593 bugün",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 77311,
+              "engagementCount": 593,
+              "rank": 14,
+              "extra": {
+                "starsToday": 593
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "",
+          "meta": "Python · ★ 16.219 · +1.078 bugün",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16219,
+              "engagementCount": 1078,
+              "rank": 15,
+              "extra": {
+                "starsToday": 1078,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip, uzun videoları otomatik olarak kısa kliplere dönüştüren açık kaynaklı (open source) bir masaüstü video düzenleme aracıdır. Yazılım, videolar için altyazı ve kapak görseli oluşturmanın yanı sıra sosyal medya platformları için paylaşım metinleri de hazırlar.",
+          "meta": "Python · ★ 14.326 · +908 bugün",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-23T20:55:40.967Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14326,
+              "engagementCount": 908,
+              "rank": 16,
+              "extra": {
+                "starsToday": 908
+              }
+            },
+            "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+          },
+          "streakDays": 4
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "summary": "Nvidia yönetim kurulu, Jensen Huang'ı tekrar icra kurulu başkanı (CEO) olarak görevlendirdi. Şirket, bu kararla birlikte üst yönetim yapısında değişikliğe gitti.",
+          "meta": "1.488 oy · 2.613 yorum",
+          "snapshot": {
+            "sourceId": "50611576",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 1488,
+              "engagementCount": 2613,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50611576",
+                  "popularity": 1488,
+                  "engagementCount": 2613
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-23T14:00:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50611576"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50611576",
+              "popularity": 1488,
+              "engagementCount": 2613
+            }
+          ]
+        },
+        {
+          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "summary": "",
+          "meta": "928 oy · 315 yorum",
+          "snapshot": {
+            "sourceId": "50609685",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 928,
+              "engagementCount": 315,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50609685",
+                  "popularity": 928,
+                  "engagementCount": 315
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-23T10:06:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50609685"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50609685",
+              "popularity": 928,
+              "engagementCount": 315
+            }
+          ]
+        },
+        {
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/",
+          "summary": "",
+          "meta": "905 oy · 250 yorum",
+          "snapshot": {
+            "sourceId": "50614249",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 905,
+              "engagementCount": 250,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50614249",
+                  "popularity": 905,
+                  "engagementCount": 250
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-23T16:13:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50614249",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Alpha builds of Ladybird are available today for macOS and Linux. They're for early adopters who don't mind bugs and want to help by reporting them."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50614249",
+              "popularity": 905,
+              "engagementCount": 250
+            }
+          ]
+        },
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://spelunkr.tv/",
+          "summary": "",
+          "meta": "873 oy · 152 yorum",
+          "snapshot": {
+            "sourceId": "50606192",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 873,
+              "engagementCount": 152,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50606192",
+                  "popularity": 873,
+                  "engagementCount": 152
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-23T01:13:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50606192",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "24/7 synchronized channels of forgotten Internet Archive video. Like cable TV, but weirder."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50606192",
+              "popularity": 873,
+              "engagementCount": 152
+            }
+          ]
+        },
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "summary": "Kişisel bilgisayarlarda yerel yapay zekâ kurulumu için Inkling, Qwen ve Unsloth araçlarını kullanan bir rehber yayımlandı. Bu yöntem, kullanıcıların kendi özel yapay zekâ sistemlerini ücretsiz ve gizlilik odaklı bir şekilde oluşturmalarına olanak tanıyor.",
+          "meta": "715 oy · 288 yorum",
+          "snapshot": {
+            "sourceId": "50603845",
+            "capturedAt": "2026-11-23T20:40:39.358Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 288,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50603845",
+                  "popularity": 715,
+                  "engagementCount": 288
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-22T21:01:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50603845",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50603845",
+              "popularity": 715,
+              "engagementCount": 288
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "",
+          "meta": "♥ 5.440 · 41.888 indirme",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 5440,
+              "engagementCount": 41888,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1098.5,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "",
+          "meta": "♥ 1.084 · 1.292.888 indirme",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 1084,
+              "engagementCount": 1292888,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 954,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. You can also train Inkling 2 via the latest version of Unsloth or run via llama.cpp. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "inworld/voice-isolator",
+          "url": "https://huggingface.co/inworld/voice-isolator",
+          "summary": "",
+          "meta": "♥ 723 · 0 indirme",
+          "snapshot": {
+            "sourceId": "inworld/voice-isolator",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 723,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 547,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "inworld-voice-isolation",
+                  "audio",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-denoising",
+                  "noise-suppression",
+                  "voice-isolation",
+                  "48khz",
+                  "full-band",
+                  "streaming",
+                  "realtime",
+                  "audio-to-audio",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Inworld Voice Isolator v1 ships as two models that share one architecture:"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "summary": "",
+          "meta": "♥ 634 · 329.497 indirme",
+          "snapshot": {
+            "sourceId": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 634,
+              "engagementCount": 329497,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 375.2,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "llama.cpp",
+                  "inkling2",
+                  "uncensored",
+                  "lora",
+                  "image-text-to-text",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE in this repo). It comes as a LoRA adapter for any GGUF of AtomicChat/Inkling-2-Mini-GGUF and as three ready-made GGUF files with the edit baked in. Every gate we hold it to is measured below, and the two it misses are shown."
+          }
+        },
+        {
+          "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "summary": "",
+          "meta": "♥ 1.030 · 3.132 indirme",
+          "snapshot": {
+            "sourceId": "harness-hub/Qwen3.8-27B-pi-adapted",
+            "capturedAt": "2026-11-23T20:40:39.089Z",
+            "metadata": {
+              "popularity": 1030,
+              "engagementCount": 3132,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 346,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "peft",
+                  "safetensors",
+                  "trl",
+                  "grpo",
+                  "async-grpo",
+                  "lora",
+                  "agents",
+                  "harbor",
+                  "openenv",
+                  "pi",
+                  "image-text-to-text",
+                  "conversational",
+                  "dataset:harness-hub/scale800-harbor",
+                  "dataset:harness-hub/harness-adapters",
+                  "dataset:harness-hub/termgrade-train-harbor",
+                  "dataset:ai-and/termgrade-environments",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the pi coding agent on software-engineering and terminal tasks."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+          "url": "https://huggingface.co/papers/2611.26954",
+          "summary": "",
+          "meta": "16 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26954",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26954",
+                "publishedAt": "2026-11-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/Jingchensun/future-opsd",
+                "githubStars": 8
+              }
+            },
+            "description": "Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scalability. We address this with an on-policy self-distillation framework that turns past-future video pairs into a natural self-supervised signal without extra annotations or LLM sup"
+          }
+        },
+        {
+          "title": "Autoregressive View Model",
+          "url": "https://huggingface.co/papers/2611.23417",
+          "summary": "",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.23417",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.23417",
+                "publishedAt": "2026-11-17T00:00:00.000Z"
+              }
+            },
+            "description": "We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context grounds reconstruction and interpolation, while a learned prior enables extrapolation into unseen regions. AVM retrieves relevant views from inputs and generated history to form a bounded active context. We fin"
+          }
+        },
+        {
+          "title": "Search From the Start: Search-Native Pretraining for Language Models",
+          "url": "https://huggingface.co/papers/2611.26809",
+          "summary": "",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26809",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26809",
+                "publishedAt": "2026-11-19T00:00:00.000Z"
+              }
+            },
+            "description": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment pretraining corpus at scale with web-search queries and retrieve web response using a local index. Traini"
+          }
+        },
+        {
+          "title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
+          "url": "https://huggingface.co/papers/2611.27398",
+          "summary": "",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.27398",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.27398",
+                "publishedAt": "2026-11-20T10:03:29.000Z"
+              }
+            },
+            "description": "We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tracking objects through transformations, identifying new entities, maintaining a state graph of their relationships, and assigning semantic labels to transformations. While foundation models (e.g., SAM 2/3) maintain tracklets through appearance changes, they cannot update semantic identities as object"
+          }
+        },
+        {
+          "title": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence",
+          "url": "https://huggingface.co/papers/2611.22479",
+          "summary": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence makalesi, güvenlik açıklarının yaşam döngüsü boyunca ortaya çıkan kanıtları izlemek için Vulnerability-Lookup adlı bir model sunuyor. Çalışma, bilinen güvenlik açığı katalogları ve istismar kayıtlarını analiz ederek, yamaların yayınlanması ile istismar edilme süreçleri arasındaki zaman çizelgesini şeffaf bir şekilde belgelemeyi hedefliyor.",
+          "meta": "3 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2611.22479",
+            "capturedAt": "2026-11-23T20:40:39.096Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.22479",
+                "publishedAt": "2026-11-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/vulnerability-lookup/exploitation-patch-timeline-paper",
+                "githubStars": 2
+              }
+            },
+            "description": "-05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings. We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, and ensures traceability to original sources. Among 3,758 vulnerability identifiers with exploitation evidence, 98% have disclosure dates, while only 15.7% have patch evidence. Vendor-side dates required by VTEM a"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}
