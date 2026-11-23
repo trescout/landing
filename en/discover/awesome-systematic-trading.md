@@ -2,12 +2,13 @@
 
 This list, which brings together libraries, strategies and educational resources in the field of systematic trading, supports Python-based financial modeling processes. It gathers the necessary tools and literature in a single center for those who want to enter the world of algorithmic trading.
 
-- ★ 14,504
+- ★ 15,545
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Updates
 
+- **November 23, 2026:** Stars 14,504 → 15,545.
 - **September 30, 2026:** Stars 13,502 → 14,504.
 - **August 19, 2026:** Stars 12,499 → 13,502.
 - **August 2, 2026:** Stars 9,886 → 12,499.

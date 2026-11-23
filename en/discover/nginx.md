@@ -2,16 +2,16 @@
 
 The NGINX open source repository continues to be developed in C as a high-performance web server and reverse proxy. The software offers a standard solution in large-scale infrastructures to manage network traffic and optimize content distribution.
 
-- ★ 32,159
+- ★ 33,021
 - C
 - GitHub Trending · 2026-06-07
 
 ## Updates
 
+- **November 23, 2026:** Stars 32,159 → 33,021, latest release release-1.31.10 (November 23, 2026).
 - **November 18, 2026:** Stars 31,928 → 32,159, latest release release-1.31.9 (November 18, 2026).
 - **October 22, 2026:** Stars 31,893 → 31,928, latest release release-1.31.8 (October 21, 2026).
 - **October 15, 2026:** Stars 31,652 → 31,893, latest release release-1.31.7 (October 14, 2026).
-- **September 16, 2026:** Stars 31,565 → 31,652, latest release release-1.31.6 (September 15, 2026).
 
 ## What you get
 

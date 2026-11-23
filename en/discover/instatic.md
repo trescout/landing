@@ -2,16 +2,16 @@
 
 Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript. It allows users to run the content management interface on their own servers with a quick installation process.
 
-- ★ 9,128
+- ★ 9,149
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Updates
 
+- **November 23, 2026:** Stars 9,128 → 9,149, latest release v0.0.23 (November 22, 2026).
 - **November 17, 2026:** Stars 8,929 → 9,128, latest release v0.0.22 (November 16, 2026).
 - **October 12, 2026:** Stars 8,609 → 8,929, latest release v0.0.21 (October 12, 2026).
 - **September 14, 2026:** Stars 8,568 → 8,609, latest release v0.0.20 (September 13, 2026).
-- **September 11, 2026:** Stars 8,368 → 8,568, latest release v0.0.19 (September 10, 2026).
 
 ## What you get
 

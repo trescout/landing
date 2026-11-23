@@ -2,12 +2,13 @@
 
 O downloader de sites, desenvolvido por AhmadIbrahiim, permite baixar todos os códigos-fonte e ativos de um site para o computador local usando Node.js. A ferramenta é usada para arquivar todo o site, incluindo arquivos JavaScript, folhas de estilo e imagens.
 
-- ★ 5.254
+- ★ 6.332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Atualizações
 
+- **23 de novembro de 2026:** Estrelas 5,254 → 6,332.
 - **27 de agosto de 2026:** Estrelas 4,223 → 5,254.
 
 ## O que você ganha

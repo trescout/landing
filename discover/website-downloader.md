@@ -2,12 +2,13 @@
 
 AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve varlıklarını (assets) yerel bilgisayara indirmeye olanak tanıyor. Araç, JavaScript dosyaları, stil sayfaları ve görseller dahil olmak üzere sitenin tamamını arşivlemek için kullanılıyor.
 
-- ★ 5.254
+- ★ 6.332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 5.254 → 6.332.
 - **27 Ağustos 2026:** Yıldız 4.223 → 5.254.
 
 ## Ne kazandırır?

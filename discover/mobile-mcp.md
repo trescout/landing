@@ -2,16 +2,16 @@
 
 Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.
 
-- ★ 10.688
+- ★ 10.826
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 10.688 → 10.826, son sürüm 1.0.19 (22 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 10.521 → 10.688, son sürüm 1.0.18 (18 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 10.236 → 10.521, son sürüm 1.0.17 (11 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 10.155 → 10.236, son sürüm 1.0.16 (2 Kasım 2026).
-- **31 Ekim 2026:** Yıldız 10.030 → 10.155, son sürüm 1.0.15 (30 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -44,8 +44,8 @@ Ao pesquisar documentos RAG, o gráfico de conhecimento mapeia as relações ló
 - [Graphify](https://trescout.com/pt/discover/graphify/)
 - [Codegraph](https://trescout.com/pt/discover/codegraph/)
 - [Understand Anything](https://trescout.com/pt/discover/understand-anything/)
-- [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
+- [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [Cognee](https://trescout.com/pt/discover/cognee/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/knowledge-graph/)

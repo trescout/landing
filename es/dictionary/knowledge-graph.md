@@ -44,8 +44,8 @@ Se llama así porque matemáticamente es una estructura de red que consta de pun
 - [Graphify](https://trescout.com/es/discover/graphify/)
 - [Codegraph](https://trescout.com/es/discover/codegraph/)
 - [Understand Anything](https://trescout.com/es/discover/understand-anything/)
-- [GitNexus](https://trescout.com/es/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/es/discover/codebase-memory-mcp/)
+- [GitNexus](https://trescout.com/es/discover/gitnexus/)
 - [Cognee](https://trescout.com/es/discover/cognee/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/knowledge-graph/)

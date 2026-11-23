@@ -70,8 +70,8 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 - [BitNet](https://trescout.com/de/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/de/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/de/discover/clone-wars/)
-- [Claude Seo](https://trescout.com/de/discover/claude-seo/)
 - [Univer](https://trescout.com/de/discover/univer/)
+- [Claude Seo](https://trescout.com/de/discover/claude-seo/)
 - [openGym](https://trescout.com/de/discover/opengym/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/clone/)

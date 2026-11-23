@@ -46,8 +46,8 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 - [Pytorch](https://trescout.com/de/discover/pytorch/)
 - [Minimind](https://trescout.com/de/discover/minimind/)
 - [Nanochat](https://trescout.com/de/discover/nanochat/)
-- [OpenMAIC](https://trescout.com/de/discover/openmaic/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
+- [OpenMAIC](https://trescout.com/de/discover/openmaic/)
 - [Llmfit](https://trescout.com/de/discover/llmfit/)
 - [Omlx](https://trescout.com/de/discover/omlx/)
 

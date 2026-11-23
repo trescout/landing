@@ -2,16 +2,16 @@
 
 Développé avec le langage Rust, tuicr est un outil de révision de code basé sur une interface utilisateur de terminal qui prend en charge les raccourcis clavier de Vim. Il permet aux développeurs de gérer leur processus de révision de code directement depuis le terminal.
 
-- ★ 3 606
+- ★ 3 652
 - Rust
 - GitHub Trending · 2026-07-31
 
 ## Mises à jour
 
+- **23 novembre 2026:** Étoiles 3,606 → 3,652, dernière version v0.30.0 (23 novembre 2026).
 - **15 novembre 2026:** Étoiles 3,463 → 3,606, dernière version v0.29.0 (14 novembre 2026).
 - **26 octobre 2026:** Étoiles 3,221 → 3,463, dernière version v0.28.0 (26 octobre 2026).
 - **27 septembre 2026:** Étoiles 3,132 → 3,221, dernière version v0.27.0 (23 septembre 2026).
-- **16 septembre 2026:** Étoiles 3,009 → 3,132, dernière version v0.26.0 (15 septembre 2026).
 
 ## Ce que ça vous apporte
 

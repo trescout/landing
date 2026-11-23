@@ -62,8 +62,8 @@ Nein; heutzutage werden Bilder (Vision Transformer), Audiodateien (Whisper), Vid
 ## Verwandte Werkzeuge
 
 - [Minimind](https://trescout.com/de/discover/minimind/)
-- [Heretic](https://trescout.com/de/discover/heretic/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
+- [Heretic](https://trescout.com/de/discover/heretic/)
 - [Train LLM from Scratch](https://trescout.com/de/discover/train-llm-from-scratch/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/transformer/)

@@ -2,12 +2,13 @@
 
 Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des systematischen Handels zusammenfasst, unterstützt Python-basierte Finanzmodellierungsprozesse. Es vereint die notwendigen Tools und Literatur in einem einzigen Zentrum für diejenigen, die in die Welt des algorithmischen Handels einsteigen möchten.
 
-- ★ 14.504
+- ★ 15.545
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 14,504 → 15,545.
 - **30. September 2026:** Sterne 13,502 → 14,504.
 - **19. August 2026:** Sterne 12,499 → 13,502.
 - **2. August 2026:** Sterne 9,886 → 12,499.

@@ -2,12 +2,13 @@
 
 Le téléchargeur de sites Web, développé par AhmadIbrahiim, permet de télécharger tous les codes sources et actifs d'un site Web sur l'ordinateur local à l'aide de Node.js. L'outil est utilisé pour archiver l'intégralité du site, y compris les fichiers JavaScript, les feuilles de style et les images.
 
-- ★ 5 254
+- ★ 6 332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Mises à jour
 
+- **23 novembre 2026:** Étoiles 5,254 → 6,332.
 - **27 août 2026:** Étoiles 4,223 → 5,254.
 
 ## Ce que ça vous apporte

@@ -44,8 +44,8 @@ Es wird so genannt, weil es sich mathematisch um eine Netzwerkstruktur handelt, 
 - [Graphify](https://trescout.com/de/discover/graphify/)
 - [Codegraph](https://trescout.com/de/discover/codegraph/)
 - [Understand Anything](https://trescout.com/de/discover/understand-anything/)
-- [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
+- [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [Cognee](https://trescout.com/de/discover/cognee/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/knowledge-graph/)

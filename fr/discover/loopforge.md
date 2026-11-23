@@ -2,16 +2,16 @@
 
 Développé par Tencent, LoopForge est un outil de flux de travail auto-hébergé utilisé pour gérer les processus de livraison des agents de codage. Il prend en charge les processus d'assistance au codage local en orchestrant des logiciels tels que CodeBuddy, Codex et Claude Code avec des scripts et des mécanismes d'approbation humaine.
 
-- ★ 5 104
+- ★ 5 859
 - Go
 - GitHub Trending · 2026-11-15
 
 ## Mises à jour
 
+- **23 novembre 2026:** Étoiles 5,104 → 5,859, dernière version v0.4.2 (23 novembre 2026).
 - **20 novembre 2026:** Étoiles 3,785 → 5,104, dernière version v0.4.0 (17 novembre 2026).
 - **18 novembre 2026:** Étoiles 2,090 → 3,785, dernière version v0.4.0 (17 novembre 2026).
 - **16 novembre 2026:** Étoiles 986 → 2,090, dernière version v0.3.8 (12 novembre 2026).
-- **15 novembre 2026:** Étoiles 983 → 986, dernière version v0.3.8 (12 novembre 2026).
 
 ## Ce que ça vous apporte
 

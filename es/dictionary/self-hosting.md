@@ -41,8 +41,8 @@ Sí, requiere conocimientos básicos de administración de servidores y redes.
 ## Herramientas relacionadas
 
 - [N8n](https://trescout.com/es/discover/n8n/)
-- [Plane](https://trescout.com/es/discover/plane/)
 - [Penpot](https://trescout.com/es/discover/penpot/)
+- [Plane](https://trescout.com/es/discover/plane/)
 - [Twenty](https://trescout.com/es/discover/twenty/)
 - [Self-Hosting-Guide](https://trescout.com/es/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/es/discover/openstock/)

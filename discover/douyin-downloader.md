@@ -2,16 +2,16 @@
 
 Python tabanlı Douyin indiricisi, sosyal medya platformu Douyin üzerindeki videoları, fotoğraf albümlerini ve müzikleri filigransız şekilde bilgisayara kaydetmeye yarayan bir araçtır. Yazılım, toplu indirme desteği, SQLite tabanlı mükerrer kayıt engelleme ve tarayıcı yedekleme özellikleri ile içerik arşivleme sürecini otomatikleştirir.
 
-- ★ 12.644
+- ★ 12.661
 - Python
 - GitHub Trending · 2026-09-14
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 12.644 → 12.661, son sürüm desktop-v0.15.3 (22 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 12.636 → 12.644, son sürüm desktop-v0.15.1 (21 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 12.623 → 12.636, son sürüm desktop-v0.15.0 (19 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 12.620 → 12.623, son sürüm desktop-v0.14.0 (17 Kasım 2026).
-- **16 Kasım 2026:** Yıldız 12.607 → 12.620, son sürüm desktop-v0.13.2 (15 Kasım 2026).
 
 ## Ne kazandırır?
 

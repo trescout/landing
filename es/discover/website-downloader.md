@@ -2,12 +2,13 @@
 
 El descargador de sitios web, desarrollado por AhmadIbrahiim, permite descargar todos los códigos fuente y activos de un sitio web a la computadora local usando Node.js. La herramienta se utiliza para archivar todo el sitio, incluidos archivos JavaScript, hojas de estilo e imágenes.
 
-- ★ 5.254
+- ★ 6.332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Actualizaciones
 
+- **23 de noviembre de 2026:** Estrellas 5,254 → 6,332.
 - **27 de agosto de 2026:** Estrellas 4,223 → 5,254.
 
 ## Qué aporta

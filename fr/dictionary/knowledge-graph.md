@@ -44,8 +44,8 @@ On l'appelle ainsi car il s'agit mathématiquement d'une structure de réseau co
 - [Graphify](https://trescout.com/fr/discover/graphify/)
 - [Codegraph](https://trescout.com/fr/discover/codegraph/)
 - [Understand Anything](https://trescout.com/fr/discover/understand-anything/)
-- [GitNexus](https://trescout.com/fr/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
+- [GitNexus](https://trescout.com/fr/discover/gitnexus/)
 - [Cognee](https://trescout.com/fr/discover/cognee/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/knowledge-graph/)

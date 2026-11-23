@@ -2,15 +2,15 @@
 
 Treg ist eine Routing-Schicht, mit der für KI-Agenten entwickelte Tools (Agent Tools) über eine einzige Benutzeroberfläche verwaltet werden können. Durch den Aufbau einer Standardbrücke zwischen verschiedenen Sprachmodellen und Tools ermöglicht es Entwicklern, agentenbasierte Arbeitsabläufe ganz einfach über OpenRouter zu integrieren.
 
-- ★ 7.738
+- ★ 8.802
 - GitHub Trending · 2026-09-23
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 7,738 → 8,802.
 - **10. November 2026:** Sterne 6,720 → 7,738.
 - **31. Oktober 2026:** Sterne 5,646 → 6,720.
 - **17. Oktober 2026:** Sterne 4,625 → 5,646.
-- **7. Oktober 2026:** Sterne 3,272 → 4,625.
 
 ## Was es bringt
 

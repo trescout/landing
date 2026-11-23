@@ -2,16 +2,16 @@
 
 Organisiert Forschungsinhalte als Quellen- und Anspruchsbücher, verlinkte Seiten und Wissenskarten. Genehmigte Änderungen werden von einem Orchestrator in rückrollbaren Transaktionen angewendet.
 
-- ★ 15.713
+- ★ 16.714
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 15,713 → 16,714, neueste Version v3.0.1 (21. Oktober 2026).
 - **22. Oktober 2026:** Sterne 14,822 → 15,713, neueste Version v3.0.1 (21. Oktober 2026).
 - **11. September 2026:** Sterne 14,727 → 14,822, neueste Version v2.2.0 (10. September 2026).
 - **8. September 2026:** Sterne 13,706 → 14,727, neueste Version v2.1.1 (25. August 2026).
-- **27. August 2026:** Sterne 12,404 → 13,706, neueste Version v2.1.1 (25. August 2026).
 
 ## Installation
 

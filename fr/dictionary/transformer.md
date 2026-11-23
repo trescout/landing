@@ -62,8 +62,8 @@ Non ; aujourd'hui, les images (Vision Transformer), les fichiers audio (Whisper)
 ## Outils liés
 
 - [Minimind](https://trescout.com/fr/discover/minimind/)
-- [Heretic](https://trescout.com/fr/discover/heretic/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
+- [Heretic](https://trescout.com/fr/discover/heretic/)
 - [Train LLM from Scratch](https://trescout.com/fr/discover/train-llm-from-scratch/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/transformer/)

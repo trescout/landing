@@ -2,7 +2,7 @@
 
 Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.
 
-- ★ 65.040
+- ★ 67.482
 - GitHub Trending · 2026-08-09
 
 ## Kurulum
@@ -28,6 +28,10 @@ cd ladybird
 ```
 
 **Kaynak:** Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
+
+## Güncelleme
+
+- **23 Kasım 2026:** Yıldız 65.040 → 67.482, son sürüm 2026.47.7 (23 Kasım 2026).
 
 ## Bu araç ne yapar?
 

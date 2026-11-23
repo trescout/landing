@@ -2,16 +2,16 @@
 
 Camofox, yapay zekâ ajanlarının bot algılama sistemlerini ve veri kazıma engellerini aşmasını sağlayan gizli bir tarayıcıdır (stealth headless browser). Tarayıcı otomasyon araçları Puppeteer ve Playwright ile doğrudan uyumlu çalışarak bu kütüphanelere alternatif bir çözüm sunar.
 
-- ★ 12.230
+- ★ 12.467
 - JavaScript
 - GitHub Trending · 2026-09-08
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 12.230 → 12.467, son sürüm camoufox-backup-454829964 (23 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 12.109 → 12.230, son sürüm v1.19.0 (10 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 11.460 → 12.109, son sürüm camoufox-backup-428447379 (2 Kasım 2026).
 - **7 Ekim 2026:** Yıldız 11.433 → 11.460, son sürüm camoufox-backup-404310733 (7 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 11.411 → 11.433, son sürüm v1.18.1 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

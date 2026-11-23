@@ -2,12 +2,13 @@
 
 The system_prompts_leaks repository shared on GitHub brings together system prompts of artificial intelligence models of major technology companies such as Anthropic, OpenAI, Google and xAI. This collection provides a central resource for developers who want to examine the background configuration instructions and constraints of popular language models.
 
-- ★ 68,956
+- ★ 72,507
 - JavaScript
 - GitHub Trending · 2026-06-22
 
 ## Updates
 
+- **November 23, 2026:** Stars 68,956 → 72,507.
 - **October 5, 2026:** Stars 65,657 → 68,956.
 - **September 13, 2026:** Stars 61,968 → 65,657.
 - **August 2, 2026:** Stars 44,809 → 61,968.

@@ -44,8 +44,8 @@ It is called this name because it is mathematically a network structure consisti
 - [Graphify](https://trescout.com/en/discover/graphify/)
 - [Codegraph](https://trescout.com/en/discover/codegraph/)
 - [Understand Anything](https://trescout.com/en/discover/understand-anything/)
-- [GitNexus](https://trescout.com/en/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
+- [GitNexus](https://trescout.com/en/discover/gitnexus/)
 - [Cognee](https://trescout.com/en/discover/cognee/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/knowledge-graph/)

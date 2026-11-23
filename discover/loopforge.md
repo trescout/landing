@@ -2,16 +2,16 @@
 
 Tencent tarafından geliştirilen LoopForge, kodlama ajanlarının teslimat süreçlerini yönetmek için kullanılan kendi sunucunuzda barındırabileceğiniz (self-hosted) bir iş akışı aracıdır. CodeBuddy, Codex ve Claude Code gibi yazılımları betikler ve insan onay mekanizmalarıyla düzenleyerek yerel kodlama asistanı süreçlerini destekler.
 
-- ★ 5.104
+- ★ 5.859
 - Go
 - GitHub Trending · 2026-11-15
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 5.104 → 5.859, son sürüm v0.4.2 (23 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 3.785 → 5.104, son sürüm v0.4.0 (17 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 2.090 → 3.785, son sürüm v0.4.0 (17 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 986 → 2.090, son sürüm v0.3.8 (12 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 983 → 986, son sürüm v0.3.8 (12 Kasım 2026).
 
 ## Ne kazandırır?
 

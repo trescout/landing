@@ -2,12 +2,13 @@
 
 Website-downloader, developed by AhmadIbrahiim, allows downloading all source codes and assets of a website to the local computer using Node.js. The tool is used to archive the entire site, including JavaScript files, style sheets, and images.
 
-- ★ 5,254
+- ★ 6,332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Updates
 
+- **November 23, 2026:** Stars 5,254 → 6,332.
 - **August 27, 2026:** Stars 4,223 → 5,254.
 
 ## What you get

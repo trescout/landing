@@ -2,16 +2,16 @@
 
 OpenDataLoader PDF is an open source PDF parser that makes data available for artificial intelligence models. This Java-based project speeds up data processing processes by automating the accessibility of PDF documents.
 
-- ★ 30,344
+- ★ 30,360
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **November 23, 2026:** Stars 30,344 → 30,360, latest release v2.5.24 (November 23, 2026).
 - **November 19, 2026:** Stars 30,289 → 30,344, latest release v2.5.23 (November 19, 2026).
 - **November 13, 2026:** Stars 30,270 → 30,289, latest release v2.5.22 (November 12, 2026).
 - **November 10, 2026:** Stars 30,180 → 30,270, latest release v2.5.21 (November 10, 2026).
-- **November 6, 2026:** Stars 30,164 → 30,180, latest release v2.5.20 (November 6, 2026).
 
 ## What you get
 

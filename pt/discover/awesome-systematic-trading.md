@@ -2,12 +2,13 @@
 
 Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na área de negociação sistemática, suporta processos de modelagem financeira baseados em Python. Reúne em um único centro as ferramentas e literatura necessárias para quem deseja entrar no mundo da negociação algorítmica.
 
-- ★ 14.504
+- ★ 15.545
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Atualizações
 
+- **23 de novembro de 2026:** Estrelas 14,504 → 15,545.
 - **30 de setembro de 2026:** Estrelas 13,502 → 14,504.
 - **19 de agosto de 2026:** Estrelas 12,499 → 13,502.
 - **2 de agosto de 2026:** Estrelas 9,886 → 12,499.

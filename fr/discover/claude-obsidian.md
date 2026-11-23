@@ -2,16 +2,16 @@
 
 Crée une base Obsidian locale référencée à partir de documents sources et applique les modifications approuvées via des opérations réversibles.
 
-- ★ 15 713
+- ★ 16 714
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Mises à jour
 
+- **23 novembre 2026:** Étoiles 15,713 → 16,714, dernière version v3.0.1 (21 octobre 2026).
 - **22 octobre 2026:** Étoiles 14,822 → 15,713, dernière version v3.0.1 (21 octobre 2026).
 - **11 septembre 2026:** Étoiles 14,727 → 14,822, dernière version v2.2.0 (10 septembre 2026).
 - **8 septembre 2026:** Étoiles 13,706 → 14,727, dernière version v2.1.1 (25 août 2026).
-- **27 août 2026:** Étoiles 12,404 → 13,706, dernière version v2.1.1 (25 août 2026).
 
 ## Installation
 

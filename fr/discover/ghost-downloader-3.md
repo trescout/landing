@@ -2,12 +2,13 @@
 
 XiaoYouChR/Ghost-Downloader-3 est un outil de téléchargement de fichiers complet fonctionnant sur quatre plateformes différentes et prenant en charge presque tous les protocoles de téléchargement. Développé en langage Python, ce projet offre une structure capable d'étendre ses fonctionnalités grâce à des packs de fonctionnalités (feature packs) basés sur des plugins.
 
-- ★ 14 359
+- ★ 16 177
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Mises à jour
 
+- **23 novembre 2026:** Étoiles 14,359 → 16,177, dernière version v4.5.11 (20 novembre 2026).
 - **21 novembre 2026:** Étoiles 13,178 → 14,359, dernière version v4.5.11 (20 novembre 2026).
 - **20 novembre 2026:** Étoiles 12,990 → 13,178, dernière version v4.5.11 (20 novembre 2026).
 - **20 novembre 2026:** Étoiles 12,971 → 12,990, dernière version v4.5.10 (19 novembre 2026).

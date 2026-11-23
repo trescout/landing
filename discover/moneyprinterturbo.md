@@ -2,17 +2,17 @@
 
 **MoneyPrinterTurbo**, verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak **otomatik kısa videolar** üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
 
-- ★ 140.316
+- ★ 145.216
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 140.316 → 145.216, son sürüm v1.3.11 (23 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 133.597 → 140.316, son sürüm v1.3.10 (7 Kasım 2026).
 - **21 Ekim 2026:** Yıldız 128.158 → 133.597, son sürüm v1.3.9 (21 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 123.436 → 128.158, son sürüm v1.3.8 (3 Ekim 2026).
-- **14 Eylül 2026:** Yıldız 120.054 → 123.436, son sürüm v1.3.7 (13 Eylül 2026).
 
 - **Kimin için:** Kısa video / içerik üretenler
 - **Zorluk:** Orta · kurulum + AI API anahtarı gerekir

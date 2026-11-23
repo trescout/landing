@@ -46,8 +46,8 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 - [Pytorch](https://trescout.com/fr/discover/pytorch/)
 - [Minimind](https://trescout.com/fr/discover/minimind/)
 - [Nanochat](https://trescout.com/fr/discover/nanochat/)
-- [OpenMAIC](https://trescout.com/fr/discover/openmaic/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
+- [OpenMAIC](https://trescout.com/fr/discover/openmaic/)
 - [Llmfit](https://trescout.com/fr/discover/llmfit/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 

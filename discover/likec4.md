@@ -2,16 +2,16 @@
 
 Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır. Kod tabanıyla eş zamanlı güncellenen mimari şemalar (diagrams) aracılığıyla teknik dokümantasyonun sürekliliğini hedefler.
 
-- ★ 6.080
+- ★ 6.145
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
 
+- **23 Kasım 2026:** Yıldız 6.080 → 6.145, son sürüm v1.61.1 (23 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 5.878 → 6.080, son sürüm v1.61.0 (14 Kasım 2026).
 - **15 Ekim 2026:** Yıldız 5.749 → 5.878, son sürüm v1.60.0 (15 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 5.618 → 5.749, son sürüm v1.59.4 (21 Eylül 2026).
-- **3 Eylül 2026:** Yıldız 5.328 → 5.618, son sürüm v1.59.3 (2 Eylül 2026).
 
 ## Ne kazandırır?
 

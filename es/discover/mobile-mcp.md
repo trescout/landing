@@ -2,16 +2,16 @@
 
 Mobile-mcp es un servidor de Protocolo de Contexto de Modelo (Model Context Protocol) que realiza tareas de automatización y extracción de datos en dispositivos móviles y simuladores. Esta herramienta permite que los modelos de inteligencia artificial interactúen directamente con las plataformas iOS y Android para ejecutar tareas.
 
-- ★ 10.688
+- ★ 10.826
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Actualizaciones
 
+- **23 de noviembre de 2026:** Estrellas 10,688 → 10,826, última versión 1.0.19 (22 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 10,521 → 10,688, última versión 1.0.18 (18 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 10,236 → 10,521, última versión 1.0.17 (11 de noviembre de 2026).
 - **3 de noviembre de 2026:** Estrellas 10,155 → 10,236, última versión 1.0.16 (2 de noviembre de 2026).
-- **31 de octubre de 2026:** Estrellas 10,030 → 10,155, última versión 1.0.15 (30 de octubre de 2026).
 
 ## Qué aporta
 

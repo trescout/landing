@@ -2,12 +2,13 @@
 
 Der von AhmadIbrahiim entwickelte Website-Downloader ermöglicht das Herunterladen aller Quellcodes und Assets einer Website mithilfe von Node.js auf den lokalen Computer. Mit dem Tool wird die gesamte Website archiviert, einschließlich JavaScript-Dateien, Stylesheets und Bildern.
 
-- ★ 5.254
+- ★ 6.332
 - HTML
 - GitHub Trending · 2026-07-08
 
 ## Aktualisierungen
 
+- **23. November 2026:** Sterne 5,254 → 6,332.
 - **27. August 2026:** Sterne 4,223 → 5,254.
 
 ## Was es bringt
