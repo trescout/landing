@@ -38,7 +38,11 @@ from riza_formu import blok as riza_blok  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAPOR = os.path.join(ROOT, "reports")
-DILLER_SIRA = ["tr"] + list(DILLER)
+# Sağlayıcı kesintisinde recovery opsiyonel çevirileri atlayabilir. Bu modda
+# yalnız kanonik Türkçe ana sayfa yeniden üretilir; mevcut yerel sayfalar
+# korunur. Normal koşuda altı dil ortak tarih guard'ı aynen sürer.
+SKIP_OPTIONAL_LOCALES = os.environ.get("SKIP_OPTIONAL_LOCALES") == "1"
+DILLER_SIRA = ["tr"] if SKIP_OPTIONAL_LOCALES else ["tr"] + list(DILLER)
 
 # Ana sayfada kaynak başına gösterilen madde · raporun tamamı rapor sayfasında
 GOSTER = 2
