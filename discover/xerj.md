@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme (autoindex) yeteneği sunuyor. Kod, belge ve günlük dosyalarını daha az belirteç (token) tüketimiyle işleyerek arama, güvenlik denetimleri ve yapay zekânın güncel verilerden cevap üretmesini sağlayan yöntem (RAG) süreçlerini destekliyor.
 
-- ★ 20.226
+- ★ 20.283
 - Rust
 - GitHub Trending · 2026-10-16
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 20.226 → 20.283, son sürüm v1.0.0-rc.105 (23 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 18.976 → 20.226, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 17.951 → 18.976, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 19.251 → 17.951, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
-- **19 Kasım 2026:** Yıldız 19.079 → 19.251, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 
 ## Ne kazandırır?
 

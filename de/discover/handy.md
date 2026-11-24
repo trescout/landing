@@ -2,12 +2,13 @@
 
 cjpais/Handy ist eine kostenlose und Open-Source-Anwendung zur Spracherkennung (Speech-to-Text), die vollständig offline läuft. Dieses in Rust entwickelte Tool bietet eine erweiterbare Struktur, die es Benutzern ermöglicht, Audiodaten lokal zu verarbeiten.
 
-- ★ 38.790
+- ★ 39.933
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 38,790 → 39,933, neueste Version v0.10.2 (24. November 2026).
 - **15. November 2026:** Sterne 37,195 → 38,790, neueste Version v0.10.1 (14. November 2026).
 - **3. November 2026:** Sterne 36,933 → 37,195, neueste Version v0.10.0 (2. November 2026).
 - **2. November 2026:** Sterne 36,754 → 36,933, neueste Version v0.9.8 (3. Oktober 2026).

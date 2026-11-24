@@ -2,16 +2,16 @@
 
 Vercel Labs tarafından geliştirilen agent-browser, yapay zekâ ajanları için tarayıcı otomasyonu sağlayan bir komut satırı arayüzü (CLI). Rust diliyle yazılan bu araç, sayfaları erişilebilirlik ağacı (accessibility tree) olarak okuyup komut satırı üzerinden web öğeleriyle etkileşime girilmesine olanak tanıyor.
 
-- ★ 52.951
+- ★ 53.664
 - Rust
 - GitHub Trending · 2026-11-06
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 52.951 → 53.664, son sürüm v0.44.0 (23 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 50.405 → 52.951, son sürüm v0.43.0 (12 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 48.777 → 50.405, son sürüm v0.43.0 (12 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 46.036 → 48.777, son sürüm v0.42.0 (10 Kasım 2026).
-- **6 Kasım 2026:** Yıldız 46.027 → 46.036, son sürüm v0.41.2 (3 Kasım 2026).
 
 ## Ne kazandırır?
 

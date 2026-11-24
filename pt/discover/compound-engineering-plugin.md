@@ -2,17 +2,17 @@
 
 Engenharia de Compostos; Claude Code é um complemento oficial para Codex e Cursor. A sua filosofia básica é clara: cada tarefa de engenharia deve tornar a próxima mais fácil, e não mais difícil. Para isso, oferece capacidades e agentes de IA que melhoram o processo de desenvolvimento.
 
-- ★ 26.146
+- ★ 26.214
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 26,146 → 26,214, versão mais recente compound-engineering-v3.38.3 (23 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 26,035 → 26,146, versão mais recente compound-engineering-v3.38.2 (18 de novembro de 2026).
 - **12 de novembro de 2026:** Estrelas 26,007 → 26,035, versão mais recente compound-engineering-v3.38.1 (12 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 25,978 → 26,007, versão mais recente compound-engineering-v3.37.1 (9 de novembro de 2026).
-- **8 de novembro de 2026:** Estrelas 25,949 → 25,978, versão mais recente compound-engineering-v3.37.0 (8 de novembro de 2026).
 
 ## O que você ganha
 

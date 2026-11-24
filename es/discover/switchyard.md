@@ -2,12 +2,13 @@
 
 Desarrollado por NVIDIA, Switchyard es un motor de inferencia de inteligencia artificial de alto rendimiento escrito en lenguaje Rust. Ofrece un entorno de ejecución optimizado para ejecutar modelos de lenguaje grandes (LLM) de manera eficiente en diferentes infraestructuras de hardware.
 
-- ★ 3.227
+- ★ 3.675
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 3,227 → 3,675, última versión v0.4.0 (23 de noviembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 2,617 → 3,227, última versión v0.3.0 (22 de septiembre de 2026).
 - **31 de agosto de 2026:** Estrellas 1,566 → 2,617, última versión v0.2.0 (10 de agosto de 2026).
 - **15 de agosto de 2026:** Estrellas 923 → 1,566, última versión v0.2.0 (10 de agosto de 2026).

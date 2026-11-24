@@ -2,16 +2,16 @@
 
 Open SEO ofrece una alternativa de código abierto a herramientas pagas como Semrush y Ahrefs. Este software, desarrollado para analizar datos de optimización de motores de búsqueda (SEO), tiene como objetivo hacer que los procesos sean transparentes con su infraestructura basada en TypeScript.
 
-- ★ 28.386
+- ★ 28.739
 - TypeScript
 - GitHub Trending · 2026-06-26
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 28,386 → 28,739, última versión v0.1.32 (23 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 28,269 → 28,386, última versión v0.1.31 (19 de noviembre de 2026).
 - **19 de noviembre de 2026:** Estrellas 28,217 → 28,269, última versión v0.1.30 (18 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 27,394 → 28,217, última versión v0.1.29 (18 de noviembre de 2026).
-- **12 de noviembre de 2026:** Estrellas 26,659 → 27,394, última versión v0.1.27 (11 de noviembre de 2026).
 
 ## Qué aporta
 

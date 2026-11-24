@@ -2,13 +2,14 @@
 
 **Awesome Free Apps**, bilgisayar ve telefonunuz için seçilmiş **ücretsiz uygulamaların** kategorize edilmiş bir rehberidir. Windows, macOS, Linux, Android ve iOS filtreleri ile 'açık kaynak' ve 'önerilen' işaretlerini kullanarak aradığınız araca hızla ulaşabilirsiniz.
 
-- ★ 7.106
+- ★ 8.106
 - Liste
 - Lisans: belirsiz
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 7.106 → 8.106.
 - **2 Ağustos 2026:** Yıldız 5.121 → 7.106.
 
 - **Kimin için:** Ücretsiz yazılım arayan herkes

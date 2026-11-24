@@ -2,12 +2,13 @@
 
 cjpais/Handy est une application de reconnaissance vocale (speech-to-text) gratuite et open source qui fonctionne entièrement hors ligne. Développé en Rust, cet outil offre une structure extensible permettant aux utilisateurs de traiter des données vocales en local.
 
-- ★ 38 790
+- ★ 39 933
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Mises à jour
 
+- **24 novembre 2026:** Étoiles 38,790 → 39,933, dernière version v0.10.2 (24 novembre 2026).
 - **15 novembre 2026:** Étoiles 37,195 → 38,790, dernière version v0.10.1 (14 novembre 2026).
 - **3 novembre 2026:** Étoiles 36,933 → 37,195, dernière version v0.10.0 (2 novembre 2026).
 - **2 novembre 2026:** Étoiles 36,754 → 36,933, dernière version v0.9.8 (3 octobre 2026).

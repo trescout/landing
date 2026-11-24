@@ -2,16 +2,16 @@
 
 Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller üstlenen 23 özelleşmiş araçtan oluşan bir sistemdir. Bu TypeScript tabanlı yapı, yazılım geliştirme süreçlerini otomatize etmek için tanımlanmış iş akışları (workflows) sunar.
 
-- ★ 142.463
+- ★ 142.502
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 142.463 → 142.502, son sürüm v1.103.1.0 (24 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 142.318 → 142.463, son sürüm v1.103.0.0 (23 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 142.229 → 142.318, son sürüm v1.102.2.0 (21 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 142.165 → 142.229, son sürüm v1.102.1.0 (20 Kasım 2026).
-- **20 Kasım 2026:** Yıldız 142.015 → 142.165, son sürüm v1.102.0.0 (19 Kasım 2026).
 
 ## Ne kazandırır?
 

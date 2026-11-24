@@ -2,16 +2,16 @@
 
 Developed in Rust, xerj offers an auto-indexing capability that enables AI systems to search over data. By processing code, documents, and log files with lower token consumption, it supports search, security audits, and Retrieval-Augmented Generation (RAG) processes that allow AI to generate answers from up-to-date data.
 
-- ★ 20,226
+- ★ 20,283
 - Rust
 - GitHub Trending · 2026-10-16
 
 ## Updates
 
+- **November 24, 2026:** Stars 20,226 → 20,283, latest release v1.0.0-rc.105 (November 23, 2026).
 - **November 23, 2026:** Stars 18,976 → 20,226, latest release v1.0.0-rc.104 (November 19, 2026).
 - **November 20, 2026:** Stars 17,951 → 18,976, latest release v1.0.0-rc.104 (November 19, 2026).
 - **November 20, 2026:** Stars 19,251 → 17,951, latest release v1.0.0-rc.104 (November 19, 2026).
-- **November 19, 2026:** Stars 19,079 → 19,251, latest release v1.0.0-rc.104 (November 19, 2026).
 
 ## What you get
 

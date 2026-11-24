@@ -2,16 +2,16 @@
 
 Veyra-NRVideo est un lecteur vidéo Windows avancé et un outil d'amélioration de l'enregistrement offrant un aperçu en temps réel pour les vidéos et les sources d'images. Il vise à améliorer l'expérience visuelle en utilisant des technologies de super-résolution, d'amélioration d'image et de génération de cadres assistées par l'intelligence artificielle.
 
-- ★ 4 815
+- ★ 5 734
 - C++
 - GitHub Trending · 2026-11-14
 
 ## Mises à jour
 
+- **24 novembre 2026:** Étoiles 4,815 → 5,734, dernière version v2.2.1 (24 novembre 2026).
 - **21 novembre 2026:** Étoiles 4,252 → 4,815, dernière version v2.2.0 (20 novembre 2026).
 - **20 novembre 2026:** Étoiles 2,858 → 4,252, dernière version v2.1.9 (15 novembre 2026).
 - **16 novembre 2026:** Étoiles 1,748 → 2,858, dernière version v2.1.9 (15 novembre 2026).
-- **14 novembre 2026:** Étoiles 1,697 → 1,748, dernière version v2.1.6 (14 novembre 2026).
 
 ## Ce que ça vous apporte
 

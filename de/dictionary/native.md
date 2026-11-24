@@ -41,8 +41,8 @@ Sie laufen in der Regel innerhalb eines Browsers oder über eine Übersetzungssc
 
 - [REA](https://trescout.com/de/discover/rea/)
 - [React](https://trescout.com/de/discover/react/)
-- [Meshery](https://trescout.com/de/discover/meshery/)
 - [Stitch Skills](https://trescout.com/de/discover/stitch-skills/)
+- [Meshery](https://trescout.com/de/discover/meshery/)
 - [Tinycast](https://trescout.com/de/discover/tinycast/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/native/)

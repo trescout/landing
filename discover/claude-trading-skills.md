@@ -2,12 +2,13 @@
 
 tradermonty/claude-trading-skills, hisse senedi yatırımcıları ve işlemciler için piyasa analizi, teknik grafikler ve strateji geliştirme gibi süreçleri otomatize eden Claude Code yetenekleri (skills) sunuyor. Python diliyle hazırlanan bu proje, ekonomik takvim ve tarayıcı araçlarıyla finansal veri işleme süreçlerini desteklemeyi amaçlıyor.
 
-- ★ 7.058
+- ★ 8.150
 - Python
 - GitHub Trending · 2026-11-14
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 7.058 → 8.150.
 - **18 Kasım 2026:** Yıldız 5.762 → 7.058.
 - **16 Kasım 2026:** Yıldız 4.266 → 5.762.
 

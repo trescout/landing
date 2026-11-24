@@ -2,17 +2,17 @@
 
 Liteparse (ejecutar-llama); es un analizador de documentos de código abierto escrito en Rust para analizar documentos de forma rápida y eficiente. Facilita los procesos de IA y RAG al hacer procesables estructuras de documentos complejas.
 
-- ★ 13.084
+- ★ 13.161
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 13,084 → 13,161, última versión node-v2.21.1 (24 de noviembre de 2026).
 - **23 de noviembre de 2026:** Estrellas 13,066 → 13,084, última versión node-v2.21.0 (23 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 13,041 → 13,066, última versión node-v2.20.0 (17 de noviembre de 2026).
 - **13 de noviembre de 2026:** Estrellas 12,981 → 13,041, última versión node-v2.19.0 (13 de noviembre de 2026).
-- **4 de noviembre de 2026:** Estrellas 12,904 → 12,981, última versión node-v2.18.0 (4 de noviembre de 2026).
 
 ## Qué aporta
 

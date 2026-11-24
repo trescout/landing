@@ -2,11 +2,12 @@
 
 LibreTranslate offers a free and open source machine translation interface (API). This Python-based tool, which you can host on your own server, allows you to work offline without an internet connection.
 
-- ★ 16,858
+- ★ 17,832
 - GitHub Trending · 2026-06-19
 
 ## Updates
 
+- **November 24, 2026:** Stars 16,858 → 17,832, latest release v1.10.0 (November 24, 2026).
 - **September 27, 2026:** Stars 15,834 → 16,858, latest release v1.9.6 (May 26, 2026).
 - **August 2, 2026:** Stars 15,075 → 15,834, latest release v1.9.6 (May 26, 2026).
 

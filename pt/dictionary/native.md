@@ -41,8 +41,8 @@ Eles geralmente funcionam dentro de um navegador ou através de uma camada de tr
 
 - [REA](https://trescout.com/pt/discover/rea/)
 - [React](https://trescout.com/pt/discover/react/)
-- [Meshery](https://trescout.com/pt/discover/meshery/)
 - [Stitch Skills](https://trescout.com/pt/discover/stitch-skills/)
+- [Meshery](https://trescout.com/pt/discover/meshery/)
 - [Tinycast](https://trescout.com/pt/discover/tinycast/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/native/)

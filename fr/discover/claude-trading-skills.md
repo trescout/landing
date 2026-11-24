@@ -2,12 +2,13 @@
 
 tradermonty/claude-trading-skills propose des fonctionnalités Claude Code (skills) qui automatisent des processus tels que l'analyse de marché, les graphiques techniques et le développement de stratégies pour les investisseurs en actions et les traders. Développé en Python, ce projet vise à prendre en charge les processus de traitement des données financières à l'aide d'un calendrier économique et d'outils de web scraping.
 
-- ★ 7 058
+- ★ 8 150
 - Python
 - GitHub Trending · 2026-11-14
 
 ## Mises à jour
 
+- **24 novembre 2026:** Étoiles 7,058 → 8,150.
 - **18 novembre 2026:** Étoiles 5,762 → 7,058.
 - **16 novembre 2026:** Étoiles 4,266 → 5,762.
 

@@ -2,16 +2,16 @@
 
 Google tarafından geliştirilen gemini-cli, Gemini yapay zekâ modeline doğrudan uçbirim (terminal) üzerinden erişim sağlayan açık kaynaklı (kaynak kodları herkesin erişimine açık) bir araçtır. Yazılım, kullanıcıların komut satırı ortamında hızlı ve hafif bir şekilde yapay zekâ istemleri oluşturmasına olanak tanır.
 
-- ★ 108.949
+- ★ 109.038
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 108.949 → 109.038, son sürüm v0.71.1 (24 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 108.933 → 108.949, son sürüm v0.70.0 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 108.770 → 108.933, son sürüm v0.69.0 (19 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 108.732 → 108.770, son sürüm v0.68.0 (10 Kasım 2026).
-- **5 Kasım 2026:** Yıldız 108.592 → 108.732, son sürüm v0.67.0 (4 Kasım 2026).
 
 ## Ne kazandırır?
 

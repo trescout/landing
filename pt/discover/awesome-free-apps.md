@@ -2,13 +2,14 @@
 
 Awesome Free Apps é um guia categorizado de aplicativos gratuitos selecionados para seu computador e telefone. Você pode encontrar rapidamente a ferramenta que procura usando filtros do Windows, macOS, Linux, Android e iOS e marcas de 'código aberto' e 'recomendado'.
 
-- ★ 7.106
+- ★ 8.106
 - Liste
 - Lisans: belirsiz
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 7,106 → 8,106.
 - **2 de agosto de 2026:** Estrelas 5,121 → 7,106.
 
 ## O que você ganha

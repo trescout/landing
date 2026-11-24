@@ -2,16 +2,16 @@
 
 Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework). TypeScript desteğiyle sunulan bu araç, sunucu taraflı işleme (server-side rendering) ve statik site oluşturma süreçlerini optimize eder.
 
-- ★ 61.031
+- ★ 61.091
 - TypeScript
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 61.031 → 61.091, son sürüm v4.7.0 (23 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 60.999 → 61.031, son sürüm v4.6.4 (2 Kasım 2026).
 - **27 Ekim 2026:** Yıldız 60.963 → 60.999, son sürüm v4.6.3 (27 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 60.926 → 60.963, son sürüm v4.6.2 (16 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 60.920 → 60.926, son sürüm v4.6.1 (9 Ekim 2026).
 
 ## Ne kazandırır?
 

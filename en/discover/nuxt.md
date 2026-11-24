@@ -2,16 +2,16 @@
 
 Nuxt is a full-stack framework used to develop Vue-based applications. Offered with TypeScript support, this tool optimizes server-side rendering and static site creation processes.
 
-- ★ 61,031
+- ★ 61,091
 - TypeScript
 - GitHub Trending · 2026-07-12
 
 ## Updates
 
+- **November 24, 2026:** Stars 61,031 → 61,091, latest release v4.7.0 (November 23, 2026).
 - **November 3, 2026:** Stars 60,999 → 61,031, latest release v4.6.4 (November 2, 2026).
 - **October 27, 2026:** Stars 60,963 → 60,999, latest release v4.6.3 (October 27, 2026).
 - **October 17, 2026:** Stars 60,926 → 60,963, latest release v4.6.2 (October 16, 2026).
-- **October 10, 2026:** Stars 60,920 → 60,926, latest release v4.6.1 (October 9, 2026).
 
 ## What you get
 
