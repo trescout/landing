@@ -1,0 +1,213 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-24",
+  "capturedAt": "2026-11-24T06:16:42.754Z",
+  "editorial": "The contents included in the report are not repeated for 30 days. Posts that remain on the agenda after this period are listed again with the \"on the agenda again\" tag.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+          "url": "https://twitter.com/ylecun/status/2124550037912920090",
+          "summary": "",
+          "meta": "1,461 points · 821 comments",
+          "snapshot": {
+            "sourceId": "50615308",
+            "capturedAt": "2026-11-24T06:16:43.063Z",
+            "metadata": {
+              "popularity": 1461,
+              "engagementCount": 821,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50615308",
+                  "popularity": 1461,
+                  "engagementCount": 821
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-23T17:07:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50615308"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50615308",
+              "popularity": 1461,
+              "engagementCount": 821
+            }
+          ]
+        },
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://spelunkr.tv/",
+          "summary": "",
+          "meta": "978 points · 170 comments",
+          "snapshot": {
+            "sourceId": "50606192",
+            "capturedAt": "2026-11-24T06:16:43.063Z",
+            "metadata": {
+              "popularity": 978,
+              "engagementCount": 170,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50606192",
+                  "popularity": 978,
+                  "engagementCount": 170
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-23T01:13:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50606192",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "24/7 synchronized channels of forgotten Internet Archive video. Like cable TV, but weirder."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50606192",
+              "popularity": 978,
+              "engagementCount": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "A Pipeline-Parallel System for Depth-Recurrent Models",
+          "url": "https://huggingface.co/papers/2611.30581",
+          "summary": "The article shared by Hugging Face discusses the pipeline parallelism system required for scaling depth-recurrent models. In these models, where shared block stacks are used multiple times, a solution is proposed to the limitations of the traditional 1F1B method in managing cyclic data flow.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.30581",
+            "capturedAt": "2026-11-24T06:16:42.893Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30581",
+                "publishedAt": "2026-11-23T00:00:00.000Z"
+              }
+            },
+            "description": "Depth-recurrent (Looped) models raise effective depth by applying a shared stack of blocks several times. Scaling them usually requires pipeline parallelism, but commonly used interleaved 1F1B is drawn for an acyclic stage graph in which each micro-batch enters each stage once. Once that stack is split across stages, the same stage is visited several times on one micro-batch and later stages feed earlier ones: native 1F1B has no slot for the extra visit, cannot rank a first iteration against a s"
+          }
+        },
+        {
+          "title": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+          "url": "https://huggingface.co/papers/2611.23946",
+          "summary": "",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.23946",
+            "capturedAt": "2026-11-24T06:16:42.893Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.23946",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/Hydr0pon1c/Mobilegym-lite",
+                "githubStars": 0
+              }
+            },
+            "description": "Graphical user interface (GUI) agents are widely trained in executable GUI environments. To lower cost, build environments in batches, and reduce manual effort, each work trades away part of the environment through its construction choices. We describe these choices along three dimensions: reward coverage, the goal-reaching trajectories the verifier rewards; data coverage, the application data the agent is exposed to beyond what the task reads or writes; and feature coverage, the application fea"
+          }
+        },
+        {
+          "title": "SWEEP-Bench: Do Embodied Policies Act on the Speed They See?",
+          "url": "https://huggingface.co/papers/2611.30637",
+          "summary": "",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.30637",
+            "capturedAt": "2026-11-24T06:16:42.893Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30637",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/Damin3927/SWEEP-Bench",
+                "githubStars": 1
+              }
+            },
+            "description": "Robot policies must adapt to the speed of moving objects, yet existing benchmarks rarely measure this ability across diverse tasks and speeds. We introduce SWEEP-Bench, a simulation benchmark with 80 conveyor-belt manipulation tasks spanning 16 skill categories, each evaluated at 13 belt speeds (0.10-0.40 m/s). Objects are transported through physical contact with a visibly moving belt. Each task has a static counterpart, and each evaluation episode uses the same randomized scene at all 13 speed"
+          }
+        },
+        {
+          "title": "Distilling Visual Agents from Limited Interaction Experience",
+          "url": "https://huggingface.co/papers/2611.28618",
+          "summary": "",
+          "meta": "8 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.28618",
+            "capturedAt": "2026-11-24T06:16:42.893Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.28618",
+                "publishedAt": "2026-11-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/elated-sawyer/visual-agent-distillation",
+                "githubStars": 0
+              }
+            },
+            "description": "How much interaction experience is needed to distill a capable visual agent? We study learning from few tasks and recorded interaction histories. Our framework selects representative trajectories using skill-context coverage and ordered visual-decision similarity. On-policy distillation (OPD) learns through fresh interaction on selected tasks or fresh student responses at fixed histories. Across Navigation, Sokoban, and spatial mapping, even one online training task supports transfer to other ta"
+          }
+        },
+        {
+          "title": "Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation",
+          "url": "https://huggingface.co/papers/2611.27689",
+          "summary": "Embodied-Harness introduces a dual-agent framework that improves the execution process of robotic manipulation tasks without updating model parameters. It aims to overcome the limitations of vision-language model-based agents in memory management and experience repetition with a reflector mechanism that analyzes execution evidence.",
+          "meta": "5 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.27689",
+            "capturedAt": "2026-11-24T06:16:42.893Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.27689",
+                "publishedAt": "2026-11-23T00:00:00.000Z"
+              }
+            },
+            "description": "Vision-language model (VLM)-based agents offer a promising approach to robotic manipulation, yet remain limited by inadequate memory organization, uncertain failure attribution, and limited reuse of execution experience. We propose Embodied-Harness, a dual-agent framework that improves manipulation by refining the execution harness without updating model parameters. The Actor interacts with the environment through a robot-control interface, while the Reflector converts execution evidence into re"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}
