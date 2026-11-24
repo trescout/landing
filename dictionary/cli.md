@@ -48,8 +48,8 @@ Sistem genellikle hata verir, ancak dikkatli olunması gereken kritik komutlar d
 - [Graphify](https://trescout.com/discover/graphify/)
 - [Spec Kit](https://trescout.com/discover/spec-kit/)
 - [Codex](https://trescout.com/discover/codex/)
-- [PI](https://trescout.com/discover/pi/)
 - [TradingAgents](https://trescout.com/discover/tradingagents/)
+- [PI](https://trescout.com/discover/pi/)
 - [Impeccable](https://trescout.com/discover/impeccable/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

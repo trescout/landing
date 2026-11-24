@@ -2,12 +2,13 @@
 
 Developed by Google Research, PaperOrchestra is a multi-agent framework that transforms raw ideas and experiment logs into academic-format LaTeX drafts. The software supports research paper writing by automating literature review and image generation processes.
 
-- ★ 5,197
+- ★ 6,261
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Updates
 
+- **November 24, 2026:** Stars 5,197 → 6,261.
 - **November 20, 2026:** Stars 4,162 → 5,197.
 - **November 18, 2026:** Stars 1,732 → 4,162.
 

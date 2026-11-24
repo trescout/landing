@@ -2,12 +2,13 @@
 
 OpenVINO ist ein Open-Source-Toolkit zur Optimierung und Bereitstellung von Inferenzprozessen für KI-Modelle. Die in C++ entwickelte Plattform sorgt dafür, dass Modelle auf unterschiedlicher Hardware effizienter arbeiten.
 
-- ★ 11.388
+- ★ 12.403
 - C++
 - GitHub Trending · 2026-11-19
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 11,388 → 12,403, neueste Version 2026.4.1 (1. Oktober 2026).
 - **19. November 2026:** Sterne 11,383 → 11,388, neueste Version 2026.4.1 (1. Oktober 2026).
 
 ## Was es bringt

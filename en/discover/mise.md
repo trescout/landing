@@ -2,16 +2,16 @@
 
 Mise is a tool that allows you to manage software development tools, environment variables and task runners under one roof. This software, developed in Rust language, aims to standardize and accelerate the working environments required for different projects.
 
-- ★ 36,438
+- ★ 36,466
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Updates
 
+- **November 24, 2026:** Stars 36,438 → 36,466, latest release v2026.11.14 (November 24, 2026).
 - **November 24, 2026:** Stars 36,373 → 36,438, latest release v2026.11.13 (November 23, 2026).
 - **November 21, 2026:** Stars 36,351 → 36,373, latest release v2026.11.12 (November 21, 2026).
 - **November 21, 2026:** Stars 36,289 → 36,351, latest release v2026.11.11 (November 20, 2026).
-- **November 18, 2026:** Stars 36,223 → 36,289, latest release v2026.11.10 (November 18, 2026).
 
 ## What you get
 

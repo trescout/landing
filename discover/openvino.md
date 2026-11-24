@@ -2,12 +2,13 @@
 
 OpenVINO, yapay zekâ modellerinin çıkarım (inference) süreçlerini optimize etmek ve dağıtmak için kullanılan açık kaynaklı (open source) bir araç takımıdır. C++ diliyle geliştirilen bu platform, modellerin farklı donanımlar üzerinde daha verimli çalışmasını sağlar.
 
-- ★ 11.388
+- ★ 12.403
 - C++
 - GitHub Trending · 2026-11-19
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 11.388 → 12.403, son sürüm 2026.4.1 (1 Ekim 2026).
 - **19 Kasım 2026:** Yıldız 11.383 → 11.388, son sürüm 2026.4.1 (1 Ekim 2026).
 
 ## Ne kazandırır?

@@ -2,16 +2,16 @@
 
 Kruk2/jasna é uma ferramenta de restauração de vídeo desenvolvida para melhorar vídeos. Escrito em Python, este projeto automatiza processos técnicos destinados a aumentar a qualidade da imagem.
 
-- ★ 5.020
+- ★ 5.399
 - Python
 - GitHub Trending · 2026-10-19
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 5,020 → 5,399, versão mais recente v0.12.4 (24 de novembro de 2026).
 - **15 de novembro de 2026:** Estrelas 4,603 → 5,020, versão mais recente v0.12.3 (14 de novembro de 2026).
 - **7 de novembro de 2026:** Estrelas 4,295 → 4,603, versão mais recente v0.12.2 (6 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 3,317 → 4,295, versão mais recente v0.12.1 (1 de novembro de 2026).
-- **21 de outubro de 2026:** Estrelas 2,671 → 3,317, versão mais recente v0.11.3 (20 de outubro de 2026).
 
 ## O que você ganha
 

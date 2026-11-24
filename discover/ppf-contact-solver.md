@@ -2,7 +2,7 @@
 
 **PPF Contact Solver**, ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlarda **kumaş, katı ve ip** arasındaki temasları çözümlemek için tasarlanmıştır. Farklı geometrilerin etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırır. Blender eklentisi sayesinde uzaktan da çalıştırılabilir.
 
-- ★ 4.615
+- ★ 4.616
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
@@ -19,10 +19,10 @@ docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 4.615 → 4.616, son sürüm addon-2026-11-24-1906 (24 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 4.614 → 4.615, son sürüm addon-2026-11-21-1749 (21 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 4.614 → 4.614, son sürüm addon-2026-11-20-0804 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 4.614 → 4.614, son sürüm addon-2026-11-19-0614 (18 Kasım 2026).
-- **18 Kasım 2026:** Yıldız 4.609 → 4.614, son sürüm addon-2026-11-18-1430 (18 Kasım 2026).
 
 - **Kimin için:** Grafik/fizik simülasyonu yapan teknik kullanıcılar, araştırmacılar
 - **Zorluk:** İleri · teknik/araştırma odaklı

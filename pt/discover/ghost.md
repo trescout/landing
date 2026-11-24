@@ -2,16 +2,16 @@
 
 Ghost é uma plataforma de tecnologia independente para publicações modernas, associações, assinaturas e boletins informativos por e-mail.
 
-- ★ 55.853
+- ★ 55.894
 - JavaScript
 - GitHub Trending · 2026-08-22
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 55,853 → 55,894, versão mais recente v6.79.0 (24 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 55,787 → 55,853, versão mais recente v6.78.0 (17 de novembro de 2026).
 - **12 de novembro de 2026:** Estrelas 55,736 → 55,787, versão mais recente v6.77.0 (11 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 55,678 → 55,736, versão mais recente v6.76.0 (10 de novembro de 2026).
-- **5 de novembro de 2026:** Estrelas 55,665 → 55,678, versão mais recente v6.75.0 (4 de novembro de 2026).
 
 ## O que você ganha
 

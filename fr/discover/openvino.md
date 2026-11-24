@@ -2,12 +2,13 @@
 
 OpenVINO est une boîte à outils open source utilisée pour optimiser et déployer les processus d'inférence des modèles d'intelligence artificielle. Développée en C++, cette plateforme permet aux modèles de fonctionner plus efficacement sur différents matériels.
 
-- ★ 11 388
+- ★ 12 403
 - C++
 - GitHub Trending · 2026-11-19
 
 ## Mises à jour
 
+- **24 novembre 2026:** Étoiles 11,388 → 12,403, dernière version 2026.4.1 (1 octobre 2026).
 - **19 novembre 2026:** Étoiles 11,383 → 11,388, dernière version 2026.4.1 (1 octobre 2026).
 
 ## Ce que ça vous apporte

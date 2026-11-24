@@ -2,12 +2,13 @@
 
 Airgorah, entwickelt in der Programmiersprache Rust, ist eine Software zur Überprüfung der WLAN-Sicherheit. Sie bietet die Möglichkeit, Sicherheitstests wie das Überwachen des nahen Netzwerkverkehrs, das Erkennen von mit Access Points verbundenen Geräten und das Knacken von Passwörtern durchzuführen.
 
-- ★ 5.986
+- ★ 6.998
 - Rust
 - GitHub Trending · 2026-11-15
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 5,986 → 6,998, neueste Version v0.9.0 (26. September 2026).
 - **15. November 2026:** Sterne 5,984 → 5,986, neueste Version v0.9.0 (26. September 2026).
 
 ## Was es bringt

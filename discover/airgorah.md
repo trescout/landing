@@ -2,12 +2,13 @@
 
 Rust diliyle geliştirilen Airgorah, kablosuz ağ güvenliğini denetlemek için kullanılan bir yazılımdır. Yakındaki ağ trafiğini izleme, erişim noktalarına bağlı cihazları tespit etme ve parola kırma gibi güvenlik testleri yapma imkânı sunar.
 
-- ★ 5.986
+- ★ 6.998
 - Rust
 - GitHub Trending · 2026-11-15
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 5.986 → 6.998, son sürüm v0.9.0 (26 Eylül 2026).
 - **15 Kasım 2026:** Yıldız 5.984 → 5.986, son sürüm v0.9.0 (26 Eylül 2026).
 
 ## Ne kazandırır?

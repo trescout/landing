@@ -2,16 +2,16 @@
 
 Diese Bibliothek wurde für Codieragenten für künstliche Intelligenz entwickelt und bietet technische Fähigkeiten auf Produktionsebene. Es stellt standardisierte Tools zur Verfügung, um die technische Kapazität von Agenten zu erhöhen, die Softwareentwicklungsprozesse automatisieren.
 
-- ★ 118.914
+- ★ 120.147
 - Shell
 - GitHub Trending · 2026-06-10
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 118,914 → 120,147, neueste Version 0.6.18 (24. November 2026).
 - **18. November 2026:** Sterne 117,215 → 118,914, neueste Version 0.6.17 (18. November 2026).
 - **14. November 2026:** Sterne 112,056 → 117,215, neueste Version 0.6.16 (14. November 2026).
 - **31. Oktober 2026:** Sterne 111,505 → 112,056, neueste Version 0.6.15 (31. Oktober 2026).
-- **29. Oktober 2026:** Sterne 106,401 → 111,505, neueste Version 0.6.14 (29. Oktober 2026).
 
 ## Was es bringt
 

@@ -2,12 +2,13 @@
 
 Die von JetBrains veröffentlichten go-modern-guidelines unterstützen KI-Codierungsassistenten dabei, Software gemäß aktuellen Go-Standards zu schreiben…
 
-- ★ 3.010
+- ★ 4.011
 - Go
 - GitHub Trending · 2026-08-27
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 3,010 → 4,011.
 - **31. August 2026:** Sterne 1,938 → 3,010.
 
 ## Was es bringt

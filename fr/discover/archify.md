@@ -2,15 +2,15 @@
 
 Archify est une compétence d'agent IA qui crée des diagrammes d'architecture, de flux de données et de flux de travail sous forme de fichiers HTML vérifiables et animés. Utilisé pour visualiser des conceptions de systèmes complexes, cet outil prend en charge l'exportation de diagrammes haute résolution.
 
-- ★ 99 065
+- ★ 99 428
 - GitHub Trending · 2026-08-26
 
 ## Mises à jour
 
+- **24 novembre 2026:** Étoiles 99,065 → 99,428, dernière version v3.3.1 (24 novembre 2026).
 - **23 novembre 2026:** Étoiles 94,555 → 99,065, dernière version v3.3.0 (22 novembre 2026).
 - **8 novembre 2026:** Étoiles 90,051 → 94,555, dernière version v3.2.0 (19 octobre 2026).
 - **27 octobre 2026:** Étoiles 85,613 → 90,051, dernière version v3.2.0 (19 octobre 2026).
-- **19 octobre 2026:** Étoiles 82,984 → 85,613, dernière version v3.2.0 (19 octobre 2026).
 
 ## Ce que ça vous apporte
 

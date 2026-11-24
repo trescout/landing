@@ -2,16 +2,16 @@
 
 Developed with the Go language, Pentagi offers a system of fully autonomous artificial intelligence agents (AI agents) that can perform complex penetration testing. The system aims to standardize autonomous workflows to detect and exploit vulnerabilities.
 
-- ★ 33,238
+- ★ 34,934
 - Go
 - GitHub Trending · 2026-07-10
 
 ## Updates
 
+- **November 24, 2026:** Stars 33,238 → 34,934, latest release v2.2.0 (October 5, 2026).
 - **November 4, 2026:** Stars 31,649 → 33,238, latest release v2.2.0 (October 5, 2026).
 - **October 21, 2026:** Stars 30,107 → 31,649, latest release v2.2.0 (October 5, 2026).
 - **October 15, 2026:** Stars 28,092 → 30,107, latest release v2.2.0 (October 5, 2026).
-- **October 13, 2026:** Stars 26,612 → 28,092, latest release v2.2.0 (October 5, 2026).
 
 ## What you get
 

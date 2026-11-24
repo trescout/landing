@@ -2,16 +2,16 @@
 
 Desenvolvido para Chrome DevTools, este servidor permite a codificação de agentes de inteligência artificial para gerenciar processos de depuração baseados em navegador. Trabalhando por meio do Model Context Protocol, esta ferramenta permite que os agentes inspecionem diretamente os aplicativos da web e automatizem os processos de depuração.
 
-- ★ 58.201
+- ★ 59.162
 - TypeScript
 - GitHub Trending · 2026-07-03
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 58,201 → 59,162, versão mais recente chrome-devtools-mcp-v1.14.0 (24 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 55,124 → 58,201, versão mais recente chrome-devtools-mcp-v1.13.0 (11 de novembro de 2026).
 - **12 de novembro de 2026:** Estrelas 54,021 → 55,124, versão mais recente chrome-devtools-mcp-v1.13.0 (11 de novembro de 2026).
 - **23 de outubro de 2026:** Estrelas 53,589 → 54,021, versão mais recente chrome-devtools-mcp-v1.12.0 (22 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 52,641 → 53,589, versão mais recente chrome-devtools-mcp-v1.11.0 (15 de outubro de 2026).
 
 ## O que você ganha
 

@@ -2,15 +2,15 @@
 
 Comparte archivos y mensajes entre dispositivos cercanos en una red local. LocalSend funciona sin conexión a internet ni servidor de terceros y utiliza cifrado HTTPS.
 
-- ★ 98.011
+- ★ 100.611
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 98,011 → 100,611, última versión v1.19.0 (24 de noviembre de 2026).
 - **9 de noviembre de 2026:** Estrellas 93,329 → 98,011, última versión v1.18.2 (21 de agosto de 2026).
 - **4 de octubre de 2026:** Estrellas 88,882 → 93,329, última versión v1.18.2 (21 de agosto de 2026).
 - **21 de agosto de 2026:** Estrellas 88,401 → 88,882, última versión v1.18.2 (21 de agosto de 2026).
-- **15 de agosto de 2026:** Estrellas 87,961 → 88,401, última versión v1.18.1 (12 de agosto de 2026).
 
 ## ¿Qué hace esta herramienta?
 

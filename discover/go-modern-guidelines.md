@@ -2,12 +2,13 @@
 
 JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım…
 
-- ★ 3.010
+- ★ 4.011
 - Go
 - GitHub Trending · 2026-08-27
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 3.010 → 4.011.
 - **31 Ağustos 2026:** Yıldız 1.938 → 3.010.
 
 ## Ne kazandırır?

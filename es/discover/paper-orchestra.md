@@ -2,12 +2,13 @@
 
 Desarrollado por Google Research, PaperOrchestra es un marco multi-agente que convierte ideas crudas y registros de experimentos en borradores en formato LaTeX académico. El software apoya la redacción de artículos de investigación automatizando la revisión de literatura y los procesos de generación de imágenes.
 
-- ★ 5.197
+- ★ 6.261
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 5,197 → 6,261.
 - **20 de noviembre de 2026:** Estrellas 4,162 → 5,197.
 - **18 de noviembre de 2026:** Estrellas 1,732 → 4,162.
 

@@ -2,12 +2,13 @@
 
 Desenvolvido em Rust, o Airgorah é um software utilizado para auditar a segurança de redes sem fio. Ele oferece a capacidade de realizar testes de segurança, como monitorar o tráfego de rede próximo, detectar dispositivos conectados a pontos de acesso e quebrar senhas.
 
-- ★ 5.986
+- ★ 6.998
 - Rust
 - GitHub Trending · 2026-11-15
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 5,986 → 6,998, versão mais recente v0.9.0 (26 de setembro de 2026).
 - **15 de novembro de 2026:** Estrelas 5,984 → 5,986, versão mais recente v0.9.0 (26 de setembro de 2026).
 
 ## O que você ganha

@@ -2,15 +2,15 @@
 
 TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı bir çerçevedir. Python ile yazılan bu sistem, otonom ticaret ajanlarının finansal verileri analiz ederek strateji oluşturmasını ve karar verme süreçlerini yönetmesini sağlar.
 
-- ★ 123.067
+- ★ 123.671
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 123.067 → 123.671, son sürüm v1.0.0 (24 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 117.170 → 123.067, son sürüm v0.7.1 (27 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 111.593 → 117.170, son sürüm v0.7.1 (27 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 109.690 → 111.593, son sürüm v0.7.0 (16 Ekim 2026).
-- **4 Ekim 2026:** Yıldız 109.196 → 109.690, son sürüm v0.6.0 (3 Ekim 2026).
 
 ## Ne kazandırır?
 

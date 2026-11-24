@@ -2,16 +2,16 @@
 
 LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ ekibi operasyonu (AI team operations) oluşturmayı sağlıyor. Platform, farklı ajanları tek bir merkezden organize ederek iş akışlarını otomatize eden bir yönetici arayüzü sunuyor.
 
-- ★ 85.975
+- ★ 86.095
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 85.975 → 86.095, son sürüm v2.3.6 (24 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 85.793 → 85.975, son sürüm v2.3.5 (22 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 85.202 → 85.793, son sürüm v2.3.4 (18 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 84.267 → 85.202, son sürüm v2.3.3 (12 Kasım 2026).
-- **7 Kasım 2026:** Yıldız 83.808 → 84.267, son sürüm v2.3.2 (6 Kasım 2026).
 
 ## Ne kazandırır?
 

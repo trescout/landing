@@ -2,12 +2,13 @@
 
 Developed in Rust, Airgorah is software used to audit wireless network security. It offers the ability to perform security tests such as monitoring nearby network traffic, detecting devices connected to access points, and cracking passwords.
 
-- ★ 5,986
+- ★ 6,998
 - Rust
 - GitHub Trending · 2026-11-15
 
 ## Updates
 
+- **November 24, 2026:** Stars 5,986 → 6,998, latest release v0.9.0 (September 26, 2026).
 - **November 15, 2026:** Stars 5,984 → 5,986, latest release v0.9.0 (September 26, 2026).
 
 ## What you get

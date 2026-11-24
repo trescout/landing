@@ -2,12 +2,13 @@
 
 Published by JetBrains, go-modern-guidelines helps artificial intelligence coding assistants write software in accordance with current Go standards…
 
-- ★ 3,010
+- ★ 4,011
 - Go
 - GitHub Trending · 2026-08-27
 
 ## Updates
 
+- **November 24, 2026:** Stars 3,010 → 4,011.
 - **August 31, 2026:** Stars 1,938 → 3,010.
 
 ## What you get

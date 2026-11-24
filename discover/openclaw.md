@@ -2,16 +2,16 @@
 
 Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.
 
-- ★ 395.101
+- ★ 395.148
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 395.101 → 395.148, son sürüm v2026.11.8 (24 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 394.859 → 395.101, son sürüm v2026.11.7 (23 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 394.756 → 394.859, son sürüm v2026.11.6 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 394.547 → 394.756, son sürüm v2026.11.5 (17 Kasım 2026).
-- **16 Kasım 2026:** Yıldız 394.300 → 394.547, son sürüm v2026.11.4 (16 Kasım 2026).
 
 ## Ne kazandırır?
 

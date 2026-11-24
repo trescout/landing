@@ -2,16 +2,16 @@
 
 LobeHub permite crear un equipo de operaciones de IA que trabaja las 24 horas del día, los 7 días de la semana, mediante la gestión de agentes de inteligencia artificial a través de procesos de reclutamiento, programación y generación de informes. La plataforma ofrece una interfaz administrativa que automatiza los flujos de trabajo organizando diferentes agentes desde un único centro.
 
-- ★ 85.975
+- ★ 86.095
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 85,975 → 86,095, última versión v2.3.6 (24 de noviembre de 2026).
 - **22 de noviembre de 2026:** Estrellas 85,793 → 85,975, última versión v2.3.5 (22 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 85,202 → 85,793, última versión v2.3.4 (18 de noviembre de 2026).
 - **13 de noviembre de 2026:** Estrellas 84,267 → 85,202, última versión v2.3.3 (12 de noviembre de 2026).
-- **7 de noviembre de 2026:** Estrellas 83,808 → 84,267, última versión v2.3.2 (6 de noviembre de 2026).
 
 ## Qué aporta
 

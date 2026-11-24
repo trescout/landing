@@ -2,12 +2,13 @@
 
 MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.
 
-- ★ 66.480
+- ★ 70.019
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 66.480 → 70.019, son sürüm v2 (21 Ekim 2025).
 - **18 Kasım 2026:** Yıldız 62.670 → 66.480, son sürüm v2 (21 Ekim 2025).
 - **27 Eylül 2026:** Yıldız 55.708 → 62.670, son sürüm v2 (21 Ekim 2025).
 
