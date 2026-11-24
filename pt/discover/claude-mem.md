@@ -2,17 +2,17 @@
 
 claude-mem permite que seus agentes de IA realizem recall de sessões cruzadas. Ele captura tudo o que acontece em uma sessão, transforma em resumos significativos com IA e fornece contexto relevante na próxima sessão. Compatível com Claude Code, Codex, Gemini, Copilot e OpenCode.
 
-- ★ 119.388
+- ★ 119.510
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 119,388 → 119,510, versão mais recente v16.1.3 (24 de novembro de 2026).
 - **24 de novembro de 2026:** Estrelas 119,290 → 119,388, versão mais recente v16.1.2 (24 de novembro de 2026).
 - **23 de novembro de 2026:** Estrelas 118,825 → 119,290, versão mais recente v16.1.0 (23 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 118,698 → 118,825, versão mais recente v16.0.3 (21 de novembro de 2026).
-- **21 de novembro de 2026:** Estrelas 118,492 → 118,698, versão mais recente v16.0.2 (20 de novembro de 2026).
 
 ## O que você ganha
 

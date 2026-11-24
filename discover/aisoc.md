@@ -2,16 +2,16 @@
 
 AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi. Büyük dil modelleri (LLM) ile uyarıları sınıflandıran ve MITRE ATT&CK çerçevesiyle incelemeler yapan araç, API anahtarı gerektirmeden kendi sunucunuzda çalışabiliyor.
 
-- ★ 7.332
+- ★ 7.753
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 7.332 → 7.753, son sürüm v23.7.0 (24 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 6.976 → 7.332, son sürüm v23.6.1 (22 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 6.951 → 6.976, son sürüm v23.6.0 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 8.312 → 6.951, son sürüm v23.5.3 (19 Kasım 2026).
-- **19 Kasım 2026:** Yıldız 8.225 → 8.312, son sürüm v23.5.2 (19 Kasım 2026).
 
 ## Ne kazandırır?
 

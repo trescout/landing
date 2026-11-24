@@ -2,16 +2,16 @@
 
 OpenAI plugins enable language models to access up-to-date data and interact with third-party applications. This structure allows artificial intelligence to perform complex tasks using external tools.
 
-- ★ 7,334
+- ★ 8,334
 - JavaScript
 - GitHub Trending · 2026-06-06
 
 ## Updates
 
+- **November 24, 2026:** Stars 7,334 → 8,334.
 - **October 7, 2026:** Stars 6,331 → 7,334.
 - **September 10, 2026:** Stars 5,110 → 6,331.
 - **August 17, 2026:** Stars 4,881 → 5,110, repository archived, development stopped.
-- **August 2, 2026:** Stars 1,596 → 4,881.
 
 ## What you get
 

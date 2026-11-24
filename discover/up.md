@@ -2,12 +2,13 @@
 
 byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan kapsamlı bir rehberdir. Özellikle yapay zekâ (artificial intelligence) araçlarını verimli kullanma ve İngilizce öğrenme yöntemleri üzerine odaklanan pratik ipuçları içerir.
 
-- ★ 67.620
+- ★ 70.866
 - JavaScript
 - GitHub Trending · 2026-09-28
 
 ## Güncelleme
 
+- **24 Kasım 2026:** Yıldız 67.620 → 70.866, son sürüm v1.1.0 (24 Kasım 2026).
 - **7 Ekim 2026:** Yıldız 64.308 → 67.620.
 
 ## Ne kazandırır?

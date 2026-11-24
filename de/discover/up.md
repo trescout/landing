@@ -2,12 +2,13 @@
 
 byoungd/up ist ein umfassender Leitfaden, der Ressourcen zur persönlichen Entwicklung in einem breiten Spektrum bietet, von Softwareentwicklungsprozessen bis hin zum Sprachenlernen. Er enthält praktische Tipps, die sich insbesondere auf die effiziente Nutzung von Werkzeugen der Künstlichen Intelligenz und Methoden zum Erlernen der englischen Sprache konzentrieren.
 
-- ★ 67.620
+- ★ 70.866
 - JavaScript
 - GitHub Trending · 2026-09-28
 
 ## Aktualisierungen
 
+- **24. November 2026:** Sterne 67,620 → 70,866, neueste Version v1.1.0 (24. November 2026).
 - **7. Oktober 2026:** Sterne 64,308 → 67,620.
 
 ## Was es bringt

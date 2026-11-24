@@ -2,16 +2,16 @@
 
 Os plug-ins OpenAI permitem que modelos de linguagem acessem dados atuais e interajam com aplicativos de terceiros. Essa estrutura permite que a inteligência artificial execute tarefas complexas utilizando ferramentas externas.
 
-- ★ 7.334
+- ★ 8.334
 - JavaScript
 - GitHub Trending · 2026-06-06
 
 ## Atualizações
 
+- **24 de novembro de 2026:** Estrelas 7,334 → 8,334.
 - **7 de outubro de 2026:** Estrelas 6,331 → 7,334.
 - **10 de setembro de 2026:** Estrelas 5,110 → 6,331.
 - **17 de agosto de 2026:** Estrelas 4,881 → 5,110, repositório arquivado, desenvolvimento encerrado.
-- **2 de agosto de 2026:** Estrelas 1,596 → 4,881.
 
 ## O que você ganha
 

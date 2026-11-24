@@ -2,12 +2,13 @@
 
 byoungd/up es una guía completa que ofrece recursos de desarrollo personal en una amplia gama de áreas, desde procesos de desarrollo de software hasta el aprendizaje de idiomas. Incluye consejos prácticos centrados especialmente en el uso eficiente de herramientas de inteligencia artificial y métodos para aprender inglés.
 
-- ★ 67.620
+- ★ 70.866
 - JavaScript
 - GitHub Trending · 2026-09-28
 
 ## Actualizaciones
 
+- **24 de noviembre de 2026:** Estrellas 67,620 → 70,866, última versión v1.1.0 (24 de noviembre de 2026).
 - **7 de octubre de 2026:** Estrellas 64,308 → 67,620.
 
 ## Qué aporta

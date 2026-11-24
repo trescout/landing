@@ -1114,10 +1114,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 119.388 · Apache-2.0",
+    "meta": "★ 119.510 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 119388,
+    "stars": 119510,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1544,6 +1544,13 @@
         "yildiz": 119388,
         "onceki_yildiz": 119290,
         "surum": "v16.1.2",
+        "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 119510,
+        "onceki_yildiz": 119388,
+        "surum": "v16.1.3",
         "surum_tarihi": "2026-11-24"
       }
     ],
@@ -5437,7 +5444,7 @@
     "slug": "impeccable",
     "title": "Impeccable",
     "tagline": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language)…",
-    "meta": "★ 116.090",
+    "meta": "★ 116.179",
     "image": "/assets/discover/og/impeccable.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -5445,7 +5452,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 116090,
+    "stars": 116179,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarınızı mükemmelleştirin",
     "last_review": "2026-11-24",
@@ -5728,6 +5735,13 @@
         "yildiz": 116090,
         "onceki_yildiz": 115531,
         "surum": "engine-v0.1.29",
+        "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 116179,
+        "onceki_yildiz": 116090,
+        "surum": "engine-v0.1.30",
         "surum_tarihi": "2026-11-24"
       }
     ],
@@ -9125,7 +9139,7 @@
     "slug": "plugins",
     "title": "Plugins",
     "tagline": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini…",
-    "meta": "★ 7.334 · JavaScript",
+    "meta": "★ 8.334 · JavaScript",
     "image": "/assets/discover/og/plugins.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -9133,7 +9147,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7334,
+    "stars": 8334,
     "lite": false,
     "headline": "Yapay zekâ ile güncel verilere erişin",
     "last_review": "2026-11-24",
@@ -9158,6 +9172,11 @@
         "tarih": "2026-10-07",
         "yildiz": 7334,
         "onceki_yildiz": 6331
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 8334,
+        "onceki_yildiz": 7334
       }
     ],
     "tagline_en": "OpenAI plugins allow language models to access current data and interact with third-party applications.",
@@ -16722,7 +16741,7 @@
     "slug": "ltx-2",
     "title": "LTX 2",
     "tagline": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük…",
-    "meta": "★ 10.212",
+    "meta": "★ 10.379",
     "image": "/assets/discover/og/ltx-2.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -16730,7 +16749,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10212,
+    "stars": 10379,
     "lite": false,
     "headline": "Yerel sistemde yapay zekâ ile video üretimi",
     "cmds": {
@@ -16823,6 +16842,13 @@
         "onceki_yildiz": 10090,
         "surum": "v1.6.2",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 10379,
+        "onceki_yildiz": 10212,
+        "surum": "v1.6.3",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_pt": "Desenvolvido pela Lightricks, o LTX-2 utiliza inferência Python e tecnologia de baixo custo para modelos de inteligência artificial que produzem áudio e vídeo.",
@@ -21723,14 +21749,14 @@
     "slug": "grafana",
     "title": "Grafana",
     "tagline": "Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde…",
-    "meta": "★ 77.827 · TypeScript",
+    "meta": "★ 78.108 · TypeScript",
     "image": "/assets/discover/og/grafana.webp",
     "source": "GitHub",
     "date": "2026-06-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 77827,
+    "stars": 78108,
     "lite": false,
     "headline": "Verilerinizi tek arayüzde görselleştirin",
     "last_review": "2026-11-24",
@@ -21804,6 +21830,13 @@
         "onceki_yildiz": 77551,
         "surum": "v13.3.1",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 78108,
+        "onceki_yildiz": 77827,
+        "surum": "v13.3.2",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "Grafana combines metrics, logs and traces from different data sources in a single interface.",
@@ -22628,7 +22661,7 @@
     "slug": "lingbot-map",
     "title": "Lingbot Map",
     "tagline": "Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel…",
-    "meta": "★ 18.061 · Python",
+    "meta": "★ 19.063 · Python",
     "image": "/assets/discover/og/lingbot-map.webp",
     "source": "GitHub",
     "date": "2026-06-29",
@@ -22636,7 +22669,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 18061,
+    "stars": 19063,
     "lite": false,
     "headline": "Akış verisinden üç boyutlu sahneler oluşturun",
     "last_review": "2026-11-24",
@@ -22655,6 +22688,11 @@
         "tarih": "2026-10-13",
         "yildiz": 18061,
         "onceki_yildiz": 17060
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 19063,
+        "onceki_yildiz": 18061
       }
     ],
     "tagline_en": "Lingbot-map is a feed-forward three-dimensional primitive designed to reconstruct scenes from streaming data.",
@@ -23339,7 +23377,7 @@
     "slug": "agents-cli",
     "title": "Agents CLI",
     "tagline": "Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay…",
-    "meta": "★ 6.370 · Python",
+    "meta": "★ 6.397 · Python",
     "image": "/assets/discover/og/agents-cli.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -23347,7 +23385,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6370,
+    "stars": 6397,
     "lite": false,
     "headline": "Kodlama asistanları için yapay zekâ araçları",
     "last_review": "2026-11-24",
@@ -23463,6 +23501,13 @@
         "onceki_yildiz": 6346,
         "surum": "v1.15.0",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 6397,
+        "onceki_yildiz": 6370,
+        "surum": "v1.16.0",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "The command line interface (CLI) developed by Google allows coding assistants to run on Google Cloud (Google Cloud).",
@@ -24349,7 +24394,7 @@
     "slug": "langflow",
     "title": "Langflow",
     "tagline": "Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme…",
-    "meta": "★ 156.748 · Python",
+    "meta": "★ 156.909 · Python",
     "image": "/assets/discover/og/langflow.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -24357,7 +24402,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 156748,
+    "stars": 156909,
     "lite": false,
     "headline": "Görsel arayüzle yapay zekâ iş akışları",
     "last_review": "2026-11-24",
@@ -24487,6 +24532,13 @@
         "onceki_yildiz": 156519,
         "surum": "v1.13.3",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 156909,
+        "onceki_yildiz": 156748,
+        "surum": "v1.13.4",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows.",
@@ -27307,14 +27359,14 @@
     "slug": "argo-cd",
     "title": "Argo Cd",
     "tagline": "Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir…",
-    "meta": "★ 24.639 · Go",
+    "meta": "★ 24.681 · Go",
     "image": "/assets/discover/og/argo-cd.webp",
     "source": "GitHub",
     "date": "2026-07-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 24639,
+    "stars": 24681,
     "lite": false,
     "headline": "Kubernetes dağıtımlarını otomatikleştirin",
     "last_review": "2026-11-24",
@@ -27402,6 +27454,13 @@
         "onceki_yildiz": 24545,
         "surum": "v3.6.2",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 24681,
+        "onceki_yildiz": 24639,
+        "surum": "v3.6.3",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments.",
@@ -48380,14 +48439,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 82.337 · TypeScript",
+    "meta": "★ 82.358 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 82337,
+    "stars": 82358,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-11-24",
@@ -48831,6 +48890,13 @@
         "yildiz": 82337,
         "onceki_yildiz": 82323,
         "surum": "v3.80.5",
+        "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 82358,
+        "onceki_yildiz": 82337,
+        "surum": "v3.80.6",
         "surum_tarihi": "2026-11-24"
       }
     ],
@@ -61601,7 +61667,7 @@
     "slug": "up",
     "title": "UP",
     "tagline": "byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan…",
-    "meta": "★ 67.620 · JavaScript",
+    "meta": "★ 70.866 · JavaScript",
     "image": "/assets/discover/og/up.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -61609,7 +61675,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 67620,
+    "stars": 70866,
     "last_seen": "2026-10-01",
     "summary": "byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan kapsamlı bir rehberdir. Özellikle yapay zekâ (artificial intelligence) araçlarını verimli kullanma ve İngilizce öğrenme yöntemleri üzerine odaklanan pratik ipuçları içerir.",
     "lite": false,
@@ -61627,6 +61693,13 @@
         "tarih": "2026-10-07",
         "yildiz": 67620,
         "onceki_yildiz": 64308
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 70866,
+        "onceki_yildiz": 67620,
+        "surum": "v1.1.0",
+        "surum_tarihi": "2026-11-24"
       }
     ]
   },
@@ -63507,7 +63580,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 4.768 · JavaScript",
+    "meta": "★ 4.824 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -63515,7 +63588,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4768,
+    "stars": 4824,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -63796,6 +63869,13 @@
         "onceki_yildiz": 4631,
         "surum": "v0.9.153",
         "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 4824,
+        "onceki_yildiz": 4768,
+        "surum": "v0.9.154",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "Pstack-claude, which adapts the core functions of the software development tool Cursor for different artificial intelligence models and platforms...",
@@ -64049,14 +64129,14 @@
     "slug": "opengym",
     "title": "openGym",
     "tagline": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu…",
-    "meta": "★ 22.728 · JavaScript",
+    "meta": "★ 23.870 · JavaScript",
     "image": "/assets/discover/og/opengym.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22728,
+    "stars": 23870,
     "last_seen": "2026-10-07",
     "summary": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.",
     "lite": false,
@@ -64193,6 +64273,13 @@
         "tarih": "2026-11-18",
         "yildiz": 22728,
         "onceki_yildiz": 21397,
+        "surum": "v1.4.5",
+        "surum_tarihi": "2026-11-14"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 23870,
+        "onceki_yildiz": 22728,
         "surum": "v1.4.5",
         "surum_tarihi": "2026-11-14"
       }
@@ -67609,7 +67696,7 @@
     "slug": "aisoc",
     "title": "AiSOC",
     "tagline": "AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi.",
-    "meta": "★ 7.332 · Python",
+    "meta": "★ 7.753 · Python",
     "image": "/assets/discover/og/aisoc.webp",
     "source": "GitHub",
     "date": "2026-11-02",
@@ -67618,7 +67705,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7332,
+    "stars": 7753,
     "last_seen": "2026-11-02",
     "summary": "AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi. Büyük dil modelleri (LLM) ile uyarıları sınıflandıran ve MITRE ATT&CK çerçevesiyle incelemeler yapan araç, API anahtarı gerektirmeden kendi sunucunuzda çalışabiliyor.",
     "lite": false,
@@ -67708,6 +67795,13 @@
         "onceki_yildiz": 6976,
         "surum": "v23.6.1",
         "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 7753,
+        "onceki_yildiz": 7332,
+        "surum": "v23.7.0",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "AiSOC is an open-source AI security center developed to automate security operations.",
@@ -69310,14 +69404,14 @@
     "slug": "codex-security",
     "title": "Codex Security",
     "tagline": "OpenAI tarafından geliştirilen codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için tasarlanmış bir komut…",
-    "meta": "★ 14.094 · TypeScript",
+    "meta": "★ 14.329 · TypeScript",
     "image": "/assets/discover/og/codex-security.webp",
     "source": "GitHub",
     "date": "2026-11-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 14094,
+    "stars": 14329,
     "last_seen": "2026-11-14",
     "summary": "OpenAI tarafından geliştirilen codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için tasarlanmış bir komut satırı arayüzü (CLI) ve yazılımcıların uygulama geliştirmesini kolaylaştıran araçlar bütünü (SDK) sunuyor. TypeScript diliyle yazılan bu araç, yazılım projelerindeki güvenlik zafiyetlerini tespit etme süreçlerini otomatikleştirmeyi amaçlıyor.",
     "lite": false,
@@ -69344,6 +69438,13 @@
         "onceki_yildiz": 13233,
         "surum": "npm-v0.10.1",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-24",
+        "yildiz": 14329,
+        "onceki_yildiz": 14094,
+        "surum": "npm-v0.11.0",
+        "surum_tarihi": "2026-11-24"
       }
     ],
     "tagline_en": "codex-security, developed by OpenAI, a command line tool designed to find, verify, and fix security vulnerabilities...",
