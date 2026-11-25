@@ -2,17 +2,17 @@
 
 Puppeteer is a browser automation library used to control Chrome and Firefox browsers. Developed with TypeScript, this tool offers a standard interface for test automation and web scraping operations on web pages.
 
-- ★ 95,860
+- ★ 95,902
 - GitHub Trending · 2026-06-15
 
 **TreScout note:** It allows you to use the browser not manually but with code: Opens the page, clicks, fills out a form, takes a screenshot or PDF. Playwright, which does the same job, is more comprehensive, if you need more than one browser, look there. The installation also downloads a copy of the browser, which takes up space.
 
 ## Updates
 
+- **November 25, 2026:** Stars 95,860 → 95,902, latest release browsers-v3.3.0 (November 25, 2026).
 - **November 18, 2026:** Stars 95,821 → 95,860, latest release puppeteer-core-v25.18.1 (November 17, 2026).
 - **November 10, 2026:** Stars 95,731 → 95,821, latest release browsers-v3.2.7 (November 10, 2026).
 - **October 22, 2026:** Stars 95,731 → 95,731, latest release browsers-v3.2.6 (October 22, 2026).
-- **October 20, 2026:** Stars 95,695 → 95,731, latest release puppeteer-core-v25.15.0 (October 20, 2026).
 
 ## What you get
 

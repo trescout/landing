@@ -2,17 +2,17 @@
 
 A diferencia de los marcos tradicionales, Svelte utiliza un enfoque en tiempo de compilación que reduce la sobrecarga del tiempo de ejecución en el navegador. Esta biblioteca de JavaScript simplifica los procesos de desarrollo web al convertir el código de la aplicación en módulos de JavaScript puro, pequeños y de rápida ejecución.
 
-- ★ 89.840
+- ★ 89.907
 - GitHub Trending · 2026-06-07
 
 **Nota de TreScout:** Uno de los marcos utilizados al escribir interfaces web. Dado que hace la mayor parte del trabajo mientras usted escribe el código, se descarga menos código en el navegador del visitante y la página se abre más rápido. Tamaño de la comunidad de costos: en comparación con React, la opción más común, las piezas listas para usar, las muestras y las ofertas de trabajo son menores.
 
 ## Actualizaciones
 
+- **25 de noviembre de 2026:** Estrellas 89,840 → 89,907, última versión svelte@5.59.2 (25 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 89,739 → 89,840, última versión svelte@5.59.1 (20 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 88,492 → 89,739, última versión svelte@5.58.0 (18 de noviembre de 2026).
 - **27 de octubre de 2026:** Estrellas 88,343 → 88,492, última versión svelte@5.57.3 (26 de octubre de 2026).
-- **7 de octubre de 2026:** Estrellas 88,135 → 88,343, última versión svelte@5.57.2 (6 de octubre de 2026).
 
 ## Qué aporta
 

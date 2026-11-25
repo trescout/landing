@@ -2,17 +2,17 @@
 
 Contrairement aux frameworks traditionnels, Svelte utilise une approche de compilation qui réduit la surcharge d'exécution sur le navigateur. Cette bibliothèque JavaScript simplifie les processus de développement Web en convertissant le code de l'application en modules JavaScript purs, petits et rapides.
 
-- ★ 89 840
+- ★ 89 907
 - GitHub Trending · 2026-06-07
 
 **Note TreScout :** L'un des frameworks utilisés lors de l'écriture d'interfaces Web. Puisqu'il effectue la majeure partie du travail pendant que vous écrivez le code, moins de code est téléchargé sur le navigateur du visiteur et la page s'ouvre plus rapidement. Coût de la taille de la communauté : par rapport à React, l'option la plus courante, les pièces prêtes à l'emploi, les échantillons et les offres d'emploi sont moins nombreux.
 
 ## Mises à jour
 
+- **25 novembre 2026:** Étoiles 89,840 → 89,907, dernière version svelte@5.59.2 (25 novembre 2026).
 - **21 novembre 2026:** Étoiles 89,739 → 89,840, dernière version svelte@5.59.1 (20 novembre 2026).
 - **18 novembre 2026:** Étoiles 88,492 → 89,739, dernière version svelte@5.58.0 (18 novembre 2026).
 - **27 octobre 2026:** Étoiles 88,343 → 88,492, dernière version svelte@5.57.3 (26 octobre 2026).
-- **7 octobre 2026:** Étoiles 88,135 → 88,343, dernière version svelte@5.57.2 (6 octobre 2026).
 
 ## Ce que ça vous apporte
 

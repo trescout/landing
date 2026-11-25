@@ -146,14 +146,14 @@
     "slug": "ai-engineering-from-scratch",
     "title": "AI Engineering from Scratch",
     "tagline": "Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.",
-    "meta": "★ 79.501 · MIT",
+    "meta": "★ 80.118 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 79501,
+    "stars": 80118,
     "image": "/assets/discover/og/ai-engineering-from-scratch.webp",
     "headline": "Sıfırdan yapay zekâ mühendisliği eğitimi",
     "last_review": "2026-11-25",
@@ -290,6 +290,13 @@
         "onceki_yildiz": 78710,
         "surum": "v2026.11.4",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 80118,
+        "onceki_yildiz": 79501,
+        "surum": "v2026.11.5",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "A free 485-lesson course that teaches artificial intelligence engineering from scratch with applied coding.",
@@ -6002,7 +6009,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 39.867",
+    "meta": "★ 39.871",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -6010,7 +6017,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39867,
+    "stars": 39871,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-11-25",
@@ -6678,6 +6685,13 @@
         "yildiz": 39867,
         "onceki_yildiz": 39734,
         "surum": "v19.2.0",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 39871,
+        "onceki_yildiz": 39867,
+        "surum": "v19.2.1",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -7757,14 +7771,14 @@
     "slug": "spec-kit",
     "title": "Spec Kit",
     "tagline": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…",
-    "meta": "★ 151.144 · Python",
+    "meta": "★ 151.360 · Python",
     "image": "/assets/discover/og/spec-kit.webp",
     "source": "GitHub",
     "date": "2026-06-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 151144,
+    "stars": 151360,
     "lite": false,
     "headline": "Yapay zekâ ile şartname odaklı geliştirme",
     "last_review": "2026-11-25",
@@ -8034,6 +8048,13 @@
         "onceki_yildiz": 150728,
         "surum": "v1.4.4",
         "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 151360,
+        "onceki_yildiz": 151144,
+        "surum": "v1.4.5",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes.",
@@ -9429,14 +9450,14 @@
     "slug": "svelte",
     "title": "Svelte",
     "tagline": "Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time)…",
-    "meta": "★ 89.840",
+    "meta": "★ 89.907",
     "image": "/assets/discover/og/svelte.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 89840,
+    "stars": 89907,
     "lite": false,
     "headline": "Derleme zamanında çalışan arayüz çerçevesi",
     "headline_locked": true,
@@ -9520,6 +9541,13 @@
         "onceki_yildiz": 89739,
         "surum": "svelte@5.59.1",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 89907,
+        "onceki_yildiz": 89840,
+        "surum": "svelte@5.59.2",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Unlike traditional frameworks, Svelte is a compile-time application that reduces the runtime load on the browser.",
@@ -13784,14 +13812,14 @@
     "slug": "puppeteer",
     "title": "Puppeteer",
     "tagline": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…",
-    "meta": "★ 95.860",
+    "meta": "★ 95.902",
     "image": "/assets/discover/og/puppeteer.webp",
     "source": "GitHub",
     "date": "2026-06-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95860,
+    "stars": 95902,
     "lite": false,
     "headline": "Tarayıcıları kodla otomatik yönetin",
     "cmds": {
@@ -13914,6 +13942,13 @@
         "onceki_yildiz": 95821,
         "surum": "puppeteer-core-v25.18.1",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 95902,
+        "onceki_yildiz": 95860,
+        "surum": "browsers-v3.3.0",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Puppeteer is a browser automation system used to control Chrome and Firefox browsers.",
@@ -19130,7 +19165,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 89.967 · TypeScript",
+    "meta": "★ 90.025 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -19138,7 +19173,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 89967,
+    "stars": 90025,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-25",
@@ -19995,6 +20030,13 @@
         "yildiz": 89967,
         "onceki_yildiz": 89383,
         "surum": "v0.9.94",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 90025,
+        "onceki_yildiz": 89967,
+        "surum": "v0.9.95",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -25458,14 +25500,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 13.435 · TypeScript",
+    "meta": "★ 13.505 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13435,
+    "stars": 13505,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-11-25",
@@ -25742,6 +25784,13 @@
         "onceki_yildiz": 12892,
         "surum": "v0.8.0",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 13505,
+        "onceki_yildiz": 13435,
+        "surum": "v0.8.1",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -38332,7 +38381,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 24.582 · TypeScript",
+    "meta": "★ 24.592 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -38340,7 +38389,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24582,
+    "stars": 24592,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-11-25",
@@ -38617,6 +38666,13 @@
         "onceki_yildiz": 24569,
         "surum": "v0.18.72",
         "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 24592,
+        "onceki_yildiz": 24582,
+        "surum": "v0.18.73",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.",
@@ -44731,7 +44787,7 @@
     "slug": "macro",
     "title": "Macro",
     "tagline": "Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir…",
-    "meta": "★ 6.484 · Rust",
+    "meta": "★ 6.491 · Rust",
     "image": "/assets/discover/og/macro.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -44739,7 +44795,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6484,
+    "stars": 6491,
     "lite": false,
     "headline": "İş araçlarını birleştiren yapay zekâ hafızası",
     "needs_enrichment": true,
@@ -45099,6 +45155,13 @@
         "yildiz": 6484,
         "onceki_yildiz": 6456,
         "surum": "v2026.11.24.1",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 6491,
+        "onceki_yildiz": 6484,
+        "surum": "v2026.11.25.1",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -46447,14 +46510,14 @@
     "slug": "cordis",
     "title": "Cordis",
     "tagline": "Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (meta-framework).",
-    "meta": "★ 9.868 · TypeScript",
+    "meta": "★ 10.046 · TypeScript",
     "image": "/assets/discover/og/cordis.webp",
     "source": "GitHub",
     "date": "2026-08-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 9868,
+    "stars": 10046,
     "lite": false,
     "headline": "Karmaşık sistemler için modüler çerçeve",
     "needs_enrichment": true,
@@ -46510,6 +46573,13 @@
         "onceki_yildiz": 9323,
         "surum": "v4.0.0-rc.13",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 10046,
+        "onceki_yildiz": 9868,
+        "surum": "v4.0.0-rc.14",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "last_seen": "2026-08-17"
@@ -46881,7 +46951,7 @@
     "slug": "ai-memory",
     "title": "AI Memory",
     "tagline": "Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor.",
-    "meta": "★ 16.391 · Rust",
+    "meta": "★ 16.398 · Rust",
     "image": "/assets/discover/og/ai-memory.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -46889,7 +46959,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16391,
+    "stars": 16398,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına kalıcı hafıza",
     "needs_enrichment": true,
@@ -47306,6 +47376,13 @@
         "onceki_yildiz": 16329,
         "surum": "v3.6.1",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 16398,
+        "onceki_yildiz": 16391,
+        "surum": "v3.6.2",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "last_seen": "2026-10-22"
@@ -48698,14 +48775,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 82.403 · TypeScript",
+    "meta": "★ 82.407 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 82403,
+    "stars": 82407,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-11-25",
@@ -49163,6 +49240,13 @@
         "yildiz": 82403,
         "onceki_yildiz": 82358,
         "surum": "v3.80.7",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 82407,
+        "onceki_yildiz": 82403,
+        "surum": "v3.80.8",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -52221,14 +52305,14 @@
     "slug": "archify",
     "title": "Archify",
     "tagline": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ…",
-    "meta": "★ 99.428",
+    "meta": "★ 99.851",
     "image": "/assets/discover/og/archify.webp",
     "source": "GitHub",
     "date": "2026-08-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 99428,
+    "stars": 99851,
     "summary": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.",
     "headline": "Yapay zekâ ile interaktif sistem şemaları oluşturun",
     "lite": false,
@@ -52379,6 +52463,13 @@
         "onceki_yildiz": 99065,
         "surum": "v3.3.1",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 99851,
+        "onceki_yildiz": 99428,
+        "surum": "v3.3.2",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "last_review": "2026-11-25",
@@ -55013,7 +55104,7 @@
     "slug": "magnitude",
     "title": "Magnitude",
     "tagline": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık…",
-    "meta": "★ 8.376 · TypeScript",
+    "meta": "★ 8.414 · TypeScript",
     "image": "/assets/discover/og/magnitude.webp",
     "source": "GitHub",
     "date": "2026-09-04",
@@ -55021,7 +55112,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8376,
+    "stars": 8414,
     "summary": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.",
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın",
@@ -55193,6 +55284,13 @@
         "yildiz": 8376,
         "onceki_yildiz": 7757,
         "surum": "@magnitudedev/cli@0.3.2",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 8414,
+        "onceki_yildiz": 8376,
+        "surum": "@magnitudedev/cli@0.3.3",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -55985,7 +56083,7 @@
     "slug": "context-mode",
     "title": "Context Mode",
     "tagline": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir…",
-    "meta": "★ 34.472 · TypeScript",
+    "meta": "★ 34.474 · TypeScript",
     "image": "/assets/discover/og/context-mode.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -55993,7 +56091,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34472,
+    "stars": 34474,
     "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
@@ -56138,6 +56236,13 @@
         "onceki_yildiz": 34419,
         "surum": "v2.2.3",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 34474,
+        "onceki_yildiz": 34472,
+        "surum": "v2.2.4",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Context-mode is a tool that provides context window optimization for AI coding agents...",
@@ -57076,7 +57181,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 5.544 · TypeScript",
+    "meta": "★ 5.547 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -57085,7 +57190,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5544,
+    "stars": 5547,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -57489,6 +57594,13 @@
         "onceki_yildiz": 5527,
         "surum": "v1.125.0",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 5547,
+        "onceki_yildiz": 5544,
+        "surum": "v1.126.0",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -60880,7 +60992,7 @@
     "slug": "harness-sdk",
     "title": "Harness SDK",
     "tagline": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti.",
-    "meta": "★ 9.279",
+    "meta": "★ 9.289",
     "image": "/assets/discover/og/harness-sdk.webp",
     "source": "GitHub",
     "date": "2026-09-24",
@@ -60888,7 +61000,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9279,
+    "stars": 9289,
     "summary": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti. Python ve TypeScript dilleriyle uyumlu olan bu araç, farklı modeller ve bulut altyapıları üzerinde çalışan üretim seviyesindeki ajanların standartlaştırılmasına olanak tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için geliştirme kiti",
@@ -61019,6 +61131,13 @@
         "onceki_yildiz": 9261,
         "surum": "harness-python/v0.5.0",
         "surum_tarihi": "2026-11-23"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 9289,
+        "onceki_yildiz": 9279,
+        "surum": "python/v1.67.0",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Harness SDK is an open-source development kit providing end-to-end control and management for artificial intelligence agents.",
@@ -66295,14 +66414,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.700 · Go",
+    "meta": "★ 3.710 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3700,
+    "stars": 3710,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -66517,6 +66636,13 @@
         "yildiz": 3700,
         "onceki_yildiz": 3661,
         "surum": "deploy-20261125-1351",
+        "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 3710,
+        "onceki_yildiz": 3700,
+        "surum": "deploy-20261125-1801",
         "surum_tarihi": "2026-11-25"
       }
     ],
@@ -67601,7 +67727,7 @@
     "slug": "openmausbot",
     "title": "OpenMausBot",
     "tagline": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open…",
-    "meta": "★ 27.427 · TypeScript",
+    "meta": "★ 27.794 · TypeScript",
     "image": "/assets/discover/og/openmausbot.webp",
     "source": "GitHub",
     "date": "2026-10-30",
@@ -67609,7 +67735,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27427,
+    "stars": 27794,
     "last_seen": "2026-11-09",
     "summary": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.",
     "lite": false,
@@ -67804,6 +67930,13 @@
         "onceki_yildiz": 27278,
         "surum": "v0.1.180",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 27794,
+        "onceki_yildiz": 27427,
+        "surum": "v0.1.181",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "OpenMausBot is an open-source (open… tool that allows you to create your own AI bot team within chat applications.",
@@ -68965,14 +69098,14 @@
     "slug": "zed",
     "title": "ZED",
     "tagline": "Zed, Atom ve Tree-sitter geliştiricileri tarafından Rust diliyle hazırlanan yüksek performanslı ve çok oyunculu bir kod…",
-    "meta": "★ 95.440 · Rust",
+    "meta": "★ 95.728 · Rust",
     "image": "/assets/discover/og/zed.webp",
     "source": "GitHub",
     "date": "2026-11-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95440,
+    "stars": 95728,
     "last_seen": "2026-11-08",
     "summary": "Zed, Atom ve Tree-sitter geliştiricileri tarafından Rust diliyle hazırlanan yüksek performanslı ve çok oyunculu bir kod düzenleyici (code editor). Yazılım geliştirme süreçlerinde hız odaklı bir deneyim sunmayı amaçlıyor.",
     "lite": false,
@@ -69015,6 +69148,13 @@
         "onceki_yildiz": 95298,
         "surum": "v1.29.3",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 95728,
+        "onceki_yildiz": 95440,
+        "surum": "v1.30.2",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "Zed is a high-performance, multiplayer code editor written in Rust by the creators of Atom and Tree-sitter...",
@@ -71177,14 +71317,14 @@
     "slug": "app-store-compliance",
     "title": "App Store Compliance",
     "tagline": "mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını…",
-    "meta": "★ 6.296 · Shell",
+    "meta": "★ 6.355 · Shell",
     "image": "/assets/discover/og/app-store-compliance.webp",
     "source": "GitHub",
     "date": "2026-11-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 6296,
+    "stars": 6355,
     "last_seen": "2026-11-25",
     "summary": "mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını içeren açık bir rehber sunuyor. Yasal düzenleme takipleri ve gizlilik bildirimleri gibi araçlarla geliştiricilerin App Store ve Google Play onay süreçlerini kolaylaştırmayı hedefliyor.",
     "lite": false,
@@ -71232,6 +71372,13 @@
         "onceki_yildiz": 4775,
         "surum": "v2.5.1",
         "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-25",
+        "yildiz": 6355,
+        "onceki_yildiz": 6296,
+        "surum": "v2.5.2",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "mjmirza/app-store-compliance, 117 different rejection patterns encountered in app store review processes and their solutions...",

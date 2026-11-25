@@ -2,17 +2,17 @@
 
 Puppeteer ist eine Browser-Automatisierungsbibliothek zur Steuerung von Chrome- und Firefox-Browsern. Dieses mit TypeScript entwickelte Tool bietet eine Standardschnittstelle für Testautomatisierung und Web-Scraping-Vorgänge auf Webseiten.
 
-- ★ 95.860
+- ★ 95.902
 - GitHub Trending · 2026-06-15
 
 **Hinweis von TreScout:** Damit können Sie den Browser nicht manuell, sondern mit Code nutzen: Öffnet die Seite, klickt, füllt ein Formular aus, erstellt einen Screenshot oder ein PDF. Playwright, das die gleiche Aufgabe erfüllt, ist umfassender. Wenn Sie mehr als einen Browser benötigen, schauen Sie dort nach. Die Installation lädt auch eine Kopie des Browsers herunter, die Speicherplatz beansprucht.
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 95,860 → 95,902, neueste Version browsers-v3.3.0 (25. November 2026).
 - **18. November 2026:** Sterne 95,821 → 95,860, neueste Version puppeteer-core-v25.18.1 (17. November 2026).
 - **10. November 2026:** Sterne 95,731 → 95,821, neueste Version browsers-v3.2.7 (10. November 2026).
 - **22. Oktober 2026:** Sterne 95,731 → 95,731, neueste Version browsers-v3.2.6 (22. Oktober 2026).
-- **20. Oktober 2026:** Sterne 95,695 → 95,731, neueste Version puppeteer-core-v25.15.0 (20. Oktober 2026).
 
 ## Was es bringt
 

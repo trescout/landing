@@ -2,15 +2,15 @@
 
 Archify is an AI agent skill that generates architecture, data flow, and workflow diagrams as verifiable and animated HTML files. Used to visualize complex system designs, this tool supports high-resolution export of diagrams.
 
-- ★ 99,428
+- ★ 99,851
 - GitHub Trending · 2026-08-26
 
 ## Updates
 
+- **November 25, 2026:** Stars 99,428 → 99,851, latest release v3.3.2 (November 25, 2026).
 - **November 24, 2026:** Stars 99,065 → 99,428, latest release v3.3.1 (November 24, 2026).
 - **November 23, 2026:** Stars 94,555 → 99,065, latest release v3.3.0 (November 22, 2026).
 - **November 8, 2026:** Stars 90,051 → 94,555, latest release v3.2.0 (October 19, 2026).
-- **October 27, 2026:** Stars 85,613 → 90,051, latest release v3.2.0 (October 19, 2026).
 
 ## What you get
 

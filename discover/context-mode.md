@@ -2,16 +2,16 @@
 
 Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.
 
-- ★ 34.472
+- ★ 34.474
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 34.472 → 34.474, son sürüm v2.2.4 (25 Kasım 2026).
 - **25 Kasım 2026:** Yıldız 34.419 → 34.472, son sürüm v2.2.3 (24 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 34.275 → 34.419, son sürüm v2.2.2 (22 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 34.110 → 34.275, son sürüm v2.2.1 (17 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 34.006 → 34.110, son sürüm v2.2.0 (14 Kasım 2026).
 
 ## Ne kazandırır?
 
