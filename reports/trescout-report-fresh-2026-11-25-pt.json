@@ -1,0 +1,352 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-25",
+  "capturedAt": "2026-11-25T14:31:30.719Z",
+  "editorial": "O conteúdo incluído no relatório não se repete por 30 dias. Os posts que permanecerem na agenda após esse período serão listados novamente com a tag “na agenda novamente”.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "summary": "",
+          "meta": "798 pontos · 447 comentários",
+          "snapshot": {
+            "sourceId": "50637220",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 798,
+              "engagementCount": 447,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50637220",
+                  "popularity": 798,
+                  "engagementCount": 447
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-25T01:19:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50637220",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Contribute to openai/math development by creating an account on GitHub."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50637220",
+              "popularity": 798,
+              "engagementCount": 447
+            }
+          ]
+        },
+        {
+          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "url": "https://buttons.joshwcomeau.com/",
+          "summary": "",
+          "meta": "580 pontos · 90 comentários",
+          "snapshot": {
+            "sourceId": "50638032",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 580,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50638032",
+                  "popularity": 580,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-25T03:23:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50638032",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50638032",
+              "popularity": 580,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "The Spray Bottle",
+          "url": "https://mechanical-pencil.com/products/spray-bottle",
+          "summary": "",
+          "meta": "542 pontos · 125 comentários",
+          "snapshot": {
+            "sourceId": "50598555",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 542,
+              "engagementCount": 125,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50598555",
+                  "popularity": 542,
+                  "engagementCount": 125
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-22T11:16:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50598555",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Illustrating the Engineering Around Us"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50598555",
+              "popularity": 542,
+              "engagementCount": 125
+            }
+          ]
+        },
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "summary": "",
+          "meta": "493 pontos · 150 comentários",
+          "snapshot": {
+            "sourceId": "50633922",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 150,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50633922",
+                  "popularity": 493,
+                  "engagementCount": 150
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-24T20:08:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50633922",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Ternary Bonsai 2.5 27B brings substantially stronger agentic coding, multi-turn tool use, and multi-step task execution to the same 5.9 GB footprint."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50633922",
+              "popularity": 493,
+              "engagementCount": 150
+            }
+          ]
+        },
+        {
+          "title": "GTA 6 Running on Windows",
+          "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+          "summary": "",
+          "meta": "457 pontos · 517 comentários",
+          "snapshot": {
+            "sourceId": "50627783",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50627783",
+                  "popularity": 457,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-24T13:19:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50627783"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50627783",
+              "popularity": 457,
+              "engagementCount": 517
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "SulphurAI/Sulphur-3",
+          "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+          "summary": "",
+          "meta": "♥ 987 · 189.735 downloads",
+          "snapshot": {
+            "sourceId": "SulphurAI/Sulphur-3",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 987,
+              "engagementCount": 189735,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 314,
+                "tags": [
+                  "minimax-h3",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An uncensored video generation model based on MiniMax H3."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy",
+          "url": "https://huggingface.co/papers/2611.31752",
+          "summary": "",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.31752",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31752",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/setloop-io/Separating-Measurement-Failures-from-Defence-Failures-in-Split-Language-Model-Privacy",
+                "githubStars": 0
+              }
+            },
+            "description": "Split-training privacy evaluations fail through distinct mechanisms. Evaluators can overlook an exposed gradient channel, align reconstructions against shifted labels, or deploy uncalibrated probes before testing a candidate defence, while calibrated attacks can also refute real defences. Separating these failure modes alters which claims survive. We conduct a retrospective evidentiary reanalysis across four split-LLM campaigns and two cross-cutting scope checks covering host key custody and var"
+          }
+        },
+        {
+          "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
+          "url": "https://huggingface.co/papers/2611.32782",
+          "summary": "",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.32782",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32782",
+                "publishedAt": "2026-11-24T00:00:00.000Z"
+              }
+            },
+            "description": "Modern large language models (LLMs) keep the feed-forward network (FFN) intermediate width identical across every layer, a convention inherited from the original Transformer. Yet mechanistic work suggests layers at different depths do qualitatively different work, raising a natural question: are their capacity demands also non-uniform, and if so, can a fixed parameter budget be allocated more wisely than uniformly? To probe this, we apply principal component analysis (PCA) to the input of each F"
+          }
+        },
+        {
+          "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+          "url": "https://huggingface.co/papers/2611.32649",
+          "summary": "",
+          "meta": "17 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.32649",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32649",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ICLWorld/ICLWorld",
+                "githubStars": 10
+              }
+            },
+            "description": "In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet their ICL remains insufficiently assessed: existing benchmarks are largely offline, rely on text or static images, and risk training-data contamination, while robot evaluations are limited to method-level ablations. We present ICLWorld, an online benchmark that evaluates the ICL of agents from digital t"
+          }
+        },
+        {
+          "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment",
+          "url": "https://huggingface.co/papers/2611.31129",
+          "summary": "",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.31129",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31129",
+                "publishedAt": "2026-11-23T00:00:00.000Z"
+              }
+            },
+            "description": "Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying hardware integrity. In this paper, we present FATCAT, the first physical fault-injection attacks capable of eliminating refusal in modern large language and vision-language models. Specifically, we present a non-invasive electromagnetic (EM) fault injection attack targeting GPU-accelerated Systems-o"
+          }
+        },
+        {
+          "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
+          "url": "https://huggingface.co/papers/2611.32918",
+          "summary": "",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.32918",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32918",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaofengShi/InstructReplay",
+                "githubStars": 0
+              }
+            },
+            "description": "Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 points on average, and that these losses track a collapse in answer length: fine-tuned models at least halve their responses, and the further a response drifts from the initial model's length, the more often it fails. We propose InstructReplay: the initial model answers a set of general instructions "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}

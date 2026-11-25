@@ -1,0 +1,823 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-25",
+  "capturedAt": "2026-11-25T14:31:30.719Z",
+  "editorial": "Today's sources have been collected. As the AI summarization service is temporarily unavailable, the items are presented with source titles and links.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "",
+          "meta": "Python · ★ 22,445 · +1,644 today",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22445,
+              "engagementCount": 1644,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1644
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "",
+          "meta": "Shell · ★ 326,329 · +902 today",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 326329,
+              "engagementCount": 902,
+              "rank": 2,
+              "extra": {
+                "starsToday": 902,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "",
+          "meta": "Python · ★ 65,430 · +1,094 today",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 65430,
+              "engagementCount": 1094,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1094,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "",
+          "meta": "Python · ★ 70,803 · +828 today",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 70803,
+              "engagementCount": 828,
+              "rank": 4,
+              "extra": {
+                "starsToday": 828,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. MiniMind 以 Apache 2.0 协议完全开源、永久免费。赞助完全自愿，不换取任何特权，也不影响项目使用。感谢每一位支持者，让这个业余时间维护的项目得以持续。"
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "",
+          "meta": "TypeScript · ★ 19,445 · +408 today",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19445,
+              "engagementCount": 408,
+              "rank": 5,
+              "extra": {
+                "starsToday": 408
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "",
+          "meta": "TypeScript · ★ 209,646 · +1,131 today",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 209646,
+              "engagementCount": 1131,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1131,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          }
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "",
+          "meta": "C · ★ 33,311 · +174 today",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 33311,
+              "engagementCount": 174,
+              "rank": 7,
+              "extra": {
+                "starsToday": 174,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "",
+          "meta": "C++ · ★ 12,585 · +188 today",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 12585,
+              "engagementCount": 188,
+              "rank": 8,
+              "extra": {
+                "starsToday": 188,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "",
+          "meta": "HTML · ★ 72,665 · +1,133 today",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 72665,
+              "engagementCount": 1133,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1133
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "",
+          "meta": "Python · ★ 74,827 · +950 today",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 74827,
+              "engagementCount": 950,
+              "rank": 10,
+              "extra": {
+                "starsToday": 950
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "",
+          "meta": "TypeScript · ★ 12,879 · +352 today",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12879,
+              "engagementCount": 352,
+              "rank": 11,
+              "extra": {
+                "starsToday": 352
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "",
+          "meta": "Shell · ★ 6,288 · +853 today",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 6288,
+              "engagementCount": 853,
+              "rank": 12,
+              "extra": {
+                "starsToday": 853
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          }
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "",
+          "meta": "Python · ★ 15,396 · +343 today",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15396,
+              "engagementCount": 343,
+              "rank": 13,
+              "extra": {
+                "starsToday": 343,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          }
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "",
+          "meta": "TypeScript · ★ 78,286 · +578 today",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 78286,
+              "engagementCount": 578,
+              "rank": 14,
+              "extra": {
+                "starsToday": 578
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          }
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "",
+          "meta": "Python · ★ 17,976 · +950 today",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17976,
+              "engagementCount": 950,
+              "rank": 15,
+              "extra": {
+                "starsToday": 950,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "",
+          "meta": "Python · ★ 15,974 · +868 today",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-25T14:46:34.256Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15974,
+              "engagementCount": 868,
+              "rank": 16,
+              "extra": {
+                "starsToday": 868
+              }
+            },
+            "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "summary": "",
+          "meta": "798 points · 447 comments",
+          "snapshot": {
+            "sourceId": "50637220",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 798,
+              "engagementCount": 447,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50637220",
+                  "popularity": 798,
+                  "engagementCount": 447
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-25T01:19:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50637220",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Contribute to openai/math development by creating an account on GitHub."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50637220",
+              "popularity": 798,
+              "engagementCount": 447
+            }
+          ]
+        },
+        {
+          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "url": "https://buttons.joshwcomeau.com/",
+          "summary": "",
+          "meta": "580 points · 90 comments",
+          "snapshot": {
+            "sourceId": "50638032",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 580,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50638032",
+                  "popularity": 580,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-25T03:23:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50638032",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50638032",
+              "popularity": 580,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "The Spray Bottle",
+          "url": "https://mechanical-pencil.com/products/spray-bottle",
+          "summary": "",
+          "meta": "542 points · 125 comments",
+          "snapshot": {
+            "sourceId": "50598555",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 542,
+              "engagementCount": 125,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50598555",
+                  "popularity": 542,
+                  "engagementCount": 125
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-22T11:16:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50598555",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Illustrating the Engineering Around Us"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50598555",
+              "popularity": 542,
+              "engagementCount": 125
+            }
+          ]
+        },
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "summary": "",
+          "meta": "493 points · 150 comments",
+          "snapshot": {
+            "sourceId": "50633922",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 150,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50633922",
+                  "popularity": 493,
+                  "engagementCount": 150
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-24T20:08:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50633922",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Ternary Bonsai 2.5 27B brings substantially stronger agentic coding, multi-turn tool use, and multi-step task execution to the same 5.9 GB footprint."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50633922",
+              "popularity": 493,
+              "engagementCount": 150
+            }
+          ]
+        },
+        {
+          "title": "GTA 6 Running on Windows",
+          "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+          "summary": "",
+          "meta": "457 points · 517 comments",
+          "snapshot": {
+            "sourceId": "50627783",
+            "capturedAt": "2026-11-25T14:31:31.123Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50627783",
+                  "popularity": 457,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-24T13:19:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50627783"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50627783",
+              "popularity": 457,
+              "engagementCount": 517
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "",
+          "meta": "♥ 5,904 · 96,527 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 5904,
+              "engagementCount": 96527,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1276.5,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "",
+          "meta": "♥ 1,312 · 2,445,633 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 1312,
+              "engagementCount": 2445633,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1119,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. You can also train Inkling 2 via the latest version of Unsloth or run via llama.cpp. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        },
+        {
+          "title": "inworld/voice-isolator",
+          "url": "https://huggingface.co/inworld/voice-isolator",
+          "summary": "",
+          "meta": "♥ 851 · 15,244 downloads",
+          "snapshot": {
+            "sourceId": "inworld/voice-isolator",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 851,
+              "engagementCount": 15244,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 655,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "inworld-voice-isolation",
+                  "audio",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-denoising",
+                  "noise-suppression",
+                  "voice-isolation",
+                  "48khz",
+                  "full-band",
+                  "streaming",
+                  "realtime",
+                  "audio-to-audio",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Inworld Voice Isolator v1 ships as two models that share one architecture:"
+          }
+        },
+        {
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "summary": "",
+          "meta": "♥ 794 · 762,491 downloads",
+          "snapshot": {
+            "sourceId": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 794,
+              "engagementCount": 762491,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 452.2,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "llama.cpp",
+                  "inkling2",
+                  "uncensored",
+                  "lora",
+                  "image-text-to-text",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE in this repo). It comes as a LoRA adapter for any GGUF of AtomicChat/Inkling-2-Mini-GGUF and as three ready-made GGUF files with the edit baked in. Every gate we hold it to is measured below, and the two it misses are shown."
+          }
+        },
+        {
+          "title": "SulphurAI/Sulphur-3",
+          "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+          "summary": "",
+          "meta": "♥ 987 · 189,735 downloads",
+          "snapshot": {
+            "sourceId": "SulphurAI/Sulphur-3",
+            "capturedAt": "2026-11-25T14:31:30.881Z",
+            "metadata": {
+              "popularity": 987,
+              "engagementCount": 189735,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 314,
+                "tags": [
+                  "minimax-h3",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An uncensored video generation model based on MiniMax H3."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy",
+          "url": "https://huggingface.co/papers/2611.31752",
+          "summary": "",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.31752",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31752",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/setloop-io/Separating-Measurement-Failures-from-Defence-Failures-in-Split-Language-Model-Privacy",
+                "githubStars": 0
+              }
+            },
+            "description": "Split-training privacy evaluations fail through distinct mechanisms. Evaluators can overlook an exposed gradient channel, align reconstructions against shifted labels, or deploy uncalibrated probes before testing a candidate defence, while calibrated attacks can also refute real defences. Separating these failure modes alters which claims survive. We conduct a retrospective evidentiary reanalysis across four split-LLM campaigns and two cross-cutting scope checks covering host key custody and var"
+          }
+        },
+        {
+          "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
+          "url": "https://huggingface.co/papers/2611.32782",
+          "summary": "",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.32782",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32782",
+                "publishedAt": "2026-11-24T00:00:00.000Z"
+              }
+            },
+            "description": "Modern large language models (LLMs) keep the feed-forward network (FFN) intermediate width identical across every layer, a convention inherited from the original Transformer. Yet mechanistic work suggests layers at different depths do qualitatively different work, raising a natural question: are their capacity demands also non-uniform, and if so, can a fixed parameter budget be allocated more wisely than uniformly? To probe this, we apply principal component analysis (PCA) to the input of each F"
+          }
+        },
+        {
+          "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+          "url": "https://huggingface.co/papers/2611.32649",
+          "summary": "",
+          "meta": "17 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.32649",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32649",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ICLWorld/ICLWorld",
+                "githubStars": 10
+              }
+            },
+            "description": "In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet their ICL remains insufficiently assessed: existing benchmarks are largely offline, rely on text or static images, and risk training-data contamination, while robot evaluations are limited to method-level ablations. We present ICLWorld, an online benchmark that evaluates the ICL of agents from digital t"
+          }
+        },
+        {
+          "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment",
+          "url": "https://huggingface.co/papers/2611.31129",
+          "summary": "",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.31129",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31129",
+                "publishedAt": "2026-11-23T00:00:00.000Z"
+              }
+            },
+            "description": "Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying hardware integrity. In this paper, we present FATCAT, the first physical fault-injection attacks capable of eliminating refusal in modern large language and vision-language models. Specifically, we present a non-invasive electromagnetic (EM) fault injection attack targeting GPU-accelerated Systems-o"
+          }
+        },
+        {
+          "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
+          "url": "https://huggingface.co/papers/2611.32918",
+          "summary": "",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.32918",
+            "capturedAt": "2026-11-25T14:31:30.889Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32918",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaofengShi/InstructReplay",
+                "githubStars": 0
+              }
+            },
+            "description": "Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 points on average, and that these losses track a collapse in answer length: fine-tuned models at least halve their responses, and the further a response drifts from the initial model's length, the more often it fails. We propose InstructReplay: the initial model answers a set of general instructions "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}
