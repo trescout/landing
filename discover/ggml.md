@@ -2,12 +2,13 @@
 
 ggml-org/ggml, makine öğrenmesi modelleri için C++ diliyle geliştirilmiş bir tensör kütüphanesidir. Yazılım, temel matris çarpımı gibi işlemler için sade ve açıklayıcı örnekler sunarak yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 15.988
+- ★ 16.199
 - C++
 - GitHub Trending · 2026-11-16
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 15.988 → 16.199, son sürüm v1.1.0 (25 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 15.982 → 15.988, son sürüm v1.0.0 (13 Kasım 2026).
 
 ## Ne kazandırır?

@@ -2,16 +2,16 @@
 
 Unsloth es una biblioteca que acelera el entrenamiento y ejecución de modelos de lenguaje grandes (LLM) y modelos de difusión en un entorno nativo. Hace que los procesos de ajuste de modelos populares sean más accesibles al optimizar el uso de la memoria.
 
-- ★ 80.154
+- ★ 80.228
 - Python
 - GitHub Trending · 2026-08-14
 
 ## Actualizaciones
 
+- **25 de noviembre de 2026:** Estrellas 80,154 → 80,228, última versión v0.1.925-beta (25 de noviembre de 2026).
 - **24 de noviembre de 2026:** Estrellas 80,078 → 80,154, última versión v0.1.924-beta (24 de noviembre de 2026).
 - **23 de noviembre de 2026:** Estrellas 79,863 → 80,078, última versión v0.1.923-beta (23 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 79,811 → 79,863, última versión v0.1.922-beta (20 de noviembre de 2026).
-- **20 de noviembre de 2026:** Estrellas 79,743 → 79,811, última versión v0.1.920-beta (19 de noviembre de 2026).
 
 ## Qué aporta
 

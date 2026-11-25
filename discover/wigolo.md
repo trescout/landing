@@ -2,16 +2,16 @@
 
 Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (MCP) üzerinden çalışan bu sistem, bulut bağımlılığı olmadan ve API anahtarı gerektirmeden ücretsiz araştırma imkânı sağlar.
 
-- ★ 5.563
+- ★ 5.565
 - TypeScript
 - GitHub Trending · 2026-07-19
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 5.563 → 5.565, son sürüm v0.3.4 (25 Kasım 2026).
 - **24 Kasım 2026:** Yıldız 5.561 → 5.563, son sürüm v0.3.3 (24 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 5.507 → 5.561, son sürüm v0.3.2 (23 Kasım 2026).
 - **27 Ekim 2026:** Yıldız 5.498 → 5.507, son sürüm v0.3.1 (26 Ekim 2026).
-- **22 Ekim 2026:** Yıldız 5.105 → 5.498, son sürüm v0.3.0 (22 Ekim 2026).
 
 ## Ne kazandırır?
 

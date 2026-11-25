@@ -2,16 +2,16 @@
 
 Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.
 
-- ★ 40.103
+- ★ 40.189
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 40.103 → 40.189, son sürüm core@13.5.0 (25 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 40.034 → 40.103, son sürüm core@13.4.0 (29 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 40.032 → 40.034, son sürüm core@13.3.1 (9 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 39.955 → 40.032, son sürüm core@13.3.0 (23 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 39.916 → 39.955, son sürüm core@13.2.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?
 

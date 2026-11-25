@@ -2,11 +2,12 @@
 
 Ladybird est un projet indépendant de navigateur web et de moteur de navigateur fondé sur les standards du Web. Le README officiel le décrit comme pré-alpha et destiné uniquement aux développeurs ; son architecture multiprocessus sépare notamment les connexions réseau et le décodage des images.
 
-- ★ 67 482
+- ★ 69 073
 - GitHub Trending · 2026-08-09
 
 ## Mises à jour
 
+- **25 novembre 2026:** Étoiles 67,482 → 69,073, dernière version 2026.47.8 (25 novembre 2026).
 - **23 novembre 2026:** Étoiles 65,040 → 67,482, dernière version 2026.47.7 (23 novembre 2026).
 
 ## Installation

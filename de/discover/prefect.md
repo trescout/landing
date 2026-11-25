@@ -2,16 +2,16 @@
 
 Prefect ist ein Workflow-Orchestrierungs-Framework, das zum Erstellen von Python-basierten Datenpipelines verwendet wird. Dieses Tool wurde für die Entwicklung belastbarer Datenprozesse entwickelt und ermöglicht die Verwaltung und Überwachung komplexer Datenworkflows.
 
-- ★ 24.190
+- ★ 24.241
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 24,190 → 24,241, neueste Version 3.9.5 (24. November 2026).
 - **20. November 2026:** Sterne 24,156 → 24,190, neueste Version 3.9.4 (19. November 2026).
 - **14. November 2026:** Sterne 24,127 → 24,156, neueste Version 3.9.3 (13. November 2026).
 - **7. November 2026:** Sterne 24,102 → 24,127, neueste Version 3.9.2 (6. November 2026).
-- **31. Oktober 2026:** Sterne 24,051 → 24,102, neueste Version 3.9.1 (30. Oktober 2026).
 
 ## Was es bringt
 

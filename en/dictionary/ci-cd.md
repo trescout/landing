@@ -78,8 +78,8 @@ The line stops and the broadcast is interrupted. That's why a backup plan and qu
 - [Strix](https://trescout.com/en/discover/strix/)
 - [Googletest](https://trescout.com/en/discover/googletest/)
 - [Trivy](https://trescout.com/en/discover/trivy/)
-- [Openship](https://trescout.com/en/discover/openship/)
 - [Opensre](https://trescout.com/en/discover/opensre/)
+- [Openship](https://trescout.com/en/discover/openship/)
 - [Ipatool](https://trescout.com/en/discover/ipatool/)
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 

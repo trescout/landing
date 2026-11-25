@@ -2,7 +2,7 @@
 
 Claude Code; It is an agent-based coding tool that lives in your terminal and has a deep understanding of your codebase. It accelerates your development process by reading files, making changes and running tests with natural language commands. (You can use many of the tools on this page with it.)
 
-- ★ 156,860
+- ★ 157,029
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Claude Code; It is an agent-based coding tool that lives in your terminal and ha
 
 ## Updates
 
+- **November 25, 2026:** Stars 156,860 → 157,029, latest release v2.1.332 (November 25, 2026).
 - **November 24, 2026:** Stars 156,486 → 156,860, latest release v2.1.331 (November 23, 2026).
 - **November 21, 2026:** Stars 156,357 → 156,486, latest release v2.1.330 (November 20, 2026).
 - **November 20, 2026:** Stars 156,203 → 156,357, latest release v2.1.329 (November 19, 2026).
-- **November 19, 2026:** Stars 156,156 → 156,203, latest release v2.1.328 (November 19, 2026).
 
 ## What you get
 

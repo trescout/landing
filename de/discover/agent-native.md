@@ -2,16 +2,16 @@
 
 Agent-native wurde von BuilderIO entwickelt und ist ein TypeScript-Framework, das sich auf die Erstellung agentennativer Anwendungen für Agenten der künstlichen Intelligenz konzentriert. Es ermöglicht Entwicklern, agentenbasierte Workflows direkt in die Anwendungsarchitektur zu integrieren.
 
-- ★ 7.740
+- ★ 7.779
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 7,740 → 7,779, neueste Version @agent-native/skills@0.4.12 (24. November 2026).
 - **23. November 2026:** Sterne 7,722 → 7,740, neueste Version @agent-native/core@0.232.0 (23. November 2026).
 - **18. November 2026:** Sterne 7,711 → 7,722, neueste Version v0.1.299 (18. November 2026).
 - **17. November 2026:** Sterne 7,690 → 7,711, neueste Version v0.1.298 (16. November 2026).
-- **13. November 2026:** Sterne 7,673 → 7,690, neueste Version @agent-native/creative-context@0.8.71 (12. November 2026).
 
 ## Was es bringt
 
@@ -54,10 +54,10 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Agent-native Applications](https://trescout.com/de/dictionary/agent-native-applications/)
 - [Agent-native](https://trescout.com/de/dictionary/agent-native/)
+- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [API](https://trescout.com/de/dictionary/api/)
-- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, die KI-Agenten aus dem Chatfenster herausholen und direkt in die Anwendungsarchitektur integrieren möchten.
 

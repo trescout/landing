@@ -2,12 +2,13 @@
 
 ggml-org/ggml est une bibliothèque de tenseurs développée en C++ pour les modèles d'apprentissage automatique. Le logiciel facilite l'exécution des modèles d'intelligence artificielle en fournissant des exemples simples et explicites pour des opérations de base telles que la multiplication matricielle.
 
-- ★ 15 988
+- ★ 16 199
 - C++
 - GitHub Trending · 2026-11-16
 
 ## Mises à jour
 
+- **25 novembre 2026:** Étoiles 15,988 → 16,199, dernière version v1.1.0 (25 novembre 2026).
 - **16 novembre 2026:** Étoiles 15,982 → 15,988, dernière version v1.0.0 (13 novembre 2026).
 
 ## Ce que ça vous apporte

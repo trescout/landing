@@ -2,16 +2,16 @@
 
 Coder est une plateforme qui fournit des environnements de développement sécurisés pour les développeurs et les agents d'intelligence artificielle. Grâce à son infrastructure basée sur le cloud, elle vous permet de standardiser les processus de codage et de gérer les environnements de développement de manière centralisée.
 
-- ★ 17 431
+- ★ 17 471
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Mises à jour
 
+- **25 novembre 2026:** Étoiles 17,431 → 17,471, dernière version v2.38.11 (25 novembre 2026).
 - **18 novembre 2026:** Étoiles 17,391 → 17,431, dernière version v2.38.10 (16 novembre 2026).
 - **16 novembre 2026:** Étoiles 17,358 → 17,391, dernière version v2.38.8 (16 novembre 2026).
 - **10 novembre 2026:** Étoiles 17,263 → 17,358, dernière version v2.38.7 (10 novembre 2026).
-- **4 novembre 2026:** Étoiles 17,238 → 17,263, dernière version v2.38.6 (3 novembre 2026).
 
 ## Ce que ça vous apporte
 

@@ -2,12 +2,13 @@
 
 Rust programlama diliyle geliştirilen uv, Python paketlerini ve projelerini yönetmek için tasarlanmış yüksek hızlı bir araçtır. Geleneksel paket yöneticilerine (pip, pip-tools) performans odaklı bir alternatif sunar.
 
-- ★ 92.294
+- ★ 92.643
 - Rust
 - GitHub Trending · 2026-11-19
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 92.294 → 92.643, son sürüm 0.13.10 (24 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 92.286 → 92.294, son sürüm 0.13.9 (17 Kasım 2026).
 
 ## Ne kazandırır?

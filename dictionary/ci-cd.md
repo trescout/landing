@@ -78,8 +78,8 @@ Hat durur, yayın kesilir. Yedek plan ve hızlı geri alma bu yüzden şarttır.
 - [Strix](https://trescout.com/discover/strix/)
 - [Googletest](https://trescout.com/discover/googletest/)
 - [Trivy](https://trescout.com/discover/trivy/)
-- [Openship](https://trescout.com/discover/openship/)
 - [Opensre](https://trescout.com/discover/opensre/)
+- [Openship](https://trescout.com/discover/openship/)
 - [Ipatool](https://trescout.com/discover/ipatool/)
 - [Checkstyle](https://trescout.com/discover/checkstyle/)
 

@@ -78,8 +78,8 @@ A linha para e a transmissão é interrompida. É por isso que um plano de backu
 - [Strix](https://trescout.com/pt/discover/strix/)
 - [Googletest](https://trescout.com/pt/discover/googletest/)
 - [Trivy](https://trescout.com/pt/discover/trivy/)
-- [Openship](https://trescout.com/pt/discover/openship/)
 - [Opensre](https://trescout.com/pt/discover/opensre/)
+- [Openship](https://trescout.com/pt/discover/openship/)
 - [Ipatool](https://trescout.com/pt/discover/ipatool/)
 - [Checkstyle](https://trescout.com/pt/discover/checkstyle/)
 

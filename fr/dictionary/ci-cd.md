@@ -78,8 +78,8 @@ La ligne s'arrête et la diffusion est interrompue. C'est pourquoi un plan de sa
 - [Strix](https://trescout.com/fr/discover/strix/)
 - [Googletest](https://trescout.com/fr/discover/googletest/)
 - [Trivy](https://trescout.com/fr/discover/trivy/)
-- [Openship](https://trescout.com/fr/discover/openship/)
 - [Opensre](https://trescout.com/fr/discover/opensre/)
+- [Openship](https://trescout.com/fr/discover/openship/)
 - [Ipatool](https://trescout.com/fr/discover/ipatool/)
 - [Checkstyle](https://trescout.com/fr/discover/checkstyle/)
 

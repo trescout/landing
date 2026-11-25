@@ -2,16 +2,16 @@
 
 open-webui, Ollama ve OpenAI API gibi yapay zekâ modelleriyle etkileşime geçmeyi sağlayan kullanıcı dostu bir arayüzdür. Yerel veya bulut tabanlı dil modellerini yönetmek için geliştirilmiş web tabanlı bir arayüz (interface) sunar.
 
-- ★ 159.039
+- ★ 159.528
 - Python
 - GitHub Trending · 2026-10-12
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 159.039 → 159.528, son sürüm v0.13.5 (25 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 158.161 → 159.039, son sürüm v0.13.4 (17 Kasım 2026).
 - **9 Kasım 2026:** Yıldız 157.707 → 158.161, son sürüm v0.13.3 (8 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 157.204 → 157.707, son sürüm v0.13.0 (3 Kasım 2026).
-- **30 Ekim 2026:** Yıldız 156.766 → 157.204, son sürüm v0.12.5 (29 Ekim 2026).
 
 ## Ne kazandırır?
 

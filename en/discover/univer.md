@@ -2,15 +2,15 @@
 
 Univer is an open source platform that combines office tools such as spreadsheets, documents and presentations in a single runtime. It offers a modular structure designed to facilitate the interaction of artificial intelligence agents (AI agents) with office software.
 
-- ★ 31,425
+- ★ 31,819
 - GitHub Trending · 2026-09-23
 
 ## Updates
 
+- **November 25, 2026:** Stars 31,425 → 31,819, latest release v1.6.2 (November 25, 2026).
 - **November 23, 2026:** Stars 31,077 → 31,425, latest release v1.6.1 (November 23, 2026).
 - **November 21, 2026:** Stars 29,863 → 31,077, latest release v1.6.0 (November 21, 2026).
 - **November 18, 2026:** Stars 27,953 → 29,863, latest release v1.5.2 (November 16, 2026).
-- **November 17, 2026:** Stars 26,778 → 27,953, latest release v1.5.2 (November 16, 2026).
 
 ## What you get
 

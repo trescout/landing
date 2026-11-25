@@ -2,12 +2,13 @@
 
 Entwickelt in der Programmiersprache Rust, ist uv ein auf hohe Geschwindigkeit ausgelegtes Tool zur Verwaltung von Python-Paketen und -Projekten. Es bietet eine leistungsorientierte Alternative zu herkömmlichen Paketmanagern (pip, pip-tools).
 
-- ★ 92.294
+- ★ 92.643
 - Rust
 - GitHub Trending · 2026-11-19
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 92,294 → 92,643, neueste Version 0.13.10 (24. November 2026).
 - **19. November 2026:** Sterne 92,286 → 92,294, neueste Version 0.13.9 (17. November 2026).
 
 ## Was es bringt

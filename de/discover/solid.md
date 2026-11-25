@@ -2,12 +2,13 @@
 
 Solid ist eine deklarative JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen. Anstatt ein Virtual Document Object Model (Virtual DOM) zu verwenden, kompiliert sie Templates direkt in echte Document Object Model (DOM)-Knoten und führt Aktualisierungen mit feingranularer Reaktivität (fine-grained reactivity) durch.
 
-- ★ 36.840
+- ★ 36.961
 - TypeScript
 - GitHub Trending · 2026-11-19
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 36,840 → 36,961, neueste Version @solidjs/signals@2.0.4 (25. November 2026).
 - **20. November 2026:** Sterne 36,714 → 36,840, neueste Version @solidjs/signals@2.0.3 (19. November 2026).
 - **19. November 2026:** Sterne 36,669 → 36,714, neueste Version @solidjs/babel-plugin@2.0.2 (19. November 2026).
 - **19. November 2026:** Sterne 36,662 → 36,669, neueste Version @solidjs/diagnostics@2.0.1 (18. November 2026).

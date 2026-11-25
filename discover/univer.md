@@ -2,15 +2,15 @@
 
 Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.
 
-- ★ 31.425
+- ★ 31.819
 - GitHub Trending · 2026-09-23
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 31.425 → 31.819, son sürüm v1.6.2 (25 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 31.077 → 31.425, son sürüm v1.6.1 (23 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 29.863 → 31.077, son sürüm v1.6.0 (21 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 27.953 → 29.863, son sürüm v1.5.2 (16 Kasım 2026).
-- **17 Kasım 2026:** Yıldız 26.778 → 27.953, son sürüm v1.5.2 (16 Kasım 2026).
 
 ## Ne kazandırır?
 

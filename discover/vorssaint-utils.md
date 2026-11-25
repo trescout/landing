@@ -2,12 +2,13 @@
 
 Vorssaint-utils, macOS işletim sistemi için geliştirilmiş, açık kaynak kodlu (open source) bir menü çubuğu araç setidir. Uygulama bazlı ses denetimi, sistem izleme, pencere düzenleme ve pano geçmişi gibi birçok farklı işlevi tek bir arayüzde birleştirerek sunar.
 
-- ★ 34.334
+- ★ 36.280
 - Swift
 - GitHub Trending · 2026-11-01
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 34.334 → 36.280, son sürüm v3.4.5 (25 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 33.936 → 34.334, son sürüm v3.4.4 (11 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 32.146 → 33.936, son sürüm v3.4.3 (29 Ekim 2026).
 - **1 Kasım 2026:** Yıldız 32.143 → 32.146, son sürüm v3.4.3 (29 Ekim 2026).

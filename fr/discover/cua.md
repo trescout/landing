@@ -2,16 +2,16 @@
 
 CUA fournit une infrastructure open source pour les agents d'intelligence artificielle informatiques. Il rassemble un bac à sable, un kit de développement logiciel (SDK) et des outils de référence sous un même toit dans le but de former et d'évaluer les agents capables de contrôler les systèmes d'exploitation de bureau.
 
-- ★ 32 861
+- ★ 32 908
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Mises à jour
 
+- **25 novembre 2026:** Étoiles 32,861 → 32,908, dernière version cua-spaces-v0.41.12 (25 novembre 2026).
 - **24 novembre 2026:** Étoiles 32,829 → 32,861, dernière version cua-spaces-v0.41.9 (24 novembre 2026).
 - **23 novembre 2026:** Étoiles 32,765 → 32,829, dernière version cua-spaces-v0.41.8 (23 novembre 2026).
 - **22 novembre 2026:** Étoiles 32,749 → 32,765, dernière version cua-spaces-v0.41.3 (22 novembre 2026).
-- **21 novembre 2026:** Étoiles 32,725 → 32,749, dernière version cua-spaces-v0.41.1 (21 novembre 2026).
 
 ## Ce que ça vous apporte
 

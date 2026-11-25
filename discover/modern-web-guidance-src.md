@@ -2,16 +2,16 @@
 
 GoogleChrome/modern-web-guidance-src, modern web geliştirme rehberlerinin oluşturulması, kalibre edilmesi ve değerlendirilmesi için gerekli kod ve dokümantasyonu içeren bir kaynak deposudur. TypeScript diliyle geliştirilen bu proje, web standartlarına yönelik rehber içeriklerinin yönetilmesini sağlar.
 
-- ★ 9.848
+- ★ 10.973
 - TypeScript
 - GitHub Trending · 2026-11-11
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 9.848 → 10.973.
 - **21 Kasım 2026:** Yıldız 8.795 → 9.848.
 - **18 Kasım 2026:** Yıldız 7.416 → 8.795.
 - **16 Kasım 2026:** Yıldız 6.243 → 7.416.
-- **15 Kasım 2026:** Yıldız 5.027 → 6.243.
 
 ## Ne kazandırır?
 

@@ -2,16 +2,16 @@
 
 Tracer-Cloud/opensre ist ein Open-Source-KI-Agent, der für CI/CD-Prozesse entwickelt wurde, um Software-Updates automatisch zu testen und bereitzustellen. Dieses Tool, das bei der Installation keine Administratorrechte erfordert, zielt darauf ab, die Systemzuverlässigkeit zu erhöhen.
 
-- ★ 14.930
+- ★ 15.402
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 14,930 → 15,402, neueste Version v0.1.2026.11.25 (25. November 2026).
 - **24. November 2026:** Sterne 14,742 → 14,930, neueste Version v0.1.2026.11.24 (24. November 2026).
 - **23. November 2026:** Sterne 14,143 → 14,742, neueste Version v0.1.2026.11.23 (23. November 2026).
 - **22. November 2026:** Sterne 13,697 → 14,143, neueste Version v0.1.2026.11.22 (22. November 2026).
-- **21. November 2026:** Sterne 13,227 → 13,697, neueste Version v0.1.2026.11.21 (21. November 2026).
 
 ## Was es bringt
 

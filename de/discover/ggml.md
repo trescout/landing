@@ -2,12 +2,13 @@
 
 ggml-org/ggml ist eine in C++ entwickelte Tensor-Bibliothek für Modelle des maschinellen Lernens. Die Software erleichtert die Ausführung von KI-Modellen, indem sie einfache und anschauliche Beispiele für grundlegende Operationen wie die Matrizenmultiplikation bietet.
 
-- ★ 15.988
+- ★ 16.199
 - C++
 - GitHub Trending · 2026-11-16
 
 ## Aktualisierungen
 
+- **25. November 2026:** Sterne 15,988 → 16,199, neueste Version v1.1.0 (25. November 2026).
 - **16. November 2026:** Sterne 15,982 → 15,988, neueste Version v1.0.0 (13. November 2026).
 
 ## Was es bringt

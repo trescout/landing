@@ -78,8 +78,8 @@ Die Leitung stoppt und die Übertragung wird unterbrochen. Deshalb sind ein Back
 - [Strix](https://trescout.com/de/discover/strix/)
 - [Googletest](https://trescout.com/de/discover/googletest/)
 - [Trivy](https://trescout.com/de/discover/trivy/)
-- [Openship](https://trescout.com/de/discover/openship/)
 - [Opensre](https://trescout.com/de/discover/opensre/)
+- [Openship](https://trescout.com/de/discover/openship/)
 - [Ipatool](https://trescout.com/de/discover/ipatool/)
 - [Checkstyle](https://trescout.com/de/discover/checkstyle/)
 

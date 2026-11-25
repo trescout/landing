@@ -2,16 +2,16 @@
 
 Coolify, Vercel, Heroku ve Netlify gibi bulut platformlarına (PaaS) alternatif olarak sunulan açık kaynaklı bir dağıtım aracıdır. Statik siteler, veritabanları ve kapsamlı uygulamalar dahil olmak üzere 360'tan fazla servisi kendi sunucularınız üzerinde kolayca barındırmanıza olanak tanır.
 
-- ★ 66.279
+- ★ 66.456
 - PHP
 - GitHub Trending · 2026-10-26
 
 ## Güncelleme
 
+- **25 Kasım 2026:** Yıldız 66.279 → 66.456, son sürüm v4.7.8 (25 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 65.900 → 66.279, son sürüm v4.7.6 (19 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 65.870 → 65.900, son sürüm v4.7.5 (10 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 65.566 → 65.870, son sürüm v4.7.3 (9 Kasım 2026).
-- **3 Kasım 2026:** Yıldız 65.224 → 65.566, son sürüm v4.6.0 (2 Kasım 2026).
 
 ## Ne kazandırır?
 
