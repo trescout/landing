@@ -2,12 +2,13 @@
 
 LunaTV is a project developed with the TypeScript language that offers an open-source media viewing interface. This software, which is closed to commercial use, allows users to watch their own media content in an organized structure.
 
-- ★ 10,021
+- ★ 11,022
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Updates
 
+- **November 26, 2026:** Stars 10,021 → 11,022, latest release v100.1.3 (May 28, 2026).
 - **September 8, 2026:** Stars 10,015 → 10,021, latest release v100.1.3 (May 28, 2026).
 
 ## What you get

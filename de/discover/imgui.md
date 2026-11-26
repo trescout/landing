@@ -2,12 +2,13 @@
 
 Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Projekte, die mit minimalen Abhängigkeiten arbeitet. Es ermöglicht Softwareentwicklern, eine einfache Schnittstelle für Rapid-Prototyping- und Werkzeugentwicklungsprozesse zu erstellen.
 
-- ★ 76.656
+- ★ 77.261
 - C++
 - GitHub Trending · 2026-07-28
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 76,656 → 77,261, neueste Version v1.93.1 (26. November 2026).
 - **15. Oktober 2026:** Sterne 75,457 → 76,656, neueste Version v1.93.0 (14. Oktober 2026).
 - **2. August 2026:** Sterne 75,256 → 75,457, neueste Version v1.92.9b (31. Juli 2026).
 

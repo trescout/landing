@@ -3781,13 +3781,13 @@
     "slug": "liteparse",
     "title": "Liteparse",
     "tagline": "Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).",
-    "meta": "★ 13.361 · Apache-2.0",
+    "meta": "★ 13.405 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13361,
+    "stars": 13405,
     "image": "/assets/discover/og/liteparse.webp",
     "headline": "Belgelerinizi Rust ile hızlıca ayrıştırın",
     "last_review": "2026-11-26",
@@ -3959,6 +3959,13 @@
         "onceki_yildiz": 13161,
         "surum": "node-v2.21.2",
         "surum_tarihi": "2026-11-24"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 13405,
+        "onceki_yildiz": 13361,
+        "surum": "python-v2.21.3",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_en": "Fast and open source document parser developed with Rust.",
@@ -18736,7 +18743,7 @@
     "slug": "cognee",
     "title": "Cognee",
     "tagline": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur.",
-    "meta": "★ 33.396 · Python",
+    "meta": "★ 33.648 · Python",
     "image": "/assets/discover/og/cognee.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -18744,7 +18751,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33396,
+    "stars": 33648,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
     "last_review": "2026-11-26",
@@ -18916,6 +18923,13 @@
         "onceki_yildiz": 33392,
         "surum": "v1.6.10",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 33648,
+        "onceki_yildiz": 33396,
+        "surum": "v1.6.11",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_en": "Cognee is an open source platform that provides long-term memory between sessions to artificial intelligence agents.",
@@ -37938,14 +37952,14 @@
     "slug": "imgui",
     "title": "Imgui",
     "tagline": "Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface)…",
-    "meta": "★ 76.656 · C++",
+    "meta": "★ 77.261 · C++",
     "image": "/assets/discover/og/imgui.webp",
     "source": "GitHub",
     "date": "2026-07-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 76656,
+    "stars": 77261,
     "lite": false,
     "headline": "C++ projeleri için hafif arayüz",
     "last_review": "2026-11-26",
@@ -37963,6 +37977,13 @@
         "onceki_yildiz": 75457,
         "surum": "v1.93.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 77261,
+        "onceki_yildiz": 76656,
+        "surum": "v1.93.1",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_en": "Dear ImGui is a lightweight graphical user interface for C++ projects that works with minimal dependencies…",
@@ -43499,14 +43520,14 @@
     "slug": "ladybird",
     "title": "Ladybird",
     "tagline": "Web standartlarını temel alan bağımsız tarayıcı projesi.",
-    "meta": "★ 69.073",
+    "meta": "★ 69.377",
     "image": "/assets/discover/og/ladybird.webp",
     "source": "GitHub",
     "date": "2026-08-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 69073,
+    "stars": 69377,
     "summary": "Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.",
     "headline": "Bağımsız web tarayıcısı ve motoru projesi",
     "lite": false,
@@ -43725,6 +43746,13 @@
         "onceki_yildiz": 67482,
         "surum": "2026.47.8",
         "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 69377,
+        "onceki_yildiz": 69073,
+        "surum": "2026.48.0",
+        "surum_tarihi": "2026-11-26"
       }
     ]
   },
@@ -43756,7 +43784,7 @@
     "slug": "code-graph-rag",
     "title": "Code Graph RAG",
     "tagline": "Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge…",
-    "meta": "★ 5.392 · Python",
+    "meta": "★ 5.448 · Python",
     "image": "/assets/discover/og/code-graph-rag.webp",
     "source": "GitHub",
     "date": "2026-08-10",
@@ -43764,7 +43792,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5392,
+    "stars": 5448,
     "lite": false,
     "headline": "Kod deponuzu yapay zekâ ile sorgulayın",
     "tagline_en": "Code-graph-rag uses knowledge graphs to understand and query complex structures in large code repositories (monorepos).",
@@ -43938,6 +43966,13 @@
         "onceki_yildiz": 5384,
         "surum": "v0.7.79",
         "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 5448,
+        "onceki_yildiz": 5392,
+        "surum": "v0.7.129",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_pt": "Code-graph-rag usa gráficos de conhecimento para compreender e consultar estruturas complexas em grandes repositórios de código (monorepos).",
@@ -47197,7 +47232,7 @@
     "slug": "ai-memory",
     "title": "AI Memory",
     "tagline": "Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor.",
-    "meta": "★ 16.398 · Rust",
+    "meta": "★ 16.458 · Rust",
     "image": "/assets/discover/og/ai-memory.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -47205,7 +47240,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16398,
+    "stars": 16458,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına kalıcı hafıza",
     "needs_enrichment": true,
@@ -47629,6 +47664,13 @@
         "onceki_yildiz": 16391,
         "surum": "v3.6.2",
         "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 16458,
+        "onceki_yildiz": 16398,
+        "surum": "v3.6.3",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "last_seen": "2026-10-22"
@@ -53565,7 +53607,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 58.684 · TypeScript",
+    "meta": "★ 58.760 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -53573,7 +53615,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 58684,
+    "stars": 58760,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -53920,6 +53962,13 @@
         "yildiz": 58684,
         "onceki_yildiz": 58183,
         "surum": "v0.16.45",
+        "surum_tarihi": "2026-11-26"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 58760,
+        "onceki_yildiz": 58684,
+        "surum": "v0.16.46",
         "surum_tarihi": "2026-11-26"
       }
     ]
@@ -56673,14 +56722,14 @@
     "slug": "lunatv",
     "title": "LunaTV",
     "tagline": "LunaTV, TypeScript diliyle geliştirilen ve açık kaynaklı bir medya görüntüleme arayüzü sunan bir projedir.",
-    "meta": "★ 10.021 · TypeScript",
+    "meta": "★ 11.022 · TypeScript",
     "image": "/assets/discover/og/lunatv.webp",
     "source": "GitHub",
     "date": "2026-09-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 10021,
+    "stars": 11022,
     "summary": "LunaTV, TypeScript diliyle geliştirilen ve açık kaynaklı bir medya görüntüleme arayüzü sunan bir projedir. Ticari kullanıma kapalı olan bu yazılım, kullanıcıların kendi medya içeriklerini düzenli bir yapıda izlemelerine olanak tanır.",
     "lite": false,
     "headline": "Kendi medya arşivinizi yönetin",
@@ -56692,6 +56741,13 @@
         "tarih": "2026-09-08",
         "yildiz": 10021,
         "onceki_yildiz": 10015,
+        "surum": "v100.1.3",
+        "surum_tarihi": "2026-05-28"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 11022,
+        "onceki_yildiz": 10021,
         "surum": "v100.1.3",
         "surum_tarihi": "2026-05-28"
       }
@@ -66784,14 +66840,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.750 · Go",
+    "meta": "★ 3.753 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3750,
+    "stars": 3753,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -67020,6 +67076,13 @@
         "yildiz": 3750,
         "onceki_yildiz": 3710,
         "surum": "deploy-20261126-1402",
+        "surum_tarihi": "2026-11-26"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 3753,
+        "onceki_yildiz": 3750,
+        "surum": "deploy-20261126-1743",
         "surum_tarihi": "2026-11-26"
       }
     ],
@@ -68125,7 +68188,7 @@
     "slug": "openmausbot",
     "title": "OpenMausBot",
     "tagline": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open…",
-    "meta": "★ 27.794 · TypeScript",
+    "meta": "★ 28.091 · TypeScript",
     "image": "/assets/discover/og/openmausbot.webp",
     "source": "GitHub",
     "date": "2026-10-30",
@@ -68133,7 +68196,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27794,
+    "stars": 28091,
     "last_seen": "2026-11-09",
     "summary": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.",
     "lite": false,
@@ -68335,6 +68398,13 @@
         "onceki_yildiz": 27427,
         "surum": "v0.1.181",
         "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 28091,
+        "onceki_yildiz": 27794,
+        "surum": "v0.1.182",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_en": "OpenMausBot is an open-source (open… tool that allows you to create your own AI bot team within chat applications.",
@@ -70720,7 +70790,7 @@
     "slug": "plannotator",
     "title": "Plannotator",
     "tagline": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren…",
-    "meta": "★ 15.030 · TypeScript",
+    "meta": "★ 15.220 · TypeScript",
     "image": "/assets/discover/og/plannotator.webp",
     "source": "GitHub",
     "date": "2026-11-14",
@@ -70728,7 +70798,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 15030,
+    "stars": 15220,
     "last_seen": "2026-11-17",
     "summary": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.",
     "lite": false,
@@ -70797,6 +70867,13 @@
         "onceki_yildiz": 14640,
         "surum": "v0.29.4",
         "surum_tarihi": "2026-11-25"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 15220,
+        "onceki_yildiz": 15030,
+        "surum": "v0.29.5",
+        "surum_tarihi": "2026-11-26"
       }
     ],
     "tagline_en": "plannotator, which combines planning, code review, and feedback processes for artificial intelligence agents into a single workspace…",
@@ -71482,7 +71559,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 11.377 · Python",
+    "meta": "★ 11.432 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -71490,7 +71567,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 11377,
+    "stars": 11432,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -71579,6 +71656,13 @@
         "yildiz": 11377,
         "onceki_yildiz": 10182,
         "surum": "v4.8.3",
+        "surum_tarihi": "2026-11-26"
+      },
+      {
+        "tarih": "2026-11-26",
+        "yildiz": 11432,
+        "onceki_yildiz": 11377,
+        "surum": "v4.10.0",
         "surum_tarihi": "2026-11-26"
       }
     ],

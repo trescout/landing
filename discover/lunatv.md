@@ -2,12 +2,13 @@
 
 LunaTV, TypeScript diliyle geliştirilen ve açık kaynaklı bir medya görüntüleme arayüzü sunan bir projedir. Ticari kullanıma kapalı olan bu yazılım, kullanıcıların kendi medya içeriklerini düzenli bir yapıda izlemelerine olanak tanır.
 
-- ★ 10.021
+- ★ 11.022
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 10.021 → 11.022, son sürüm v100.1.3 (28 Mayıs 2026).
 - **8 Eylül 2026:** Yıldız 10.015 → 10.021, son sürüm v100.1.3 (28 Mayıs 2026).
 
 ## Ne kazandırır?
