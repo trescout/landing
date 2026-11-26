@@ -1,0 +1,885 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-26",
+  "capturedAt": "2026-11-26T13:59:40.677Z",
+  "editorial": "O desenvolvimento de capacidades de sistemas de pesquisa autônomos baseados em inteligência artificial e os riscos criados por vulnerabilidades de segurança estão no centro da agenda tecnológica atual. Enquanto as discussões no Hacker News focam na velocidade de evolução dos sistemas, no Hugging Face destacam-se a nova geração de pequenos modelos de linguagem e tecnologias de mapeamento tridimensional.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter é um pacote de habilidades do Claude Code desenvolvido para processos de depuração (bug hunting) e testes de segurança externos (red-team work). Escrita em Python, esta ferramenta permite a análise de 24 classes fundamentais de vulnerabilidades de segurança com 85 habilidades diferentes e 16 comandos de linha de comando.",
+          "meta": "Python · ★ 23.939 · +1.600 hoje",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 23939,
+              "engagementCount": 1600,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1600
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers é uma estrutura de habilidades (framework) e metodologia de desenvolvimento de software desenvolvida para agentes de IA que escrevem código. Visa padronizar os processos de desenvolvimento de software dos agentes por meio de habilidades combináveis e instruções de direcionamento.",
+          "meta": "Shell · ★ 327.131 · +853 hoje",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 327131,
+              "engagementCount": 853,
+              "rank": 2,
+              "extra": {
+                "starsToday": 853,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é uma ferramenta de interface de linha de comando (CLI) que torna softwares utilizáveis por agentes de inteligência artificial. Visa trabalhar de forma compatível com várias ferramentas de desenvolvimento assistidas por IA, como Pi, OpenClaw, nanobot, Cursor e Claude Code.",
+          "meta": "Python · ★ 66.107 · +744 hoje",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 66107,
+              "engagementCount": 744,
+              "rank": 3,
+              "extra": {
+                "starsToday": 744,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "MiniMind é um projeto de código aberto que permite aos usuários treinar um grande modelo de linguagem (LLM) de 64M de parâmetros do zero. Este processo de treinamento, que pode ser concluído em duas horas, oferece a oportunidade de desenvolver modelos em computadores pessoais com sua estrutura baseada em Python.",
+          "meta": "Python · ★ 71.461 · +701 hoje",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71461,
+              "engagementCount": 701,
+              "rank": 4,
+              "extra": {
+                "starsToday": 701,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. MiniMind 以 Apache 2.0 协议完全开源、永久免费。赞助完全自愿，不换取任何特权，也不影响项目使用。感谢每一位支持者，让这个业余时间维护的项目得以持续。"
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor oferece um repositório que contém os padrões técnicos e plugins oficiais desenvolvidos para a ferramenta de edição de código Cursor. Este recurso, preparado em TypeScript, serve como um guia de configuração que permite aos desenvolvedores expandir as capacidades da plataforma.",
+          "meta": "TypeScript · ★ 19.687 · +268 hoje",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19687,
+              "engagementCount": 268,
+              "rank": 5,
+              "extra": {
+                "starsToday": 268
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl é uma infraestrutura de informação que fornece acesso a mais de 550 provedores de dados para que agentes de IA trabalhem de forma mais eficiente. Enquanto oferece operações de raspagem (scraping) e busca na internet através de uma única interface de programação de aplicativos (API), permite um uso flexível com a opção de hospedagem em servidores próprios e kits de desenvolvimento de software (SDKs).",
+          "meta": "TypeScript · ★ 210.596 · +1.042 hoje",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 210596,
+              "engagementCount": 1042,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1042,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          }
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX é um software de código aberto (open source) usado como servidor web, balanceador de carga (load balancer), proxy reverso, gateway de API e cache de conteúdo. Desenvolvido na linguagem C, este projeto oferece soluções de gerenciamento de tráfego de rede de alto desempenho.",
+          "meta": "C · ★ 33.461 · +150 hoje",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 33461,
+              "engagementCount": 150,
+              "rank": 7,
+              "extra": {
+                "starsToday": 150,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO é um kit de ferramentas de código aberto usado para otimizar e implantar processos de inferência de modelos de inteligência artificial. Desenvolvida na linguagem C++, esta plataforma garante que os modelos funcionem de forma eficiente em diferentes hardwares.",
+          "meta": "C++ · ★ 12.751 · +176 hoje",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 12751,
+              "engagementCount": 176,
+              "rank": 8,
+              "extra": {
+                "starsToday": 176,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design oferece 52 tipos diferentes de design de diagramas preparados para ferramentas de codificação de IA como Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder e Pi. O projeto fornece um método de visualização alternativo às ferramentas de diagrama padrão com seus visuais em formato HTML e SVG que não contêm dependências externas.",
+          "meta": "HTML · ★ 73.556 · +951 hoje",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 73556,
+              "engagementCount": 951,
+              "rank": 9,
+              "extra": {
+                "starsToday": 951
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill oferece uma habilidade (skill) de IA que resume tópicos pesquisando no Reddit, X, YouTube, Hacker News, Polymarket e na web em geral. Desenvolvida em Python, esta ferramenta visa sintetizar os dados coletados de diferentes plataformas para apresentar ao usuário um resumo fundamentado.",
+          "meta": "Python · ★ 75.501 · +755 hoje",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 75501,
+              "engagementCount": 755,
+              "rank": 10,
+              "extra": {
+                "starsToday": 755
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "stitch-skills, desenvolvido pelo Google Labs, é uma biblioteca de habilidades de agente (agent skills) projetada para funcionar de forma compatível com o servidor Stitch MCP. Esta biblioteca segue padrões de habilidades abertos para garantir compatibilidade com softwares como Antigravity, Gemini CLI, Claude Code e a ferramenta de edição de código Cursor.",
+          "meta": "TypeScript · ★ 13.165 · +308 hoje",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13165,
+              "engagementCount": 308,
+              "rank": 11,
+              "extra": {
+                "starsToday": 308
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance é um guia que oferece 125 padrões de rejeição diferentes e sugestões de solução para reduzir os motivos de rejeição em lojas de aplicativos. O projeto inclui 117 rastreadores de prazos que acompanham processos de conformidade legal e um conjunto de habilidades especial para agentes de codificação de inteligência artificial.",
+          "meta": "Shell · ★ 6.821 · +561 hoje",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 6821,
+              "engagementCount": 561,
+              "rank": 12,
+              "extra": {
+                "starsToday": 561
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          }
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "Tracer-Cloud/opensre é um agente de inteligência artificial de código aberto projetado para aumentar a confiabilidade dos processos de integração contínua e entrega contínua (CI/CD). Desenvolvida na linguagem Python, esta ferramenta pode extrair estruturas atualizadas diretamente do diretório raiz sem exigir privilégios de administrador durante o processo de instalação.",
+          "meta": "Python · ★ 15.688 · +325 hoje",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15688,
+              "engagementCount": 325,
+              "rank": 13,
+              "extra": {
+                "starsToday": 325,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          }
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "AFFiNE é uma base de conhecimento de código aberto que combina processos de planejamento, edição e criação de conteúdo em uma única plataforma. Desenvolvido como uma alternativa a ferramentas populares como Notion e Miro, este software oferece um espaço de trabalho personalizável e focado na privacidade.",
+          "meta": "TypeScript · ★ 78.776 · +521 hoje",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 78776,
+              "engagementCount": 521,
+              "rank": 14,
+              "extra": {
+                "starsToday": 521
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          }
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "Desenvolvido na linguagem Python, o Ghost-Downloader-3 é uma ferramenta abrangente de download de arquivos que funciona em quatro plataformas diferentes e suporta vários protocolos de download. Projetado inicialmente para a necessidade de gerenciamento de recursos de um criador de conteúdo, o projeto possui hoje um ecossistema expansível com pacotes de recursos (feature packs).",
+          "meta": "Python · ★ 18.831 · +887 hoje",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 18831,
+              "engagementCount": 887,
+              "rank": 15,
+              "extra": {
+                "starsToday": 887,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "zhouxiaoka/autoclip é uma ferramenta de edição de vídeo para desktop de código aberto (código-fonte acessível a todos) que transforma vídeos longos em conteúdos curtos. Esta aplicação com suporte de inteligência artificial automatiza o processo de preparação de vídeo criando legendas, imagens de capa e textos de compartilhamento para plataformas de mídia social.",
+          "meta": "Python · ★ 16.699 · +770 hoje",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-26T14:14:43.925Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16699,
+              "engagementCount": 770,
+              "rank": 16,
+              "extra": {
+                "starsToday": 770
+              }
+            },
+            "description": "The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "summary": "A postagem no blog compartilhada por Scott Aaronson aborda os desenvolvimentos atuais sobre o expoente da multiplicação de matrizes (matrix multiplication exponent). O texto destaca a importância das novas descobertas que surgiram sobre a solução deste problema matemático.",
+          "meta": "1.717 pontos · 1.548 comentários",
+          "snapshot": {
+            "sourceId": "50646108",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 1717,
+              "engagementCount": 1548,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50646108",
+                  "popularity": 1717,
+                  "engagementCount": 1548
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-25T19:11:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50646108"
+              }
+            },
+            "description": "See also The matrix multiplication exponent is nine fourths [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50646108",
+              "popularity": 1717,
+              "engagementCount": 1548
+            }
+          ]
+        },
+        {
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "summary": "O gerenciador de senhas 1Password anunciou que um incidente de segurança (security incident) foi detectado em seus sistemas de back-end. A empresa afirmou que os cofres dos clientes não foram afetados por esta situação e permanecem seguros.",
+          "meta": "1.520 pontos · 654 comentários",
+          "snapshot": {
+            "sourceId": "50644817",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 1520,
+              "engagementCount": 654,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50644817",
+                  "popularity": 1520,
+                  "engagementCount": 654
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-25T17:18:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50644817",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "1Password identified a security incident involving some of our backend systems. Customer vaults were not accessed and remain secure."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50644817",
+              "popularity": 1520,
+              "engagementCount": 654
+            }
+          ]
+        },
+        {
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "summary": "O grh-lean, compartilhado por lsernau, apresenta um processo de verificação mais curto da Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis) no software de prova matemática Lean 4. Este trabalho apresenta uma nova abordagem no campo da verificação formal (formal verification) de proposições matemáticas complexas.",
+          "meta": "491 pontos · 285 comentários",
+          "snapshot": {
+            "sourceId": "50648050",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 285,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50648050",
+                  "popularity": 491,
+                  "engagementCount": 285
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-25T21:48:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50648050",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis - lsernau/grh-lean"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50648050",
+              "popularity": 491,
+              "engagementCount": 285
+            }
+          ]
+        },
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "summary": "O The New York Times alerta os fotógrafos para não atualizarem o software de edição de imagem Photoshop devido aos recursos de inteligência artificial. A instituição expressa preocupações sobre os possíveis impactos das referidas ferramentas nos direitos autorais e nos padrões éticos.",
+          "meta": "473 pontos · 393 comentários",
+          "snapshot": {
+            "sourceId": "50647673",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 393,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50647673",
+                  "popularity": 473,
+                  "engagementCount": 393
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-25T21:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50647673"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50647673",
+              "popularity": 473,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+          "summary": "O GPT-6.2 Astra tornou-se o primeiro modelo de inteligência artificial a superar os recordes de code golf dos funcionários do Google. Este modelo atingiu um novo nível de sucesso em testes de programação competitiva que visam escrever a sequência de código mais curta possível.",
+          "meta": "412 pontos · 115 comentários",
+          "snapshot": {
+            "sourceId": "50601280",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 115,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50601280",
+                  "popularity": 412,
+                  "engagementCount": 115
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-22T16:44:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50601280"
+              }
+            },
+            "description": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. And once a pr"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50601280",
+              "popularity": 412,
+              "engagementCount": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "O thinkingmachines/Inkling-2-Mini, compartilhado no Hugging Face, é um modelo de inteligência artificial multimodal que processa entradas de texto e imagem para produzir saídas de texto. Foi projetado para uso geral em inglês e outros idiomas, bem como em várias linguagens de programação.",
+          "meta": "♥ 6.144 · 96.527 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-26T13:59:40.816Z",
+            "metadata": {
+              "popularity": 6144,
+              "engagementCount": 96527,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1368,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "O unsloth/Inkling-2-Mini-GGUF, compartilhado na plataforma Hugging Face, é um modelo de inteligência artificial que converte entradas de imagem e texto em saídas de texto. Os usuários podem treinar este modelo com a biblioteca Unsloth ou usá-lo através da ferramenta llama.cpp, que serve para executar grandes modelos de linguagem em dispositivos locais.",
+          "meta": "♥ 1.423 · 2.445.633 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-26T13:59:40.816Z",
+            "metadata": {
+              "popularity": 1423,
+              "engagementCount": 2445633,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1201,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. You can also train Inkling 2 via the latest version of Unsloth or run via llama.cpp. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        },
+        {
+          "title": "inworld/voice-isolator",
+          "url": "https://huggingface.co/inworld/voice-isolator",
+          "summary": "O inworld/voice-isolator compartilhado no Hugging Face é um modelo que produz saída de áudio a partir de entrada de áudio (audio-to-audio). O Inworld Voice Isolator v1 consiste em dois modelos diferentes que compartilham a mesma arquitetura.",
+          "meta": "♥ 926 · 15.244 downloads",
+          "snapshot": {
+            "sourceId": "inworld/voice-isolator",
+            "capturedAt": "2026-11-26T13:59:40.816Z",
+            "metadata": {
+              "popularity": 926,
+              "engagementCount": 15244,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 549,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "inworld-voice-isolation",
+                  "audio",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-denoising",
+                  "noise-suppression",
+                  "voice-isolation",
+                  "48khz",
+                  "full-band",
+                  "streaming",
+                  "realtime",
+                  "audio-to-audio",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Inworld Voice Isolator v1 ships as two models that share one architecture:"
+          }
+        },
+        {
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "summary": "O Inkling-2-Mini-Uncensored-GGUF, desenvolvido pela AtomicChat, é um modelo de inteligência artificial sem censura capaz de processar entradas de imagem e texto. Disponibilizado no formato GGUF, este modelo está acessível através de arquivos prontos para execução em sistemas locais ou opções de adaptador LoRA (adaptação de baixo nível).",
+          "meta": "♥ 875 · 762.491 downloads",
+          "snapshot": {
+            "sourceId": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+            "capturedAt": "2026-11-26T13:59:40.816Z",
+            "metadata": {
+              "popularity": 875,
+              "engagementCount": 762491,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 487.2,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "llama.cpp",
+                  "inkling2",
+                  "uncensored",
+                  "lora",
+                  "image-text-to-text",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE in this repo). It comes as a LoRA adapter for any GGUF of AtomicChat/Inkling-2-Mini-GGUF and as three ready-made GGUF files with the edit baked in. Every gate we hold it to is measured below, and the two it misses are shown."
+          }
+        },
+        {
+          "title": "SulphurAI/Sulphur-3",
+          "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+          "summary": "O Sulphur-3, desenvolvido pela SulphurAI, é um modelo de geração de vídeo sem censura criado com base no MiniMax H3. Ele oferece aos usuários a capacidade de criar vídeos sem restrições de conteúdo.",
+          "meta": "♥ 1.167 · 189.735 downloads",
+          "snapshot": {
+            "sourceId": "SulphurAI/Sulphur-3",
+            "capturedAt": "2026-11-26T13:59:40.816Z",
+            "metadata": {
+              "popularity": 1167,
+              "engagementCount": 189735,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 456,
+                "tags": [
+                  "minimax-h3",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An uncensored video generation model based on MiniMax H3."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM",
+          "url": "https://huggingface.co/papers/2611.32335",
+          "summary": "O GOLD-SLAM é um sistema de localização e mapeamento simultâneos (SLAM) que resolve a incompatibilidade entre o amplo campo de visão das câmeras panorâmicas e os dados limitados dos sensores LiDAR. Ele combina renderização visual de alta qualidade com reconstrução geométrica precisa, realizando rastreamento e mapeamento em escala global.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.32335",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32335",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/InSAI-Lab/GOLD-SLAM",
+                "githubStars": 3
+              }
+            },
+            "description": "Panoramic cameras capture nearly the entire spherical field of view in a single frame. However, the mismatch between this panoramic coverage and the field of view of LiDAR poses a substantial challenge for panoramic Gaussian splatting SLAM that relies on LiDAR depth priors. We introduce GOLD-SLAM, a Gaussian-splatting Omnidirectional LiDAR-Depth SLAM system that combines high-quality rendering with accurate geometric reconstruction. It performs tracking and mapping in the spherical domain and us"
+          }
+        },
+        {
+          "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+          "url": "https://huggingface.co/papers/2611.28244",
+          "summary": "O artigo compartilhado pelo Hugging Face examina os mecanismos que afetam o desempenho de agentes autoevolutivos (self-evolving agents) que conduzem pesquisas científicas de forma autônoma. O estudo aborda, com uma abordagem sistemática, a contribuição da gestão de contexto e das capacidades para o sucesso do sistema em processos experimentais de longo prazo.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.28244",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.28244",
+                "publishedAt": "2026-11-20T00:00:00.000Z"
+              }
+            },
+            "description": "Autoresearch agents, which autonomously design, run, and refine experiments, are accelerating scientific progress, particularly in AI research. However, existing agents rely on harnesses that combine multiple mechanisms, making it difficult to determine how individual components contribute to performance. We systematically study harness design for long-horizon, self-evolving autoresearch agents along two dimensions: context management, which determines what an agent retains from its past attempt"
+          }
+        },
+        {
+          "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
+          "url": "https://huggingface.co/papers/2611.32938",
+          "summary": "O artigo compartilhado pelo Hugging Face apresenta uma estrutura chamada Lembas, desenvolvida para reduzir a carga de processamento na compreensão de vídeos longos. Este método trata o processo de RAG (geração aumentada por recuperação), que permite que a IA produza respostas obtendo informações de dados atuais e específicos, como um problema de alocação de tokens entre quadros e legendas.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.32938",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32938",
+                "publishedAt": "2026-11-24T00:00:00.000Z"
+              }
+            },
+            "description": "Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented generation (RAG) methods rely on frame selection and token compression, but overlook how much each additional token is worth. We introduce Lembas, a plug-and-play framework that formulates video RAG as a token allocation problem over frames and subtitles under a shared budget. Our key insight is that the value of a to"
+          }
+        },
+        {
+          "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+          "url": "https://huggingface.co/papers/2611.21056",
+          "summary": "O artigo compartilhado pelo Hugging Face aborda o desenvolvimento iterativo de suas próprias aplicações por agentes de IA que escrevem código. O estudo propõe um processo de autodesenvolvimento que não requer avaliação (evaluation-free) como uma alternativa aos métodos de seleção baseados em avaliação usados para obter aumento de desempenho.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.21056",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.21056",
+                "publishedAt": "2026-11-16T00:00:00.000Z"
+              }
+            },
+            "description": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages continue evolving, which we term evaluate-and-select. Obtaining this signal requires repeatedly executing evolved agents on downstream tasks, so broader exploration incurs increasing evaluation cost, while repeated optimization against a fixed evaluation distribut"
+          }
+        },
+        {
+          "title": "Letting Models Manage Their Own Context: Where We Stand",
+          "url": "https://huggingface.co/papers/2611.34147",
+          "summary": "O artigo compartilhado pelo Hugging Face examina uma nova abordagem na qual os modelos de IA gerenciam seus próprios contextos. Testado no nooa, uma ferramenta de desenvolvimento de agentes de código aberto (open source) da NVIDIA, este método permite que o próprio modelo decida quais informações devem ser resumidas por meio de uma interface de programação de aplicações (API).",
+          "meta": "5 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.34147",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.34147",
+                "publishedAt": "2026-11-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/nvidia-nemo/labs-OO-Agents",
+                "githubStars": 2330
+              }
+            },
+            "description": "Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave models control over their own context in \\nooa, NVIDIA's open source agent harness, and compared the two strategies on document research and machine learning engineering across context budgets from 8K to 5"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bug hunting",
+      "explanation": "Processo de trabalho sistemático voltado para encontrar erros e vulnerabilidades de segurança em softwares."
+    },
+    {
+      "term": "red-team work",
+      "explanation": "Auditoria de segurança controlada realizada agindo como um atacante para testar a segurança de um sistema."
+    },
+    {
+      "term": "framework",
+      "explanation": "Um ambiente de trabalho organizado que oferece, em conjunto, as estruturas, regras e ferramentas fundamentais utilizadas no desenvolvimento de software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas escrevendo comandos escritos, em vez de usar o mouse."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelo de inteligência artificial treinado com grandes volumes de dados, capaz de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "scraping",
+      "explanation": "Processo de copiar dados de sites da internet por métodos automáticos e salvá-los em outro formato."
+    },
+    {
+      "term": "API",
+      "explanation": "Interface que atua como uma ponte, permitindo que diferentes softwares se comuniquem e troquem dados entre si."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Conjunto de ferramentas e códigos que facilita aos desenvolvedores a criação de aplicativos para uma plataforma ou serviço específico."
+    },
+    {
+      "term": "load balancer",
+      "explanation": "Ferramenta que evita a sobrecarga do sistema distribuindo o tráfego de internet recebido de forma equilibrada entre vários servidores."
+    },
+    {
+      "term": "reverse proxy",
+      "explanation": "Servidor intermediário que recebe solicitações da internet, encaminha-as para os servidores correspondentes e aumenta a segurança."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cujo código-fonte está aberto para que qualquer pessoa possa acessar, examinar e desenvolver."
+    },
+    {
+      "term": "inference",
+      "explanation": "Processo em que um modelo de inteligência artificial treinado realiza previsões ou análises sobre novos dados."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacidade especializada que a inteligência artificial possui para realizar uma tarefa específica."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Coleção de habilidades prontas que agentes de inteligência artificial podem usar para realizar tarefas complexas."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "Processo que permite que as atualizações de software sejam testadas automaticamente e implantadas de forma rápida e segura."
+    },
+    {
+      "term": "feature packs",
+      "explanation": "Pacotes de extensão modulares usados para aprimorar os recursos básicos de um software ou adicionar novas funcionalidades."
+    }
+  ]
+}

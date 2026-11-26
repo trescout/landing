@@ -1,0 +1,334 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-26",
+  "capturedAt": "2026-11-26T13:59:40.677Z",
+  "editorial": "Les contenus inclus dans le rapport ne sont pas répétés pendant 30 jours. À la fin de cette période, les enregistrements qui restent d'actualité sont à nouveau listés avec l'étiquette \"de nouveau à l'ordre du jour\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "summary": "L'article de blog partagé par Scott Aaronson traite des développements récents concernant l'exposant de multiplication matricielle (matrix multiplication exponent). L'article souligne l'importance des nouvelles découvertes concernant la résolution de ce problème mathématique.",
+          "meta": "1 717 votes · 1 548 commentaires",
+          "snapshot": {
+            "sourceId": "50646108",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 1717,
+              "engagementCount": 1548,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50646108",
+                  "popularity": 1717,
+                  "engagementCount": 1548
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-25T19:11:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50646108"
+              }
+            },
+            "description": "See also The matrix multiplication exponent is nine fourths [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50646108",
+              "popularity": 1717,
+              "engagementCount": 1548
+            }
+          ]
+        },
+        {
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "summary": "Le gestionnaire de mots de passe 1Password a annoncé la détection d'un incident de sécurité dans ses systèmes backend. Il a précisé que les coffres-forts des clients n'ont pas été affectés par cette situation et qu'ils restent sécurisés.",
+          "meta": "1 520 votes · 654 commentaires",
+          "snapshot": {
+            "sourceId": "50644817",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 1520,
+              "engagementCount": 654,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50644817",
+                  "popularity": 1520,
+                  "engagementCount": 654
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-25T17:18:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50644817",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "1Password identified a security incident involving some of our backend systems. Customer vaults were not accessed and remain secure."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50644817",
+              "popularity": 1520,
+              "engagementCount": 654
+            }
+          ]
+        },
+        {
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "summary": "grh-lean, partagé par lsernau, propose un processus de vérification plus court de l'Hypothèse de Riemann généralisée (Generalized Riemann Hypothesis) sur le logiciel de preuve mathématique Lean 4. Ce travail présente une nouvelle approche dans le domaine de la vérification formelle (formal verification) des propositions mathématiques complexes.",
+          "meta": "491 votes · 285 commentaires",
+          "snapshot": {
+            "sourceId": "50648050",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 285,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50648050",
+                  "popularity": 491,
+                  "engagementCount": 285
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-25T21:48:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50648050",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis - lsernau/grh-lean"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50648050",
+              "popularity": 491,
+              "engagementCount": 285
+            }
+          ]
+        },
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "summary": "Le New York Times met en garde les photographes contre la mise à jour du logiciel de retouche d'image Photoshop en raison de ses fonctionnalités d'intelligence artificielle. L'institution exprime ses préoccupations concernant l'impact potentiel de ces outils sur les droits d'auteur et les normes éthiques.",
+          "meta": "473 votes · 393 commentaires",
+          "snapshot": {
+            "sourceId": "50647673",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 393,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50647673",
+                  "popularity": 473,
+                  "engagementCount": 393
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-25T21:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50647673"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50647673",
+              "popularity": 473,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+          "summary": "GPT-6.2 Astra est devenu le premier modèle d'intelligence artificielle à surpasser les records de code golf des employés de Google. Ce modèle a atteint un nouveau niveau de réussite dans les tests de programmation compétitive visant à écrire la séquence de code la plus courte possible.",
+          "meta": "412 votes · 115 commentaires",
+          "snapshot": {
+            "sourceId": "50601280",
+            "capturedAt": "2026-11-26T13:59:41.022Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 115,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50601280",
+                  "popularity": 412,
+                  "engagementCount": 115
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-22T16:44:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50601280"
+              }
+            },
+            "description": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. And once a pr"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50601280",
+              "popularity": 412,
+              "engagementCount": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM",
+          "url": "https://huggingface.co/papers/2611.32335",
+          "summary": "GOLD-SLAM est un système de localisation et de cartographie simultanées (SLAM) qui résout l'incompatibilité entre le large champ de vision des caméras panoramiques et les données limitées des capteurs LiDAR. Il combine un rendu visuel de haute qualité et une reconstruction géométrique précise en effectuant un suivi et une cartographie à l'échelle mondiale.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.32335",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32335",
+                "publishedAt": "2026-11-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/InSAI-Lab/GOLD-SLAM",
+                "githubStars": 3
+              }
+            },
+            "description": "Panoramic cameras capture nearly the entire spherical field of view in a single frame. However, the mismatch between this panoramic coverage and the field of view of LiDAR poses a substantial challenge for panoramic Gaussian splatting SLAM that relies on LiDAR depth priors. We introduce GOLD-SLAM, a Gaussian-splatting Omnidirectional LiDAR-Depth SLAM system that combines high-quality rendering with accurate geometric reconstruction. It performs tracking and mapping in the spherical domain and us"
+          }
+        },
+        {
+          "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+          "url": "https://huggingface.co/papers/2611.28244",
+          "summary": "L'article partagé par Hugging Face examine les mécanismes influençant les performances des agents auto-évolutifs qui mènent des recherches scientifiques de manière autonome. L'étude aborde de manière systématique la contribution de la gestion du contexte et des capacités à la réussite du système lors de processus expérimentaux à long terme.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.28244",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.28244",
+                "publishedAt": "2026-11-20T00:00:00.000Z"
+              }
+            },
+            "description": "Autoresearch agents, which autonomously design, run, and refine experiments, are accelerating scientific progress, particularly in AI research. However, existing agents rely on harnesses that combine multiple mechanisms, making it difficult to determine how individual components contribute to performance. We systematically study harness design for long-horizon, self-evolving autoresearch agents along two dimensions: context management, which determines what an agent retains from its past attempt"
+          }
+        },
+        {
+          "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
+          "url": "https://huggingface.co/papers/2611.32938",
+          "summary": "L'article partagé par Hugging Face présente un cadre appelé Lembas, développé pour réduire la charge de traitement lors de la compréhension de vidéos longues. Cette méthode traite le processus RAG (génération augmentée par récupération), qui permet à l'IA de générer des réponses en extrayant des informations à partir de données actuelles et spécifiques, comme un problème d'allocation de jetons (tokens) entre les images et les sous-titres.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.32938",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.32938",
+                "publishedAt": "2026-11-24T00:00:00.000Z"
+              }
+            },
+            "description": "Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented generation (RAG) methods rely on frame selection and token compression, but overlook how much each additional token is worth. We introduce Lembas, a plug-and-play framework that formulates video RAG as a token allocation problem over frames and subtitles under a shared budget. Our key insight is that the value of a to"
+          }
+        },
+        {
+          "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+          "url": "https://huggingface.co/papers/2611.21056",
+          "summary": "L'article partagé par Hugging Face traite du développement itératif de leurs propres applications par des agents d'IA écrivant du code. L'étude propose un processus d'auto-amélioration sans évaluation (evaluation-free) comme alternative aux méthodes de sélection basées sur l'évaluation utilisées pour améliorer les performances.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.21056",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.21056",
+                "publishedAt": "2026-11-16T00:00:00.000Z"
+              }
+            },
+            "description": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages continue evolving, which we term evaluate-and-select. Obtaining this signal requires repeatedly executing evolved agents on downstream tasks, so broader exploration incurs increasing evaluation cost, while repeated optimization against a fixed evaluation distribut"
+          }
+        },
+        {
+          "title": "Letting Models Manage Their Own Context: Where We Stand",
+          "url": "https://huggingface.co/papers/2611.34147",
+          "summary": "L'article partagé par Hugging Face examine une nouvelle approche dans laquelle les modèles d'IA gèrent leur propre contexte. Testée sur nooa, l'outil de développement d'agents open source de NVIDIA, cette méthode permet au modèle de décider lui-même quelles informations doivent être résumées via une interface de programmation d'application (API).",
+          "meta": "5 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2611.34147",
+            "capturedAt": "2026-11-26T13:59:40.819Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.34147",
+                "publishedAt": "2026-11-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/nvidia-nemo/labs-OO-Agents",
+                "githubStars": 2330
+              }
+            },
+            "description": "Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave models control over their own context in \\nooa, NVIDIA's open source agent harness, and compared the two strategies on document research and machine learning engineering across context budgets from 8K to 5"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Interface servant de pont permettant à différents logiciels de communiquer et d'échanger des données."
+    },
+    {
+      "term": "open source",
+      "explanation": "Type de logiciel dont le code source est ouvert à tous pour consultation, modification et amélioration."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacité spécialisée possédée par une intelligence artificielle pour accomplir une tâche spécifique."
+    }
+  ]
+}
