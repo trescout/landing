@@ -15,7 +15,7 @@ O Madeira é um projeto de camada de compatibilidade que permite rodar jogos do 
 
 ## O que você ganha
 
-- Permite que você jogue jogos de computador com Windows em iPhones sem jailbreak.
+- Permite que você jogue jogos de PC com Windows em iPhones sem jailbreak.
 - Utiliza a ferramenta FEX-Emu, que faz emulação de processador, para a tradução da CPU.
 - Utiliza a ferramenta conversora gráfica DXMT para o processo de conversão de gráficos.
 

@@ -2,16 +2,16 @@
 
 Der von JCodesMore entwickelte Website-Kloner mit künstlicher Intelligenz (AI-Website-Kloner) ermöglicht das Kopieren bestehender Websites mit einem einzigen Befehl mithilfe von TypeScript-basierten Codierungsagenten. Dieses Tool nutzt KI-gestützte Codegenerierung, um Webdesign- und Entwicklungsprozesse zu automatisieren.
 
-- ★ 39.523
+- ★ 39.814
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 39,523 → 39,814, neueste Version v0.6.2 (26. November 2026).
 - **20. November 2026:** Sterne 37,618 → 39,523, neueste Version v0.6.1 (5. Oktober 2026).
 - **28. Oktober 2026:** Sterne 35,778 → 37,618, neueste Version v0.6.1 (5. Oktober 2026).
 - **5. Oktober 2026:** Sterne 35,345 → 35,778, neueste Version v0.6.1 (5. Oktober 2026).
-- **27. September 2026:** Sterne 34,582 → 35,345, neueste Version v0.5.1 (27. September 2026).
 
 ## Was es bringt
 

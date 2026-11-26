@@ -37,8 +37,8 @@ Les applications locales peuvent souvent être sauvegardées dans le cloud de ma
 ## Outils liés
 
 - [Openhuman](https://trescout.com/fr/discover/openhuman/)
-- [Orkas](https://trescout.com/fr/discover/orkas/)
 - [PI-Desktop](https://trescout.com/fr/discover/pi-desktop/)
+- [Orkas](https://trescout.com/fr/discover/orkas/)
 - [Agentsview](https://trescout.com/fr/discover/agentsview/)
 - [Open Science](https://trescout.com/fr/discover/open-science/)
 - [Wigolo](https://trescout.com/fr/discover/wigolo/)

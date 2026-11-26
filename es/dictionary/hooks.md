@@ -36,8 +36,8 @@ Cambiar el código principal provoca que todos sus cambios se eliminen cuando se
 
 ## Herramientas relacionadas
 
-- [Everything Claude Code](https://trescout.com/es/discover/everything-claude-code/)
 - [App Store Compliance](https://trescout.com/es/discover/app-store-compliance/)
+- [Everything Claude Code](https://trescout.com/es/discover/everything-claude-code/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/hooks/)
 

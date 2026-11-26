@@ -2,17 +2,17 @@
 
 Vite bietet eine schnelle Entwicklungsumgebung und ein Build-Tool für moderne Webprojekte. Es fungiert als Frontend-Tooling-Tool, das durch die Verwendung nativer ES-Module Wartezeiten im Entwicklungsprozess reduziert.
 
-- ★ 83.930
+- ★ 84.119
 - GitHub Trending · 2026-06-07
 
 **Hinweis von TreScout:** Es spiegelt die Änderungen, die Sie während der Entwicklung vornehmen, sofort auf dem Bildschirm wider und verkürzt so die Wartezeit, die bei großen Projekten Minuten betragen kann, auf Sekunden. Wenn Sie von älteren Tools wechseln, prüfen Sie hier, ob die von Ihnen verwendeten Plugins verfügbar sind. Dies kann als Standardauswahl betrachtet werden, wenn Sie ein neues Webprojekt starten.
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 83,930 → 84,119, neueste Version v8.4.0 (26. November 2026).
 - **11. November 2026:** Sterne 83,902 → 83,930, neueste Version v8.3.8 (11. November 2026).
 - **10. November 2026:** Sterne 83,765 → 83,902, neueste Version v8.3.7 (9. November 2026).
 - **6. November 2026:** Sterne 83,739 → 83,765, neueste Version v8.3.6 (5. November 2026).
-- **5. November 2026:** Sterne 83,599 → 83,739, neueste Version create-vite@9.3.4 (5. November 2026).
 
 ## Was es bringt
 

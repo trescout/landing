@@ -70,9 +70,9 @@ Sim. Basta executar git pull dentro da pasta. Se você tiver alterações, prime
 - [BitNet](https://trescout.com/pt/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/pt/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/pt/discover/clone-wars/)
-- [Univer](https://trescout.com/pt/discover/univer/)
 - [Claude Seo](https://trescout.com/pt/discover/claude-seo/)
-- [openGym](https://trescout.com/pt/discover/opengym/)
+- [Univer](https://trescout.com/pt/discover/univer/)
+- [Claude-BugHunter](https://trescout.com/pt/discover/claude-bughunter/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/clone/)
 

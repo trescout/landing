@@ -2,16 +2,16 @@
 
 ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.
 
-- ★ 9.847
+- ★ 9.886
 - Python
 - GitHub Trending · 2026-06-10
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 9.847 → 9.886, son sürüm 3.2.2 (25 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 9.811 → 9.847, son sürüm 3.2.1 (20 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 9.727 → 9.811, son sürüm 3.2.0 (11 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 9.478 → 9.727, son sürüm 3.1.0 (1 Kasım 2026).
-- **7 Ekim 2026:** Yıldız 9.404 → 9.478, son sürüm 3.0.0 (7 Ekim 2026).
 
 ## Ne kazandırır?
 

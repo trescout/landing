@@ -2,16 +2,16 @@
 
 JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama ajanlarını kullanarak tek komutla mevcut web sitelerinin kopyalanmasını sağlıyor. Bu araç, web tasarımı ve geliştirme süreçlerini otomatize etmek için yapay zekâ destekli kod oluşturma (AI-powered code generation) yönteminden yararlanıyor.
 
-- ★ 39.523
+- ★ 39.814
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 39.523 → 39.814, son sürüm v0.6.2 (26 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 37.618 → 39.523, son sürüm v0.6.1 (5 Ekim 2026).
 - **28 Ekim 2026:** Yıldız 35.778 → 37.618, son sürüm v0.6.1 (5 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 35.345 → 35.778, son sürüm v0.6.1 (5 Ekim 2026).
-- **27 Eylül 2026:** Yıldız 34.582 → 35.345, son sürüm v0.5.1 (27 Eylül 2026).
 
 ## Ne kazandırır?
 

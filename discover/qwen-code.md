@@ -2,16 +2,16 @@
 
 QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ ajanıdır. TypeScript diliyle geliştirilen bu araç, yazılım geliştirme süreçlerini farklı platformlarda desteklemeyi amaçlar.
 
-- ★ 30.861
+- ★ 30.955
 - TypeScript
 - GitHub Trending · 2026-11-13
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 30.861 → 30.955, son sürüm sdk-typescript-v0.1.36 (26 Kasım 2026).
 - **22 Kasım 2026:** Yıldız 30.825 → 30.861, son sürüm v0.28.4 (22 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 30.761 → 30.825, son sürüm v0.28.3 (21 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 30.560 → 30.761, son sürüm sdk-typescript-v0.1.35 (17 Kasım 2026).
-- **16 Kasım 2026:** Yıldız 30.444 → 30.560, son sürüm sdk-typescript-v0.1.34 (15 Kasım 2026).
 
 ## Ne kazandırır?
 

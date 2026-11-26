@@ -4,17 +4,17 @@
 
 *Görsel: FlClash (proje deposundan)*
 
-- ★ 64.058
+- ★ 65.625
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 64.058 → 65.625, son sürüm v0.9.5 (26 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 64.011 → 64.058, son sürüm v0.9.4 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 60.912 → 64.011, son sürüm v0.9.3 (4 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 60.856 → 60.912, son sürüm v0.9.3 (4 Kasım 2026).
-- **4 Kasım 2026:** Yıldız 57.749 → 60.856, son sürüm v0.9.2 (24 Ekim 2026).
 
 - **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar
 - **Zorluk:** Kolay-orta · uygulama

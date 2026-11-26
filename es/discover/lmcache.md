@@ -2,16 +2,16 @@
 
 LMCache ofrece una capa que aumenta la velocidad de inferencia optimizando la gestión de la caché de valores clave (caché KV) para modelos de lenguaje grandes. Este sistema, que eficiente el uso de la memoria, tiene como objetivo reducir la carga computacional en consultas que utilizan el mismo contexto.
 
-- ★ 12.452
+- ★ 12.482
 - Python
 - GitHub Trending · 2026-06-13
 
 ## Actualizaciones
 
+- **26 de noviembre de 2026:** Estrellas 12,452 → 12,482, última versión v0.5.9rc1 (26 de noviembre de 2026).
 - **23 de noviembre de 2026:** Estrellas 12,403 → 12,452, última versión v0.5.8 (22 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 12,344 → 12,403, última versión v0.5.8rc3 (21 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 12,292 → 12,344, última versión v0.5.7.post1 (12 de noviembre de 2026).
-- **6 de noviembre de 2026:** Estrellas 12,074 → 12,292, última versión v0.5.7 (5 de noviembre de 2026).
 
 ## Qué aporta
 

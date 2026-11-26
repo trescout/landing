@@ -2,16 +2,16 @@
 
 Cindy is an out-of-the-box, open-source (with source code accessible and modifiable by everyone) artificial intelligence agent designed to complete real work in your projects and applications. It allows users to manage their workflows by combining multiple models and tools into a single structure.
 
-- ★ 10,622
+- ★ 10,687
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Updates
 
+- **November 26, 2026:** Stars 10,622 → 10,687, latest release v0.1.148 (November 26, 2026).
 - **November 25, 2026:** Stars 10,544 → 10,622, latest release v0.1.146 (November 25, 2026).
 - **November 24, 2026:** Stars 10,488 → 10,544, latest release v0.1.145 (November 24, 2026).
 - **November 23, 2026:** Stars 10,336 → 10,488, latest release v0.1.144 (November 23, 2026).
-- **November 21, 2026:** Stars 10,313 → 10,336, latest release v0.1.143 (November 20, 2026).
 
 ## What you get
 

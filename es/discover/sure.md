@@ -2,16 +2,16 @@
 
 Desarrollado en Ruby, sure es una aplicación de gestión de finanzas personales y patrimonio abierta para el uso de todos. Este proyecto está diseñado como una plataforma de código abierto que ofrece funciones para conectar directamente a los usuarios con asesores financieros (CFP/CFA).
 
-- ★ 16.949
+- ★ 18.032
 - Ruby
 - GitHub Trending · 2026-11-10
 
 ## Actualizaciones
 
+- **26 de noviembre de 2026:** Estrellas 16,949 → 18,032, última versión v0.7.6-hotfix.2 (21 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 16,476 → 16,949, última versión v0.7.6-hotfix.2 (21 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 15,404 → 16,476, última versión v0.7.6-hotfix.1 (12 de noviembre de 2026).
 - **15 de noviembre de 2026:** Estrellas 14,107 → 15,404, última versión v0.7.6-hotfix.1 (12 de noviembre de 2026).
-- **13 de noviembre de 2026:** Estrellas 13,144 → 14,107, última versión v0.7.6-hotfix.1 (12 de noviembre de 2026).
 
 ## Qué aporta
 

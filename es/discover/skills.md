@@ -2,16 +2,16 @@
 
 La biblioteca de habilidades desarrollada por Google ofrece herramientas basadas en Python que permiten a los agentes de inteligencia artificial interactuar con los productos y tecnologías de Google. Este recurso proporciona la funcionalidad necesaria para que los agentes realicen tareas específicas en una estructura estandarizada.
 
-- ★ 23.503
+- ★ 24.700
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Actualizaciones
 
+- **26 de noviembre de 2026:** Estrellas 23,503 → 24,700.
 - **8 de noviembre de 2026:** Estrellas 22,028 → 23,503.
 - **5 de noviembre de 2026:** Estrellas 20,857 → 22,028.
 - **3 de octubre de 2026:** Estrellas 19,762 → 20,857.
-- **11 de septiembre de 2026:** Estrellas 18,743 → 19,762.
 
 ## Qué aporta
 

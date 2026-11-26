@@ -2,16 +2,16 @@
 
 Orkas ist ein Open-Source-KI-Team, das auf Desktop-Computern läuft und Ziele in Aufgabenlisten umwandelt. Durch die Koordination von sechzehn integrierten Experten-Agenten und verschiedenen Codierungsmodellen bietet diese Anwendung einen lokal ausgerichteten Arbeitsbereich (local-first) unter macOS und Windows.
 
-- ★ 9.416
+- ★ 7.860
 - JavaScript
 - GitHub Trending · 2026-11-01
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 9,416 → 7,860, neueste Version v2026.11.26 (26. November 2026).
 - **17. November 2026:** Sterne 9,024 → 9,416, neueste Version v2026.11.16 (16. November 2026).
 - **5. November 2026:** Sterne 8,453 → 9,024, neueste Version v2026.11.4 (4. November 2026).
 - **3. November 2026:** Sterne 7,039 → 8,453, neueste Version v2026.10.27 (27. Oktober 2026).
-- **1. November 2026:** Sterne 7,036 → 7,039, neueste Version v2026.10.27 (27. Oktober 2026).
 
 ## Was es bringt
 

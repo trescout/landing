@@ -2,16 +2,16 @@
 
 RustFS wurde als S3-kompatibles Hochleistungs-Objektspeichersystem entwickelt. Es bietet Interoperabilität und Unterstützung für die Datenmigration mit anderen S3-kompatiblen Plattformen wie MinIO und Ceph.
 
-- ★ 36.141
+- ★ 36.542
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 36,141 → 36,542, neueste Version 1.0.7 (26. November 2026).
 - **16. November 2026:** Sterne 35,933 → 36,141, neueste Version 1.0.6 (15. November 2026).
 - **10. November 2026:** Sterne 35,371 → 35,933, neueste Version 1.0.5 (10. November 2026).
 - **26. Oktober 2026:** Sterne 35,063 → 35,371, neueste Version 1.0.4 (25. Oktober 2026).
-- **18. Oktober 2026:** Sterne 35,038 → 35,063, neueste Version 1.0.3 (17. Oktober 2026).
 
 ## Was es bringt
 

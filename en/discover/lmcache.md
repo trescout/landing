@@ -2,16 +2,16 @@
 
 LMCache offers a layer that increases inference speed by optimizing key-value cache (KV cache) management for large language models. This system, which makes memory usage efficient, aims to reduce the computational load in queries that use the same context.
 
-- ★ 12,452
+- ★ 12,482
 - Python
 - GitHub Trending · 2026-06-13
 
 ## Updates
 
+- **November 26, 2026:** Stars 12,452 → 12,482, latest release v0.5.9rc1 (November 26, 2026).
 - **November 23, 2026:** Stars 12,403 → 12,452, latest release v0.5.8 (November 22, 2026).
 - **November 21, 2026:** Stars 12,344 → 12,403, latest release v0.5.8rc3 (November 21, 2026).
 - **November 12, 2026:** Stars 12,292 → 12,344, latest release v0.5.7.post1 (November 12, 2026).
-- **November 6, 2026:** Stars 12,074 → 12,292, latest release v0.5.7 (November 5, 2026).
 
 ## What you get
 

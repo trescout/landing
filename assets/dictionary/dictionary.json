@@ -11022,5 +11022,18 @@
     "kisa_es": "Es la estructura de arquitectura extensible formada por complementos independientes que aportan funcionalidades adicionales al software principal.",
     "kisa_pt": "É uma estrutura de arquitetura extensível formada por plugins independentes que adicionam recursos adicionais ao software principal.",
     "kisa_de": "Es ist eine erweiterbare Architekturstruktur, die aus unabhängigen Erweiterungen besteht, die der Hauptsoftware zusätzliche Funktionen verleihen."
+  },
+  {
+    "slug": "feature-packs",
+    "en": "Feature Packs",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılıma yeni yetenekler kazandırmak veya mevcut işlevleri genişletmek amacıyla modüler biçimde sunulan eklenti paketleridir.",
+    "date": "2026-11-26",
+    "kisa_en": "These are plugin packages offered in a modular format to add new capabilities to software or expand existing functions.",
+    "kisa_fr": "Ce sont des paquets d'extensions proposés de manière modulaire afin d'ajouter de nouvelles fonctionnalités à un logiciel ou d'étendre les fonctions existantes.",
+    "kisa_es": "Son paquetes de complementos ofrecidos de forma modular con el fin de dotar a un software de nuevas capacidades o ampliar las funciones existentes.",
+    "kisa_pt": "São pacotes de plug-ins oferecidos de forma modular com o objetivo de adicionar novos recursos a um software ou expandir as funções existentes.",
+    "kisa_de": "Es handelt sich um modulartig bereitgestellte Erweiterungspakete, um einer Software neue Funktionen hinzuzufügen oder bestehende Funktionalitäten zu erweitern."
   }
 ]

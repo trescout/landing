@@ -2,16 +2,16 @@
 
 O Coolify é uma ferramenta de implantação de código aberto que serve como alternativa a plataformas em nuvem (PaaS) como Vercel, Heroku e Netlify. Ele permite que você hospede facilmente mais de 360 serviços, incluindo sites estáticos, bancos de dados e aplicações complexas, diretamente em seus próprios servidores.
 
-- ★ 66.456
+- ★ 66.493
 - PHP
 - GitHub Trending · 2026-10-26
 
 ## Atualizações
 
+- **26 de novembro de 2026:** Estrelas 66,456 → 66,493, versão mais recente v4.7.9 (26 de novembro de 2026).
 - **25 de novembro de 2026:** Estrelas 66,279 → 66,456, versão mais recente v4.7.8 (25 de novembro de 2026).
 - **20 de novembro de 2026:** Estrelas 65,900 → 66,279, versão mais recente v4.7.6 (19 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 65,870 → 65,900, versão mais recente v4.7.5 (10 de novembro de 2026).
-- **10 de novembro de 2026:** Estrelas 65,566 → 65,870, versão mais recente v4.7.3 (9 de novembro de 2026).
 
 ## O que você ganha
 

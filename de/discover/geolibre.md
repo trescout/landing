@@ -2,16 +2,16 @@
 
 GeoLibre ist eine leichte, cloudbasierte Plattform für geografische Informationssysteme (GIS), die zur Visualisierung, Erkundung und Analyse geografischer Daten entwickelt wurde. Dieses mit TypeScript entwickelte Tool kann auf Webbrowsern, Desktops, Mobilgeräten und Jupyter-Notebooks ausgeführt werden.
 
-- ★ 8.810
+- ★ 8.856
 - TypeScript
 - GitHub Trending · 2026-07-28
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 8,810 → 8,856, neueste Version v3.10.1 (25. November 2026).
 - **25. November 2026:** Sterne 8,722 → 8,810, neueste Version v3.10.0 (25. November 2026).
 - **18. November 2026:** Sterne 8,628 → 8,722, neueste Version v3.9.0 (17. November 2026).
 - **15. November 2026:** Sterne 8,440 → 8,628, neueste Version v3.8.0 (14. November 2026).
-- **8. November 2026:** Sterne 8,382 → 8,440, neueste Version v3.7.0 (8. November 2026).
 
 ## Was es bringt
 

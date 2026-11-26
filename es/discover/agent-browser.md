@@ -2,16 +2,16 @@
 
 Desarrollado por Vercel Labs, agent-browser es una interfaz de línea de comandos (CLI) que proporciona automatización de navegador para agentes de inteligencia artificial. Escrita en Rust, esta herramienta permite leer páginas como un árbol de accesibilidad e interactuar con elementos web a través de la línea de comandos.
 
-- ★ 53.664
+- ★ 54.089
 - Rust
 - GitHub Trending · 2026-11-06
 
 ## Actualizaciones
 
+- **26 de noviembre de 2026:** Estrellas 53,664 → 54,089, última versión v0.45.0 (25 de noviembre de 2026).
 - **24 de noviembre de 2026:** Estrellas 52,951 → 53,664, última versión v0.44.0 (23 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 50,405 → 52,951, última versión v0.43.0 (12 de noviembre de 2026).
 - **13 de noviembre de 2026:** Estrellas 48,777 → 50,405, última versión v0.43.0 (12 de noviembre de 2026).
-- **10 de noviembre de 2026:** Estrellas 46,036 → 48,777, última versión v0.42.0 (10 de noviembre de 2026).
 
 ## Qué aporta
 

@@ -2,7 +2,7 @@
 
 Node.js offers a runtime environment that allows JavaScript code to be run outside the browser. Based on the V8 engine, this platform is used to develop scalable network applications on the server side.
 
-- ★ 123,773
+- ★ 124,031
 - JavaScript
 - GitHub Trending · 2026-07-27
 
@@ -10,10 +10,10 @@ Node.js offers a runtime environment that allows JavaScript code to be run outsi
 
 ## Updates
 
+- **November 26, 2026:** Stars 123,773 → 124,031, latest release v27.0.0-alpha.0.2.0 (November 26, 2026).
 - **November 18, 2026:** Stars 123,636 → 123,773, latest release v27.0.0-alpha.0.1.1 (November 17, 2026).
 - **November 13, 2026:** Stars 123,486 → 123,636, latest release v27.0.0-alpha.0.1.0 (November 12, 2026).
 - **November 12, 2026:** Stars 123,156 → 123,486, latest release v26.13.1 (November 11, 2026).
-- **October 29, 2026:** Stars 122,486 → 123,156, latest release v26.13.0 (October 28, 2026).
 
 ## What you get
 

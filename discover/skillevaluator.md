@@ -2,16 +2,16 @@
 
 NVIDIA tarafından geliştirilen SkillEvaluator, yapay zekâ ajanlarının yeteneklerini kalite kontrolü, anlamsal çakışma tespiti ve sentetik veri üretimi gibi yöntemlerle değerlendiren çok katmanlı bir çerçeve (framework). Bu araç, ajanların davranışları üzerindeki etkileri ölçmek amacıyla canlı değerlendirme süreçleri sunuyor.
 
-- ★ 4.483
+- ★ 4.572
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Güncelleme
 
+- **26 Kasım 2026:** Yıldız 4.483 → 4.572, son sürüm v1.2.1 (25 Kasım 2026).
 - **24 Kasım 2026:** Yıldız 4.449 → 4.483, son sürüm v1.2.0 (24 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 4.448 → 4.449, son sürüm v1.0.1 (18 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 3.655 → 4.448, son sürüm v1.1.0 (23 Kasım 2026).
-- **18 Kasım 2026:** Yıldız 2.913 → 3.655, son sürüm v1.0.1 (18 Kasım 2026).
 
 ## Ne kazandırır?
 

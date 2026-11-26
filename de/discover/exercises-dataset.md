@@ -2,16 +2,16 @@
 
 Der von Hasaneyldrm geteilte Übungsdatensatz (exercises-dataset) bietet 433 verschiedene Fitnessbewegungen mit Namen, Zielmuskelgruppen, Ausrüstung und visuellen Anweisungen. Diese umfassende Ressource bietet eine strukturierte Dateninfrastruktur für diejenigen, die Sporttechnologieanwendungen entwickeln.
 
-- ★ 22.899
+- ★ 24.093
 - HTML
 - GitHub Trending · 2026-07-01
 
 ## Aktualisierungen
 
+- **26. November 2026:** Sterne 22,899 → 24,093.
 - **17. Oktober 2026:** Sterne 21,796 → 22,899.
 - **13. September 2026:** Sterne 20,717 → 21,796.
 - **24. August 2026:** Sterne 19,692 → 20,717.
-- **15. August 2026:** Sterne 18,515 → 19,692.
 
 ## Was es bringt
 
