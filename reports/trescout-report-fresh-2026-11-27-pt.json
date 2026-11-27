@@ -1,0 +1,406 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-27",
+  "capturedAt": "2026-11-27T13:58:20.049Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers é uma estrutura de habilidades (framework) e metodologia de desenvolvimento de software desenvolvida para agentes de IA que escrevem código. Visa padronizar os processos de desenvolvimento de software dos agentes por meio de habilidades combináveis e instruções de direcionamento.",
+          "meta": "Shell · ★ 327.994 · +916 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-27T14:13:23.672Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 327994,
+              "engagementCount": 916,
+              "rank": 2,
+              "extra": {
+                "starsToday": 916,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "summary": "As ferramentas de inteligência artificial estão tornando os processos de auto-hospedagem (self-hosting) novamente uma atividade interessante e acessível. O entusiasmo decrescente pela configuração e gerenciamento de infraestrutura de software está aumentando novamente com a conveniência proporcionada pela inteligência artificial.",
+          "meta": "850 pontos · 416 comentários",
+          "snapshot": {
+            "sourceId": "50660180",
+            "capturedAt": "2026-11-27T13:58:20.302Z",
+            "metadata": {
+              "popularity": 850,
+              "engagementCount": 416,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50660180",
+                  "popularity": 850,
+                  "engagementCount": 416
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-26T21:47:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50660180",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50660180",
+              "popularity": 850,
+              "engagementCount": 416
+            }
+          ]
+        },
+        {
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono",
+          "summary": "Intel One Mono é uma fonte de codificação projetada pela Intel para reduzir a fadiga ocular dos desenvolvedores durante o tempo que passam em frente à tela. Disponibilizada como código aberto no GitHub, esta fonte possui estruturas de caracteres desenvolvidas especificamente para aumentar a legibilidade.",
+          "meta": "543 pontos · 261 comentários",
+          "snapshot": {
+            "sourceId": "50653667",
+            "capturedAt": "2026-11-27T13:58:20.302Z",
+            "metadata": {
+              "popularity": 543,
+              "engagementCount": 261,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50653667",
+                  "popularity": 543,
+                  "engagementCount": 261
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-26T10:11:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50653667",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Intel One Mono font repository. Contribute to intel/intel-one-mono development by creating an account on GitHub."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50653667",
+              "popularity": 543,
+              "engagementCount": 261
+            }
+          ]
+        },
+        {
+          "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "summary": "YouTube Ad Punisher é uma extensão de navegador que atualiza automaticamente a página quando um anúncio é exibido no YouTube. Esta ferramenta atua como um bloqueador de anúncios (ad blocker) e visa garantir que os usuários tenham acesso ininterrupto ao conteúdo.",
+          "meta": "451 pontos · 536 comentários",
+          "snapshot": {
+            "sourceId": "50657530",
+            "capturedAt": "2026-11-27T13:58:20.302Z",
+            "metadata": {
+              "popularity": 451,
+              "engagementCount": 536,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50657530",
+                  "popularity": 451,
+                  "engagementCount": 536
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-26T17:36:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50657530",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "YouTube Ad Blocker - Chrome / Browser Extension. Contribute to antonpictures/youtube-punisher development by creating an account on GitHub."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50657530",
+              "popularity": 451,
+              "engagementCount": 536
+            }
+          ]
+        },
+        {
+          "title": "Company Culture = Slack Emoji ÷ √Headcount",
+          "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+          "summary": "Este estudo, que traz uma abordagem crítica aos métodos de medição da cultura corporativa, propõe a criação de uma métrica cultural correlacionando o uso de emojis na ferramenta de comunicação interna Slack com o número de funcionários. Ele apresenta um modelo de análise alternativo baseado em dados de interação digital em vez de pesquisas tradicionais e eventos de RH.",
+          "meta": "438 pontos · 213 comentários",
+          "snapshot": {
+            "sourceId": "50659640",
+            "capturedAt": "2026-11-27T13:58:20.302Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 213,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50659640",
+                  "popularity": 438,
+                  "engagementCount": 213
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-26T20:49:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50659640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Companies spend an enormous amount of time and money trying to measure - and even worse, decide - culture. Engagement surveys, pulse checks, eNPS, offsites where someone from HR asks you to describe the company as a type of animal. Office posters make claims like “our culture is honesty, hard work and fun”, embarrassing the paper they’re printed on."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50659640",
+              "popularity": 438,
+              "engagementCount": 213
+            }
+          ]
+        },
+        {
+          "title": "Hard Drive pricing has gotten bad",
+          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "summary": "É relatado que os preços dos discos rígidos aumentaram significativamente nos últimos dois anos. O autor, examinando registros de compras de anos anteriores, relata que o preço de um disco de 20TB subiu de 249,99 dólares para 549,99 dólares.",
+          "meta": "428 pontos · 372 comentários",
+          "snapshot": {
+            "sourceId": "50661646",
+            "capturedAt": "2026-11-27T13:58:20.302Z",
+            "metadata": {
+              "popularity": 428,
+              "engagementCount": 372,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50661646",
+                  "popularity": 428,
+                  "engagementCount": 372
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-27T01:13:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50661646",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The same 20TB drive went from $249.99 to $549.99 in two Black Fridays. I dug through eight years of receipts, including my ServerPartDeals orders."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50661646",
+              "popularity": 428,
+              "engagementCount": 372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "summary": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF é um modelo de geração de texto com 27 bilhões de parâmetros desenvolvido para agentes de inteligência artificial. Otimizado para fluxos de trabalho baseados em agentes, o modelo pode ser executado em CUDA, Metal e CPU através da biblioteca llama.cpp.",
+          "meta": "♥ 575 · 382.546 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+            "capturedAt": "2026-11-27T13:58:20.166Z",
+            "metadata": {
+              "popularity": 575,
+              "engagementCount": 382546,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 498,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "agentic",
+                  "tool-calling",
+                  "speculative-decoding",
+                  "mtp",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. A 27B ternary model built for agents, for llama.cpp (CUDA, Metal, CPU)"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Revisiting LLMs as Context Engineers",
+          "url": "https://huggingface.co/papers/2611.30494",
+          "summary": "O artigo compartilhado pela Hugging Face aborda métodos de engenharia de contexto (context engineering) usados para orientar grandes modelos de linguagem (LLM) sem a necessidade de um processo de treinamento intensivo. Esta abordagem foca na automatização de processos, fazendo com que os grandes modelos de linguagem derivem instruções gerais a partir de suas próprias experiências.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.30494",
+            "capturedAt": "2026-11-27T13:58:20.174Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30494",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/costa-nus/LCEBench",
+                "githubStars": 1
+              }
+            },
+            "description": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM itself as the engineer that draws generalizable instructions or experiences from offline trials as context. Although these methods resemble how humans learn from experiences, it rema"
+          }
+        },
+        {
+          "title": "InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion",
+          "url": "https://huggingface.co/papers/2611.31516",
+          "summary": "InitFree-SfM apresenta um método de ajuste de feixe (bundle adjustment) independente de valores iniciais, que não requer uma estimativa global prévia em processos de estrutura a partir do movimento (Structure-from-Motion). O estudo visa eliminar a incompatibilidade entre o valor alvo e a reconstrução realista em otimizações feitas com valores iniciais aleatórios.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.31516",
+            "capturedAt": "2026-11-27T13:58:20.174Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31516",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/simonwebertum/initfree-sfm",
+                "githubStars": 3
+              }
+            },
+            "description": "Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially compared to traditional BA where a good estimation is assumed. While recent methods optimize surrogate Object Space Error (OSE) objectives from random initialization, a low objective value does not necessarily yield an accurate reconstruction, revealing a gap between optimization and reconstruction."
+          }
+        },
+        {
+          "title": "So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes",
+          "url": "https://huggingface.co/papers/2611.31155",
+          "summary": "O conjunto de dados compartilhado no Hugging Face reúne 62.029 esquemas diferentes de rank-23 para multiplicação de matrizes 3x3. Obtidos por meio de métodos de descida de gradiente (gradient descent) e mínimos quadrados alternados (alternating least squares), esses esquemas baseiam-se no valor de rank mais conhecido e aceito como ideal para operações de multiplicação de matrizes.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.31155",
+            "capturedAt": "2026-11-27T13:58:20.174Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31155",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/dronperminov/rank23_3x3_dataset",
+                "githubStars": 0
+              }
+            },
+            "description": "A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matrices of a scheme, so all schemes are pairwise inequivalent. The schemes were obtained by a numerical method combining gradient descent with alternating least squares and by flip graph search, and have ternary, integer or rational coefficients. Rank 23 is the best known for this format and is optimal f"
+          }
+        },
+        {
+          "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+          "url": "https://huggingface.co/papers/2611.31491",
+          "summary": "Pretrained Tabular Features and the Measurement of Financial Proximity apresenta um estudo que examina as interações de retorno entre ativos financeiros usando a teoria de precificação de arbitragem espacial (S-APT). O artigo discute o desempenho de modelos fundamentais para dados tabulares (tabular foundation models) em aplicações financeiras e a interpretabilidade limitada desses modelos em áreas que exigem transparência.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.31491",
+            "capturedAt": "2026-11-27T13:58:20.174Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.31491",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/marcusinthesky/free-foundations",
+                "githubStars": 0
+              }
+            },
+            "description": "Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation models (TFMs) have matched or outperformed tuned gradient-boosted and bagged ensembles on small and medium-sized tabular benchmarks. Although their predictive performance is strong, these models reveal little about what they have learned, which limits their use in regulated financial applications that r"
+          }
+        },
+        {
+          "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+          "url": "https://huggingface.co/papers/2611.28849",
+          "summary": "O artigo Guarding with Judgment: Learning to Intervene for Multimodal Safety, publicado no Hugging Face, propõe que a inteligência artificial responda a consultas com contexto visual por meio de quatro ações diferentes — permitir, alertar, revisar e recusar — em vez de apenas recusar. Esta abordagem utiliza um conjunto de referência (benchmark) chamado JudiBench e uma ampla base de dados de treinamento para fundamentar as decisões de segurança em evidências verificáveis.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.28849",
+            "capturedAt": "2026-11-27T13:58:20.174Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.28849",
+                "publishedAt": "2026-11-21T00:00:00.000Z"
+              }
+            },
+            "description": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from a condition that still needs verification, a distinction that binary safety labels leave unspecified. We formulate this decision through four actions: allow, warn, review, and refuse. To ground these decisions in verifiable evidence, we build a corpus of 20,126 training audits and the JudiBench ben"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Um conjunto de regras e ferramentas fundamentais que proporcionam uma ordem e estrutura específicas ao desenvolver software, facilitando o trabalho."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    }
+  ]
+}
