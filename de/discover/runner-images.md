@@ -8,10 +8,10 @@ GitHub Actions Runner Images enthalten die Umgebungen für virtuelle Maschinen, 
 
 ## Aktualisierungen
 
+- **27. November 2026:** Sterne 13,631 → 13,631, neueste Version win25/20261124.341 (25. November 2026).
 - **27. November 2026:** Sterne 13,618 → 13,631, neueste Version ubuntu24/20261122.23 (23. November 2026).
 - **21. November 2026:** Sterne 13,594 → 13,618, neueste Version macos-26-arm64/20261117.0516 (18. November 2026).
 - **16. November 2026:** Sterne 13,591 → 13,594, neueste Version win11-vs2026-arm64/20261112.217 (13. November 2026).
-- **14. November 2026:** Sterne 13,576 → 13,591, neueste Version win25/20261111.331 (12. November 2026).
 
 ## Was es bringt
 

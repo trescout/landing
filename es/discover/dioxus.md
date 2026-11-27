@@ -2,12 +2,13 @@
 
 Dioxus es un framework de Rust que permite desarrollar aplicaciones de extremo a extremo (fullstack) con una única base de código para plataformas web, de escritorio y móviles. Estandariza la experiencia de desarrollo de aplicaciones en el ecosistema Rust al acelerar el proceso de creación de la interfaz de usuario con su estructura basada en componentes similar a React.
 
-- ★ 38.444
+- ★ 39.950
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Actualizaciones
 
+- **27 de noviembre de 2026:** Estrellas 38,444 → 39,950, última versión v0.7.11 (27 de noviembre de 2026).
 - **2 de agosto de 2026:** Estrellas 37,762 → 38,444, última versión v0.7.10 (30 de julio de 2026).
 
 ## Qué aporta

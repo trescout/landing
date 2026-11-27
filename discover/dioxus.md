@@ -2,12 +2,13 @@
 
 Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan uca (fullstack) uygulamalar geliştirmeye olanak tanıyan bir Rust çerçevesidir (framework). React benzeri bileşen tabanlı yapısıyla kullanıcı arayüzü oluşturma sürecini hızlandırarak Rust ekosistemindeki uygulama geliştirme deneyimini standartlaştırır.
 
-- ★ 38.444
+- ★ 39.950
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 38.444 → 39.950, son sürüm v0.7.11 (27 Kasım 2026).
 - **2 Ağustos 2026:** Yıldız 37.762 → 38.444, son sürüm v0.7.10 (30 Temmuz 2026).
 
 ## Ne kazandırır?

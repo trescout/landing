@@ -8,10 +8,10 @@ GitHub Actions runner images contain the virtual machine environments used by th
 
 ## Updates
 
+- **November 27, 2026:** Stars 13,631 → 13,631, latest release win25/20261124.341 (November 25, 2026).
 - **November 27, 2026:** Stars 13,618 → 13,631, latest release ubuntu24/20261122.23 (November 23, 2026).
 - **November 21, 2026:** Stars 13,594 → 13,618, latest release macos-26-arm64/20261117.0516 (November 18, 2026).
 - **November 16, 2026:** Stars 13,591 → 13,594, latest release win11-vs2026-arm64/20261112.217 (November 13, 2026).
-- **November 14, 2026:** Stars 13,576 → 13,591, latest release win25/20261111.331 (November 12, 2026).
 
 ## What you get
 

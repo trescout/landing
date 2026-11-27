@@ -8,10 +8,10 @@ Las imágenes de ejecutores (runner images) de GitHub Actions albergan los entor
 
 ## Actualizaciones
 
+- **27 de noviembre de 2026:** Estrellas 13,631 → 13,631, última versión win25/20261124.341 (25 de noviembre de 2026).
 - **27 de noviembre de 2026:** Estrellas 13,618 → 13,631, última versión ubuntu24/20261122.23 (23 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 13,594 → 13,618, última versión macos-26-arm64/20261117.0516 (18 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 13,591 → 13,594, última versión win11-vs2026-arm64/20261112.217 (13 de noviembre de 2026).
-- **14 de noviembre de 2026:** Estrellas 13,576 → 13,591, última versión win25/20261111.331 (12 de noviembre de 2026).
 
 ## Qué aporta
 

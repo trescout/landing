@@ -8,10 +8,10 @@ Les images de runner GitHub Actions hébergent les environnements de machines vi
 
 ## Mises à jour
 
+- **27 novembre 2026:** Étoiles 13,631 → 13,631, dernière version win25/20261124.341 (25 novembre 2026).
 - **27 novembre 2026:** Étoiles 13,618 → 13,631, dernière version ubuntu24/20261122.23 (23 novembre 2026).
 - **21 novembre 2026:** Étoiles 13,594 → 13,618, dernière version macos-26-arm64/20261117.0516 (18 novembre 2026).
 - **16 novembre 2026:** Étoiles 13,591 → 13,594, dernière version win11-vs2026-arm64/20261112.217 (13 novembre 2026).
-- **14 novembre 2026:** Étoiles 13,576 → 13,591, dernière version win25/20261111.331 (12 novembre 2026).
 
 ## Ce que ça vous apporte
 
