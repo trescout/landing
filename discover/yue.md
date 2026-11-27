@@ -2,16 +2,16 @@
 
 YuE, sembolik planlama ve sıfır örnekli (zero-shot) cover üretimi gibi yeteneklerle donatılmış bir müzik oluşturma sistemidir. Müzik düzenleme süreçlerini otomatize eden bu yapay zekâ modeli, karmaşık kompozisyonları agentik iş akışlarıyla yönetmenize olanak tanır.
 
-- ★ 12.774
+- ★ 13.776
 - Python
 - GitHub Trending · 2026-09-13
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 12.774 → 13.776, son sürüm yue2-v0.1.6 (9 Eylül 2026).
 - **27 Ekim 2026:** Yıldız 11.751 → 12.774, son sürüm yue2-v0.1.6 (9 Eylül 2026).
 - **12 Ekim 2026:** Yıldız 10.749 → 11.751, son sürüm yue2-v0.1.6 (9 Eylül 2026).
 - **3 Ekim 2026:** Yıldız 9.749 → 10.749, son sürüm yue2-v0.1.6 (9 Eylül 2026).
-- **19 Eylül 2026:** Yıldız 8.744 → 9.749, son sürüm yue2-v0.1.6 (9 Eylül 2026).
 
 ## Ne kazandırır?
 

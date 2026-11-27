@@ -2,12 +2,13 @@
 
 AFFiNE is a next-generation knowledge base that combines planning, editing, and content creation processes into a single platform. Privacy-focused and open-source (with source codes open to everyone for access and development), this software offers a workspace alternative to tools like Notion and Miro.
 
-- ★ 75,294
+- ★ 79,242
 - TypeScript
 - GitHub Trending · 2026-11-20
 
 ## Updates
 
+- **November 27, 2026:** Stars 75,294 → 79,242, latest release v0.27.4 (August 18, 2026).
 - **November 20, 2026:** Stars 75,279 → 75,294, latest release v0.27.4 (August 18, 2026).
 
 ## What you get

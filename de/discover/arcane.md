@@ -2,12 +2,13 @@
 
 Arcane wurde in der Programmiersprache Go entwickelt und bietet eine moderne Benutzeroberfläche zur Verwaltung von Docker-Containern. Das Tool richtet sich an Benutzer aller Erfahrungsstufen und zielt darauf ab, die Verwaltungsprozesse von Docker zu vereinfachen.
 
-- ★ 10.147
+- ★ 10.621
 - Go
 - GitHub Trending · 2026-11-17
 
 ## Aktualisierungen
 
+- **27. November 2026:** Sterne 10,147 → 10,621, neueste Version v3.2.0 (27. November 2026).
 - **20. November 2026:** Sterne 9,759 → 10,147, neueste Version v3.1.1 (19. November 2026).
 - **18. November 2026:** Sterne 8,877 → 9,759, neueste Version v3.1.0 (18. November 2026).
 - **17. November 2026:** Sterne 8,868 → 8,877, neueste Version v3.0.1 (15. November 2026).

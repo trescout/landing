@@ -41,8 +41,8 @@ Evet, örneğin Linux çekirdeği ile Windows çekirdeği farklı mimarilere sah
 ## İlgili araçlar
 
 - [Vllm](https://trescout.com/discover/vllm/)
-- [DeepGEMM](https://trescout.com/discover/deepgemm/)
 - [Tilelang](https://trescout.com/discover/tilelang/)
+- [DeepGEMM](https://trescout.com/discover/deepgemm/)
 - [FlashKDA](https://trescout.com/discover/flashkda/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -41,8 +41,8 @@ Yes, for example, the Linux kernel and the Windows kernel have different archite
 ## Related tools
 
 - [Vllm](https://trescout.com/en/discover/vllm/)
-- [DeepGEMM](https://trescout.com/en/discover/deepgemm/)
 - [Tilelang](https://trescout.com/en/discover/tilelang/)
+- [DeepGEMM](https://trescout.com/en/discover/deepgemm/)
 - [FlashKDA](https://trescout.com/en/discover/flashkda/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/kernels/)

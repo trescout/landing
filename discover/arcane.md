@@ -2,12 +2,13 @@
 
 Go diliyle geliştirilen Arcane, Docker kapsayıcılarını (container) yönetmek için tasarlanmış modern bir arayüz sunuyor. Her seviyeden kullanıcıya hitap eden bu araç, Docker yönetim süreçlerini basitleştirmeyi hedefliyor.
 
-- ★ 10.147
+- ★ 10.621
 - Go
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 10.147 → 10.621, son sürüm v3.2.0 (27 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 9.759 → 10.147, son sürüm v3.1.1 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 8.877 → 9.759, son sürüm v3.1.0 (18 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 8.868 → 8.877, son sürüm v3.0.1 (15 Kasım 2026).

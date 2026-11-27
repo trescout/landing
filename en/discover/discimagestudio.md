@@ -2,16 +2,16 @@
 
 Disc Image Studio is a cross-platform disc image creation and burning tool that allows you to etch naked-eye visible images onto the surface of DVDs, CDs, and single-layer Blu-ray discs. Developed in C#, this software enables you to process custom graphics onto the disc surface using any writable optical drive.
 
-- ★ 10,116
+- ★ 10,955
 - C#
 - GitHub Trending · 2026-11-05
 
 ## Updates
 
+- **November 27, 2026:** Stars 10,116 → 10,955, latest release v1.7.0 (November 26, 2026).
 - **November 16, 2026:** Stars 10,023 → 10,116, latest release v1.6.0 (November 15, 2026).
 - **November 15, 2026:** Stars 8,997 → 10,023, latest release v1.5.0 (November 7, 2026).
 - **November 10, 2026:** Stars 7,904 → 8,997, latest release v1.5.0 (November 7, 2026).
-- **November 7, 2026:** Stars 7,405 → 7,904, latest release v1.5.0 (November 7, 2026).
 
 ## What you get
 

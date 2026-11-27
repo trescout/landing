@@ -41,8 +41,8 @@ Ja, zum Beispiel haben der Linux-Kernel und der Windows-Kernel unterschiedliche 
 ## Verwandte Werkzeuge
 
 - [Vllm](https://trescout.com/de/discover/vllm/)
-- [DeepGEMM](https://trescout.com/de/discover/deepgemm/)
 - [Tilelang](https://trescout.com/de/discover/tilelang/)
+- [DeepGEMM](https://trescout.com/de/discover/deepgemm/)
 - [FlashKDA](https://trescout.com/de/discover/flashkda/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/kernels/)

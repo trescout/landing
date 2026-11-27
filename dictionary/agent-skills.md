@@ -71,8 +71,8 @@ Evet. Platformlar yaygın yetenekleri paketler, özel iş için kendiniz yazars�
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/discover/openmontage/)
 - [Awesome Agent Skills](https://trescout.com/discover/awesome-agent-skills/)
-- [Agentskills](https://trescout.com/discover/agentskills/)
 - [Text to Cad](https://trescout.com/discover/text-to-cad/)
+- [Agentskills](https://trescout.com/discover/agentskills/)
 - [Claude Obsidian](https://trescout.com/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)
 

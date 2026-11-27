@@ -71,8 +71,8 @@ Ja. Plattformen bündeln gängige Fähigkeiten, für spezielle Aufgaben schreibe
 - [Taste Skill](https://trescout.com/de/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/de/discover/openmontage/)
 - [Awesome Agent Skills](https://trescout.com/de/discover/awesome-agent-skills/)
-- [Agentskills](https://trescout.com/de/discover/agentskills/)
 - [Text to Cad](https://trescout.com/de/discover/text-to-cad/)
+- [Agentskills](https://trescout.com/de/discover/agentskills/)
 - [Claude Obsidian](https://trescout.com/de/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/de/discover/stitch-skills/)
 

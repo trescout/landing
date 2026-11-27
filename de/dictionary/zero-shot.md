@@ -40,8 +40,8 @@ Es bedeutet auf Englisch 'Null-Schuss'; das heißt, dem Modell wurde kein einzig
 
 ## Verwandte Werkzeuge
 
-- [Voice Pro](https://trescout.com/de/discover/voice-pro/)
 - [YuE](https://trescout.com/de/discover/yue/)
+- [Voice Pro](https://trescout.com/de/discover/voice-pro/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/zero-shot/)
 

@@ -2,12 +2,13 @@
 
 Tilelang, yüksek performanslı grafik işlem birimi (GPU), merkezi işlem birimi (CPU) ve hızlandırıcı çekirdekleri (kernels) geliştirmeyi kolaylaştıran alana özgü bir dil (domain-specific language). Python tabanlı bu araç, karmaşık donanım optimizasyon süreçlerini basitleştirerek yazılım geliştiricilerin daha verimli hesaplama birimleri oluşturmasına olanak tanıyor.
 
-- ★ 8.208
+- ★ 9.048
 - Python
 - GitHub Trending · 2026-10-02
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 8.208 → 9.048, son sürüm v0.1.16 (27 Kasım 2026).
 - **2 Ekim 2026:** Yıldız 8.196 → 8.208, son sürüm v0.1.15 (30 Eylül 2026).
 
 ## Ne kazandırır?

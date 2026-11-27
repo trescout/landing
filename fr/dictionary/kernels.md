@@ -41,8 +41,8 @@ Oui, par exemple, le noyau Linux et le noyau Windows ont des architectures diff�
 ## Outils liés
 
 - [Vllm](https://trescout.com/fr/discover/vllm/)
-- [DeepGEMM](https://trescout.com/fr/discover/deepgemm/)
 - [Tilelang](https://trescout.com/fr/discover/tilelang/)
+- [DeepGEMM](https://trescout.com/fr/discover/deepgemm/)
 - [FlashKDA](https://trescout.com/fr/discover/flashkda/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/kernels/)

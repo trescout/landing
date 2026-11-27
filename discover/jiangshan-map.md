@@ -2,12 +2,13 @@
 
 DeanChensj/jiangshan-map, Çin tarihini 18 hanedanlık üzerinden inceleyen etkileşimli bir tarihsel atlas ve zaman çizelgesi uygulamasıdır. JavaScript ile geliştirilen bu proje, 198 farklı bölge görüntüsüyle antik dönemden günümüze kadar yerleşim yerlerinin gelişimini ve klasik şiir rotalarını harita üzerinde sunar.
 
-- ★ 8.484
+- ★ 9.446
 - JavaScript
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 8.484 → 9.446, son sürüm v1.5.0 (27 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 8.157 → 8.484, son sürüm v1.4.0 (20 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 7.126 → 8.157, son sürüm v1.3.0 (13 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 7.113 → 7.126, son sürüm v1.3.0 (13 Kasım 2026).

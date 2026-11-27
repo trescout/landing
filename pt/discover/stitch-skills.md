@@ -2,16 +2,16 @@
 
 Desenvolvido pelo Google Labs, Stitch Skills é uma biblioteca de habilidades de agente projetada para funcionar com o servidor Stitch MCP. Seguindo padrões abertos, esta biblioteca visa padronizar fluxos de trabalho para agentes de codificação como Gemini CLI e Cursor.
 
-- ★ 12.424
+- ★ 13.478
 - TypeScript
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 12,424 → 13,478, versão mais recente v1.0 (18 de maio de 2026).
 - **24 de novembro de 2026:** Estrelas 11,369 → 12,424, versão mais recente v1.0 (18 de maio de 2026).
 - **21 de novembro de 2026:** Estrelas 10,369 → 11,369, versão mais recente v1.0 (18 de maio de 2026).
 - **18 de novembro de 2026:** Estrelas 8,968 → 10,369, versão mais recente v1.0 (18 de maio de 2026).
-- **15 de novembro de 2026:** Estrelas 7,892 → 8,968, versão mais recente v1.0 (18 de maio de 2026).
 
 ## O que você ganha
 

@@ -2,16 +2,16 @@
 
 Effect-TS es un ecosistema de librerías que permite desarrollar aplicaciones escalables y de alta tolerancia a fallos con TypeScript. Estandariza los procesos de desarrollo de software utilizando principios de programación funcional para gestionar flujos de trabajo complejos.
 
-- ★ 17.695
+- ★ 17.728
 - TypeScript
 - GitHub Trending · 2026-10-03
 
 ## Actualizaciones
 
+- **27 de noviembre de 2026:** Estrellas 17,695 → 17,728, última versión @effect/openapi-generator@4.1.7 (27 de noviembre de 2026).
 - **26 de noviembre de 2026:** Estrellas 17,641 → 17,695, última versión @effect/openapi-generator@4.1.6 (26 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 17,629 → 17,641, última versión @effect/openapi-generator@4.1.5 (20 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 17,539 → 17,629, última versión @effect/platform@0.97.4 (19 de noviembre de 2026).
-- **11 de noviembre de 2026:** Estrellas 17,524 → 17,539, última versión @effect/openapi-generator@4.1.4 (11 de noviembre de 2026).
 
 ## Qué aporta
 

@@ -2,16 +2,16 @@
 
 elementalsouls/Claude-BugHunter propose un kit de compétences fonctionnant sur Claude Code pour le débogage et les exercices de red-teaming externe. Développé en Python, cet outil offre un contenu complet comprenant des modèles de rapports couvrant 24 classes de vulnérabilités fondamentales et des matrices d'attaques d'infrastructure.
 
-- ★ 23 974
+- ★ 25 512
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Mises à jour
 
+- **27 novembre 2026:** Étoiles 23,974 → 25,512, dernière version v2.1 (5 juin 2026).
 - **26 novembre 2026:** Étoiles 22,478 → 23,974, dernière version v2.1 (5 juin 2026).
 - **25 novembre 2026:** Étoiles 20,968 → 22,478, dernière version v2.1 (5 juin 2026).
 - **24 novembre 2026:** Étoiles 19,451 → 20,968, dernière version v2.1 (5 juin 2026).
-- **23 novembre 2026:** Étoiles 17,114 → 19,451, dernière version v2.1 (5 juin 2026).
 
 ## Ce que ça vous apporte
 

@@ -2,12 +2,13 @@
 
 Tilelang ist eine domänenspezifische Sprache, die die Entwicklung von Hochleistungs-Kerneln für Grafikprozessoren (GPU), Zentralprozessoren (CPU) und Beschleuniger vereinfacht. Dieses Python-basierte Tool vereinfacht komplexe Hardware-Optimierungsprozesse und ermöglicht es Softwareentwicklern, effizientere Recheneinheiten zu erstellen.
 
-- ★ 8.208
+- ★ 9.048
 - Python
 - GitHub Trending · 2026-10-02
 
 ## Aktualisierungen
 
+- **27. November 2026:** Sterne 8,208 → 9,048, neueste Version v0.1.16 (27. November 2026).
 - **2. Oktober 2026:** Sterne 8,196 → 8,208, neueste Version v0.1.15 (30. September 2026).
 
 ## Was es bringt

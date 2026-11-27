@@ -40,8 +40,8 @@ Hayır, modelin eğitim verisinde o konuyla ilgili temel bilgi yoksa hata yapabi
 
 ## İlgili araçlar
 
-- [Voice Pro](https://trescout.com/discover/voice-pro/)
 - [YuE](https://trescout.com/discover/yue/)
+- [Voice Pro](https://trescout.com/discover/voice-pro/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

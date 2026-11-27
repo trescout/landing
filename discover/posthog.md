@@ -2,16 +2,16 @@
 
 PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.
 
-- ★ 41.151
+- ★ 41.196
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 41.151 → 41.196, son sürüm desktop-v0.61.1137 (27 Kasım 2026).
 - **26 Kasım 2026:** Yıldız 41.111 → 41.151, son sürüm desktop-v0.61.1121 (26 Kasım 2026).
 - **25 Kasım 2026:** Yıldız 41.060 → 41.111, son sürüm desktop-v0.61.1107 (25 Kasım 2026).
 - **24 Kasım 2026:** Yıldız 40.995 → 41.060, son sürüm desktop-v0.61.1096 (24 Kasım 2026).
-- **21 Kasım 2026:** Yıldız 40.975 → 40.995, son sürüm desktop-v0.61.1086 (21 Kasım 2026).
 
 ## Ne kazandırır?
 

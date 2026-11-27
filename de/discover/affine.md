@@ -2,12 +2,13 @@
 
 AFFiNE ist eine Wissensdatenbank der nächsten Generation, die Planung, Bearbeitung und Inhaltserstellung auf einer einzigen Plattform vereint. Diese datenschutzorientierte und quelloffene Software (deren Quellcode für jeden zugänglich und zur Weiterentwicklung offen ist) bietet einen Arbeitsbereich als Alternative zu Tools wie Notion und Miro.
 
-- ★ 75.294
+- ★ 79.242
 - TypeScript
 - GitHub Trending · 2026-11-20
 
 ## Aktualisierungen
 
+- **27. November 2026:** Sterne 75,294 → 79,242, neueste Version v0.27.4 (18. August 2026).
 - **20. November 2026:** Sterne 75,279 → 75,294, neueste Version v0.27.4 (18. August 2026).
 
 ## Was es bringt

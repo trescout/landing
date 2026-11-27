@@ -2,16 +2,16 @@
 
 Usagi-org/ai-goofish-monitor is a system that performs multi-task tracking and analysis on the secondhand shopping platform Xianyu using the browser automation tool Playwright and artificial intelligence. Users can monitor products on the platform in real-time or on a scheduled basis thanks to the web-based management interface.
 
-- ★ 20,032
+- ★ 21,076
 - Python
 - GitHub Trending · 2026-11-04
 
 ## Updates
 
+- **November 27, 2026:** Stars 20,032 → 21,076, latest release 2.5 (October 9, 2026).
 - **November 16, 2026:** Stars 19,024 → 20,032, latest release 2.5 (October 9, 2026).
 - **November 10, 2026:** Stars 17,806 → 19,024, latest release 2.5 (October 9, 2026).
 - **November 6, 2026:** Stars 16,706 → 17,806, latest release 2.5 (October 9, 2026).
-- **November 4, 2026:** Stars 16,695 → 16,706, latest release 2.5 (October 9, 2026).
 
 ## What you get
 

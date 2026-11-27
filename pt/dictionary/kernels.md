@@ -41,8 +41,8 @@ Sim, por exemplo, o kernel do Linux e o kernel do Windows possuem arquiteturas d
 ## Ferramentas relacionadas
 
 - [Vllm](https://trescout.com/pt/discover/vllm/)
-- [DeepGEMM](https://trescout.com/pt/discover/deepgemm/)
 - [Tilelang](https://trescout.com/pt/discover/tilelang/)
+- [DeepGEMM](https://trescout.com/pt/discover/deepgemm/)
 - [FlashKDA](https://trescout.com/pt/discover/flashkda/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/kernels/)

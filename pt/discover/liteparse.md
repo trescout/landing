@@ -2,17 +2,17 @@
 
 Liteparse (run-lhama); é um analisador de documentos de código aberto escrito em Rust para analisar documentos de forma rápida e eficiente. Ele facilita os processos de IA e RAG, tornando processáveis ​​estruturas complexas de documentos.
 
-- ★ 13.405
+- ★ 13.421
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 13,405 → 13,421, versão mais recente node-v2.21.3 (26 de novembro de 2026).
 - **26 de novembro de 2026:** Estrelas 13,361 → 13,405, versão mais recente python-v2.21.3 (26 de novembro de 2026).
 - **25 de novembro de 2026:** Estrelas 13,161 → 13,361, versão mais recente node-v2.21.2 (24 de novembro de 2026).
 - **24 de novembro de 2026:** Estrelas 13,084 → 13,161, versão mais recente node-v2.21.1 (24 de novembro de 2026).
-- **23 de novembro de 2026:** Estrelas 13,066 → 13,084, versão mais recente node-v2.21.0 (23 de novembro de 2026).
 
 ## O que você ganha
 

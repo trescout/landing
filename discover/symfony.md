@@ -2,12 +2,13 @@
 
 Symfony, web ve konsol uygulamaları geliştirmek için kullanılan bir PHP çatısıdır (framework). Yeniden kullanılabilir PHP bileşenleri sunan bu yapı, çok sayıda popüler web projesinin temelinde yer almaktadır.
 
-- ★ 31.457
+- ★ 31.473
 - PHP
 - GitHub Trending · 2026-11-07
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 31.457 → 31.473, son sürüm v5.4.58 (27 Kasım 2026).
 - **25 Kasım 2026:** Yıldız 31.437 → 31.457, son sürüm v8.2.0-RC1 (25 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 31.467 → 31.437, son sürüm v8.2.0-BETA2 (13 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 31.466 → 31.467, son sürüm v8.2.0-BETA1 (4 Kasım 2026).

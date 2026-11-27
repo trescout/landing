@@ -2,16 +2,16 @@
 
 elementalsouls/Claude-BugHunter oferece um pacote de habilidades executado no Claude Code para depuração e trabalhos de red teaming externo. Desenvolvida em Python, esta ferramenta fornece um conteúdo abrangente contendo padrões de relatório que cobrem 24 classes principais de vulnerabilidade e matrizes de ataque de infraestrutura.
 
-- ★ 23.974
+- ★ 25.512
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 23,974 → 25,512, versão mais recente v2.1 (5 de junho de 2026).
 - **26 de novembro de 2026:** Estrelas 22,478 → 23,974, versão mais recente v2.1 (5 de junho de 2026).
 - **25 de novembro de 2026:** Estrelas 20,968 → 22,478, versão mais recente v2.1 (5 de junho de 2026).
 - **24 de novembro de 2026:** Estrelas 19,451 → 20,968, versão mais recente v2.1 (5 de junho de 2026).
-- **23 de novembro de 2026:** Estrelas 17,114 → 19,451, versão mais recente v2.1 (5 de junho de 2026).
 
 ## O que você ganha
 

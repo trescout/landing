@@ -2,16 +2,16 @@
 
 Voicebox é um estúdio de voz de inteligência artificial de código aberto que permite aos usuários realizar clonagem de voz, ditado e criação de conteúdo. Desenvolvido em linguagem TypeScript, esta plataforma oferece ferramentas completas para gerenciar processos de processamento de áudio no ambiente nativo.
 
-- ★ 61.084
+- ★ 61.379
 - TypeScript
 - GitHub Trending · 2026-06-21
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 61,084 → 61,379, versão mais recente v0.6.1 (27 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 58,680 → 61,084, versão mais recente v0.6.0 (21 de novembro de 2026).
 - **27 de outubro de 2026:** Estrelas 55,783 → 58,680, versão mais recente v0.5.0 (25 de abril de 2026).
 - **27 de setembro de 2026:** Estrelas 53,088 → 55,783, versão mais recente v0.5.0 (25 de abril de 2026).
-- **13 de setembro de 2026:** Estrelas 50,505 → 53,088, versão mais recente v0.5.0 (25 de abril de 2026).
 
 ## O que você ganha
 

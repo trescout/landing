@@ -2,12 +2,13 @@
 
 Desenvolvido em Go, o Arcane oferece uma interface moderna projetada para gerenciar contêineres Docker. Atendendo a usuários de todos os níveis, esta ferramenta visa simplificar os processos de gerenciamento do Docker.
 
-- ★ 10.147
+- ★ 10.621
 - Go
 - GitHub Trending · 2026-11-17
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 10,147 → 10,621, versão mais recente v3.2.0 (27 de novembro de 2026).
 - **20 de novembro de 2026:** Estrelas 9,759 → 10,147, versão mais recente v3.1.1 (19 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 8,877 → 9,759, versão mais recente v3.1.0 (18 de novembro de 2026).
 - **17 de novembro de 2026:** Estrelas 8,868 → 8,877, versão mais recente v3.0.1 (15 de novembro de 2026).

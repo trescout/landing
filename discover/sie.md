@@ -2,16 +2,16 @@
 
 Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık kaynaklı bir çıkarım sunucusu (inference server) ve üretim kümesidir. Python tabanlı bu yapı, karmaşık model dağıtımlarını yönetmeyi ve ölçeklenebilir bir altyapı sunmayı hedefler.
 
-- ★ 3.508
+- ★ 3.567
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 3.508 → 3.567, son sürüm v0.11.3 (27 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 3.476 → 3.508, son sürüm v0.11.1 (12 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 3.390 → 3.476, son sürüm v0.11.0 (4 Kasım 2026).
 - **14 Ekim 2026:** Yıldız 3.372 → 3.390, son sürüm v0.10.1 (13 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 3.350 → 3.372, son sürüm v0.10.0 (9 Ekim 2026).
 
 ## Ne kazandırır?
 

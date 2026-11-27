@@ -2,16 +2,16 @@
 
 ashhart/TensorFold bietet eine Inferenz-Engine für große Sprachmodelle (LLMs) mit Unterstützung für Metal, CUDA und Vulkan. Das in der Programmiersprache Zig entwickelte Tool ermöglicht das direkte Ausführen von Modellen auf Apple Silicon und NVIDIA-Grafikprozessoren, ohne dass eine Python- oder MLX-Installation erforderlich ist.
 
-- ★ 2.422
+- ★ 2.497
 - Zig
 - GitHub Trending · 2026-11-13
 
 ## Aktualisierungen
 
+- **27. November 2026:** Sterne 2,422 → 2,497, neueste Version v1.3.6 (26. November 2026).
 - **25. November 2026:** Sterne 2,384 → 2,422, neueste Version v1.3.5 (25. November 2026).
 - **23. November 2026:** Sterne 2,368 → 2,384, neueste Version v1.3.4 (22. November 2026).
 - **21. November 2026:** Sterne 2,362 → 2,368, neueste Version v1.3.3 (21. November 2026).
-- **21. November 2026:** Sterne 2,349 → 2,362, neueste Version v1.3.2 (20. November 2026).
 
 ## Was es bringt
 

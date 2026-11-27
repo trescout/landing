@@ -2,12 +2,13 @@
 
 AFFiNE, planlama, düzenleme ve içerik oluşturma süreçlerini tek bir platformda birleştiren yeni nesil bir bilgi tabanıdır. Gizlilik odaklı ve açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bu yazılım, Notion ve Miro gibi araçlara alternatif bir çalışma alanı sunar.
 
-- ★ 75.294
+- ★ 79.242
 - TypeScript
 - GitHub Trending · 2026-11-20
 
 ## Güncelleme
 
+- **27 Kasım 2026:** Yıldız 75.294 → 79.242, son sürüm v0.27.4 (18 Ağustos 2026).
 - **20 Kasım 2026:** Yıldız 75.279 → 75.294, son sürüm v0.27.4 (18 Ağustos 2026).
 
 ## Ne kazandırır?

@@ -2,16 +2,16 @@
 
 As ferramentas de texto para CAD são um conjunto de habilidades de agente desenvolvidas para automatizar processos de robótica e design de hardware. Esta biblioteca baseada em JavaScript permite a criação de modelos de engenharia complexos com comandos de linguagem natural.
 
-- ★ 27.221
+- ★ 27.595
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **27 de novembro de 2026:** Estrelas 27,221 → 27,595, versão mais recente v0.11.18 (26 de novembro de 2026).
 - **23 de novembro de 2026:** Estrelas 27,062 → 27,221, versão mais recente v0.11.17 (23 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 27,008 → 27,062, versão mais recente v0.11.15 (21 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 26,788 → 27,008, versão mais recente v0.11.14 (21 de novembro de 2026).
-- **19 de novembro de 2026:** Estrelas 26,740 → 26,788, versão mais recente v0.11.13 (18 de novembro de 2026).
 
 ## O que você ganha
 
