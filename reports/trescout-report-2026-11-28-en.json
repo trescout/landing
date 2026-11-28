@@ -1,0 +1,888 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-28",
+  "capturedAt": "2026-11-28T13:07:15.418Z",
+  "editorial": "In today's technology agenda, new architectures that increase the efficiency of artificial intelligence models and web-based cybersecurity threats stand out. Michael Nielsen's withdrawal of his foundational resource on neural nets from publication has sparked a new debate in the academic world regarding the currency of educational materials.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter is a Claude Code capability package developed for bug hunting and external security testing (red-team work). Prepared in Python, this tool includes 85 capabilities, 16 slash commands, and 681 report patterns covering 24 basic vulnerability classes.",
+          "meta": "Python · ★ 26,735 · +1,372 today",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26735,
+              "engagementCount": 1372,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1372
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers is a capability framework and software development methodology developed for AI coding agents. It aims to standardize software development processes for agents through composable capabilities and prompting instructions.",
+          "meta": "Shell · ★ 328,719 · +809 today",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 328719,
+              "engagementCount": 809,
+              "rank": 2,
+              "extra": {
+                "starsToday": 809,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything is a command-line interface tool that makes various software suitable for AI agents. It aims to transform software processes into an agent-native structure by working compatibly with different AI-powered platforms such as Pi, OpenClaw, nanobot, Cursor, and Claude Code.",
+          "meta": "Python · ★ 67,258 · +561 today",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67258,
+              "engagementCount": 561,
+              "rank": 3,
+              "extra": {
+                "starsToday": 561,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "MiniMind is an open-source project developed to train large language models (LLMs) from scratch at a 64M size. Offering a two-hour training time, this work is prepared in Python and released under the Apache 2.0 license.",
+          "meta": "Python · ★ 72,423 · +391 today",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 72423,
+              "engagementCount": 391,
+              "rank": 4,
+              "extra": {
+                "starsToday": 391,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. MiniMind 以 Apache 2.0 协议完全开源、永久免费。赞助完全自愿，不换取任何特权，也不影响项目使用。感谢每一位支持者，让这个业余时间维护的项目得以持续。"
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor offers a repository containing the technical standards and official extensions developed for the code editor Cursor. Prepared in TypeScript, this resource aims to structure the extension development processes for the platform.",
+          "meta": "TypeScript · ★ 20,107 · +214 today",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 20107,
+              "engagementCount": 214,
+              "rank": 5,
+              "extra": {
+                "starsToday": 214
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl is an information infrastructure that performs search and data scraping from over 550 providers to facilitate data access for AI agents. This system, which developers can host on their own servers, offers APIs and SDKs that enable applications to communicate with each other.",
+          "meta": "TypeScript · ★ 212,010 · +717 today",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 212010,
+              "engagementCount": 717,
+              "rank": 6,
+              "extra": {
+                "starsToday": 717,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          }
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX is an open-source software used as a web server, load balancer, reverse proxy, API gateway, and content cache. Developed in C, this popular technology offers high-performance network traffic management solutions.",
+          "meta": "C · ★ 33,717 · +131 today",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 33717,
+              "engagementCount": 131,
+              "rank": 7,
+              "extra": {
+                "starsToday": 131,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO is an open-source toolkit used to optimize and deploy the inference processes of artificial intelligence models. Developed in C++, this platform enables models to run more efficiently on different hardware.",
+          "meta": "C++ · ★ 12,996 · +111 today",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 12996,
+              "engagementCount": 111,
+              "rank": 8,
+              "extra": {
+                "starsToday": 111,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design offers 52 different types of editorial diagram designs for developer tools such as Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. The project brings together HTML and SVG-based visualization templates that are shadow-free and have no external dependencies.",
+          "meta": "HTML · ★ 74,718 · +499 today",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 74718,
+              "engagementCount": 499,
+              "rank": 9,
+              "extra": {
+                "starsToday": 499
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill is an AI agent skill that provides summaries on current topics by conducting research across Reddit, X, YouTube, Hacker News, Polymarket, and the web. Developed in Python, this tool synthesizes data from different platforms to create a consolidated result.",
+          "meta": "Python · ★ 76,617 · +519 today",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76617,
+              "engagementCount": 519,
+              "rank": 10,
+              "extra": {
+                "starsToday": 519
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "stitch-skills, developed by Google Labs, is a library of agent skills designed to work compatibly with the Stitch MCP server. Following open standards, this structure provides integration with various coding agents such as Antigravity, Gemini CLI, Claude Code, and the code editor Cursor.",
+          "meta": "TypeScript · ★ 13,754 · +293 today",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13754,
+              "engagementCount": 293,
+              "rank": 11,
+              "extra": {
+                "starsToday": 293
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance is an open-source guide that offers 125 different rejection patterns and solution suggestions to reduce app store rejection reasons. It includes privacy notices, data security checks, and checklists for current regulations to help software developers manage legal compliance processes.",
+          "meta": "Shell · ★ 8,265 · +907 today",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 8265,
+              "engagementCount": 907,
+              "rank": 12,
+              "extra": {
+                "starsToday": 907
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          }
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "Tracer-Cloud/opensre is an open-source AI agent developed for processes (CI/CD) that enable software updates to be automatically tested and deployed. Written in Python, this tool aims to manage reliability processes with an installation structure that does not require system privileges.",
+          "meta": "Python · ★ 16,268 · +270 today",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16268,
+              "engagementCount": 270,
+              "rank": 13,
+              "extra": {
+                "starsToday": 270,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          }
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "AFFiNE is a next-generation knowledge base that combines planning, editing, and content creation processes. Developed as an alternative to popular tools like Notion or Miro, this open-source platform offers a customizable workspace that prioritizes privacy.",
+          "meta": "TypeScript · ★ 79,680 · +495 today",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 79680,
+              "engagementCount": 495,
+              "rank": 14,
+              "extra": {
+                "starsToday": 495
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          }
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "XiaoYouChR/Ghost-Downloader-3 is a comprehensive download tool that runs on four different platforms and supports various download protocols. Initially developed for a content creator's resource management needs, this Python-based project now offers an extensible structure with a plugin ecosystem.",
+          "meta": "Python · ★ 20,263 · +664 today",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 20263,
+              "engagementCount": 664,
+              "rank": 15,
+              "extra": {
+                "starsToday": 664,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip is an open-source desktop video editing tool that automatically converts long videos into short clips. The software crops content such as podcasts or lectures to be suitable for social media platforms and generates subtitles, cover images, and sharing texts.",
+          "meta": "Python · ★ 17,888 · +517 today",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-28T13:22:17.936Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17888,
+              "engagementCount": 517,
+              "rank": 16,
+              "extra": {
+                "starsToday": 517
+              }
+            },
+            "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Michael Nielsen took down his book on neural nets",
+          "url": "https://neuralnetworksanddeeplearning.com/",
+          "summary": "Michael Nielsen has taken down his popular online book on neural networks and deep learning. The author stated that the resource is outdated and has terminated access.",
+          "meta": "579 points · 377 comments",
+          "snapshot": {
+            "sourceId": "50670757",
+            "capturedAt": "2026-11-28T13:07:15.646Z",
+            "metadata": {
+              "popularity": 579,
+              "engagementCount": 377,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50670757",
+                  "popularity": 579,
+                  "engagementCount": 377
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-27T19:31:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50670757"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50670757",
+              "popularity": 579,
+              "engagementCount": 377
+            }
+          ]
+        },
+        {
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+          "summary": "New generation skimming scripts that capture credit card information using WebRTC, a real-time communication technology, have been detected on popular shopping sites. This method allows attackers to exfiltrate data more stealthily than traditional methods.",
+          "meta": "549 points · 291 comments",
+          "snapshot": {
+            "sourceId": "50668145",
+            "capturedAt": "2026-11-28T13:07:15.646Z",
+            "metadata": {
+              "popularity": 549,
+              "engagementCount": 291,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50668145",
+                  "popularity": 549,
+                  "engagementCount": 291
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-27T15:40:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50668145"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50668145",
+              "popularity": 549,
+              "engagementCount": 291
+            }
+          ]
+        },
+        {
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "summary": "GPT 6.2 Astra stands out as an AI model used to solve a historical mystery. The model analyzes complex data to offer a new perspective on historical research.",
+          "meta": "469 points · 297 comments",
+          "snapshot": {
+            "sourceId": "50643158",
+            "capturedAt": "2026-11-28T13:07:15.646Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 297,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50643158",
+                  "popularity": 469,
+                  "engagementCount": 297
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-25T15:16:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50643158"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50643158",
+              "popularity": 469,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "summary": "DeepCrossAttention, developed by Google, optimizes residual connections in Transformer architectures, delivering similar model quality up to three times faster. This method aims to increase computational efficiency in the training processes of AI models.",
+          "meta": "464 points · 170 comments",
+          "snapshot": {
+            "sourceId": "50672565",
+            "capturedAt": "2026-11-28T13:07:15.646Z",
+            "metadata": {
+              "popularity": 464,
+              "engagementCount": 170,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50672565",
+                  "popularity": 464,
+                  "engagementCount": 170
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-27T23:06:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50672565"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50672565",
+              "popularity": 464,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "The Balatro Timeline",
+          "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+          "summary": "The developer of the poker-themed deck-building game Balatro has shared a timeline detailing the three-year process from the game's inception to the present. The developer aims to document important milestones and development stages that were forgotten after the game's release with these records.",
+          "meta": "427 points · 121 comments",
+          "snapshot": {
+            "sourceId": "50657346",
+            "capturedAt": "2026-11-28T13:07:15.646Z",
+            "metadata": {
+              "popularity": 427,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50657346",
+                  "popularity": 427,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-26T17:20:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50657346",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "It’s been approximately 3 years since I began work on Balatro - and in that time I have personally documented almost nothing about the journey. This is something that has bothered me since the game launched. I am constantly forgetting major moments in development or milestones. It’s about time I sta"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50657346",
+              "popularity": 427,
+              "engagementCount": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "Inkling-2-Mini, developed by Thinkingmachines, is a multimodal AI model that processes text and image inputs to produce text-based outputs. The model is designed for general-purpose use in English and other languages, as well as various programming languages.",
+          "meta": "♥ 6,532 · 177,012 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-28T13:07:15.497Z",
+            "metadata": {
+              "popularity": 6532,
+              "engagementCount": 177012,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1017.5,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "unsloth/Inkling-2-Mini-GGUF, shared on Hugging Face, is an AI model that converts visual and text inputs into text. Users can train this model with the Unsloth library or use it with llama.cpp, a tool for running large language models on local devices.",
+          "meta": "♥ 1,636 · 3,621,301 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-28T13:07:15.497Z",
+            "metadata": {
+              "popularity": 1636,
+              "engagementCount": 3621301,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 933,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. You can also train Inkling 2 via the latest version of Unsloth or run via llama.cpp. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        },
+        {
+          "title": "SulphurAI/Sulphur-3",
+          "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+          "summary": "Sulphur-3, developed by SulphurAI, is an uncensored video generation model built upon MiniMax H3. It offers users the ability to create videos without content restrictions.",
+          "meta": "♥ 1,402 · 759,937 downloads",
+          "snapshot": {
+            "sourceId": "SulphurAI/Sulphur-3",
+            "capturedAt": "2026-11-28T13:07:15.497Z",
+            "metadata": {
+              "popularity": 1402,
+              "engagementCount": 759937,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 590,
+                "tags": [
+                  "minimax-h3",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An uncensored video generation model based on MiniMax H3."
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "summary": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF is a 27-billion parameter text-generation model developed for AI agents. The model is provided in a ternary format, capable of running on CUDA, Metal, and CPU environments via llama.cpp.",
+          "meta": "♥ 672 · 473,980 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+            "capturedAt": "2026-11-28T13:07:15.497Z",
+            "metadata": {
+              "popularity": 672,
+              "engagementCount": 473980,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 572,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "agentic",
+                  "tool-calling",
+                  "speculative-decoding",
+                  "mtp",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. A 27B ternary model built for agents, for llama.cpp (CUDA, Metal, CPU)"
+          }
+        },
+        {
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "summary": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF is an uncensored version of the Inkling-2-Mini AI model, which can process both image and text inputs. Offered in both LoRA adapter and directly usable GGUF file formats, this model features a 26.4-billion parameter mixture of experts architecture.",
+          "meta": "♥ 1,056 · 1,297,386 downloads",
+          "snapshot": {
+            "sourceId": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+            "capturedAt": "2026-11-28T13:07:15.497Z",
+            "metadata": {
+              "popularity": 1056,
+              "engagementCount": 1297386,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 525,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "llama.cpp",
+                  "inkling2",
+                  "uncensored",
+                  "lora",
+                  "image-text-to-text",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. An uncensored build of thinkingmachines/Inkling-2-Mini by AtomicChat (26.4B MoE, 3.4B active, looped core; text and image input; Apache-2.0, LICENSE in this repo). It comes as a LoRA adapter for any GGUF of AtomicChat/Inkling-2-Mini-GGUF and as ready-made GGUF files with the edit baked in. Every gate we hold it to is measured below, and the two it misses are shown."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+          "url": "https://huggingface.co/papers/2611.33885",
+          "summary": "LayoutRecall, published on Hugging Face, is an editing tool designed to preserve the appearance of objects in multi-turn 3D edits. While controlling object placement and camera angles, it uses data obtained from previous observations to prevent the loss of object appearance.",
+          "meta": "4 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.33885",
+            "capturedAt": "2026-11-28T13:07:15.502Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.33885",
+                "publishedAt": "2026-11-25T00:00:00.000Z"
+              }
+            },
+            "description": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when it is occluded or leaves view. The target layout specifies where the object should reappear, while its appearance must be recovered from earlier observations. We introduce LayoutRecall, a multi-round editor that stores and reuses appearance in the local coordinate systems of 3D boxes. Box-Surface La"
+          }
+        },
+        {
+          "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+          "url": "https://huggingface.co/papers/2611.30025",
+          "summary": "Damped Atomic Wave Integration Neurons (DAWIN), shared by Hugging Face, is a new fundamental building block that combines spatial feature integration in traditional artificial neural networks with continuous time flow. This method aims to overcome the limitations encountered in modeling irregular observations by replacing standard layers.",
+          "meta": "2 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2611.30025",
+            "capturedAt": "2026-11-28T13:07:15.502Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 3,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30025",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/yumakemore/DAWIN",
+                "githubStars": 2
+              }
+            },
+            "description": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph neural networks. DAWIN couples spatial projection with elapsed-time-dependent wave excitation and integrates it into a local complex state through closed-form damped evolution, avoid"
+          }
+        },
+        {
+          "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+          "url": "https://huggingface.co/papers/2611.30723",
+          "summary": "BiSAT is a method used in speech language models that aims for tokenizers to represent acoustic details and linguistic content in a balanced manner at low bit rates. This approach focuses on resolving conflicts that arise when combining semantic and acoustic information into a single feature space.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.30723",
+            "capturedAt": "2026-11-28T13:07:15.502Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30723",
+                "publishedAt": "2026-11-23T00:00:00.000Z"
+              }
+            },
+            "description": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced tokenizers may lose acoustic detail, whereas acoustic-oriented tokenizers retain acoustic variation that makes language modeling harder. Unified tokenizers combine both, but representing acoustic detail and linguistic content within a single feature space can cause interference between the two objecti"
+          }
+        },
+        {
+          "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+          "url": "https://huggingface.co/papers/2611.27112",
+          "summary": "A study shared by Hugging Face reveals that coding agents rarely refer to files containing repository rules. Tests conducted on Claude Code, Codex CLI, Gemini CLI, and OpenCode on DeepSeek show that these rules can remain ineffective in establishing security boundaries.",
+          "meta": "0 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.27112",
+            "capturedAt": "2026-11-28T13:07:15.502Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.27112",
+                "publishedAt": "2026-11-20T00:00:00.000Z"
+              }
+            },
+            "description": "Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question: what does a rules file do at a boundary, against a gate? I tested one 278-word rules file, with hypotheses and analysis code deposited first. Claude Code, Codex CLI, Gemini CLI and OpenCode with DeepSeek worked through 20 small repositories with hidden tests, 12 for three of them. Three agents met "
+          }
+        },
+        {
+          "title": "Revisiting LLMs as Context Engineers",
+          "url": "https://huggingface.co/papers/2611.30494",
+          "summary": "An article shared by Hugging Face examines context engineering methods used to guide large language models (LLMs) without subjecting them to an intensive training process. These approaches enable AI models to create their own guidelines using experiences gained from offline trials.",
+          "meta": "5 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2611.30494",
+            "capturedAt": "2026-11-28T13:07:15.502Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.30494",
+                "publishedAt": "2026-11-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/costa-nus/LCEBench",
+                "githubStars": 3
+              }
+            },
+            "description": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM itself as the engineer that draws generalizable instructions or experiences from offline trials as context. Although these methods resemble how humans learn from experiences, it rema"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bug hunting",
+      "explanation": "A systematic research process conducted to find bugs and security vulnerabilities in software."
+    },
+    {
+      "term": "red-team work",
+      "explanation": "Security studies that mimic the methods of malicious attackers to test the security of a system."
+    },
+    {
+      "term": "slash command",
+      "explanation": "Short commands starting with a forward slash in chat or command-line interfaces that enable quick operations."
+    },
+    {
+      "term": "framework",
+      "explanation": "A working framework that provides a set of specific rules and tools forming the basic structure when developing software."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "A structure designed to be suitable for software processes to be managed directly by artificial intelligence agents."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive data that can understand human language and generate text."
+    },
+    {
+      "term": "scraping",
+      "explanation": "The process of automatically copying data from websites and converting it into a structured format."
+    },
+    {
+      "term": "API",
+      "explanation": "Digital connection points that allow different software to exchange data and communicate with each other."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of tools and libraries that make it easier for developers to build applications for a specific platform or system."
+    },
+    {
+      "term": "load balancer",
+      "explanation": "A technology that prevents system overload by distributing incoming internet traffic evenly across multiple servers."
+    },
+    {
+      "term": "reverse proxy",
+      "explanation": "An intermediary server that receives requests from the internet, directs them to the relevant servers, and enhances security."
+    },
+    {
+      "term": "open source",
+      "explanation": "A type of software where the source code is open for anyone to inspect, modify, and improve."
+    },
+    {
+      "term": "inference",
+      "explanation": "The process of a trained artificial intelligence model making predictions or performing analysis on new data."
+    },
+    {
+      "term": "skill",
+      "explanation": "A specialized capability that artificial intelligence agents possess to perform a specific task."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "A collection of ready-to-use capabilities that artificial intelligence agents can utilize to perform different tasks."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "A set of processes that enable software updates to be automatically tested and deployed quickly and error-free."
+    }
+  ]
+}
