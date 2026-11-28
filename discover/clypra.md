@@ -8,10 +8,10 @@ Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kod
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 3.389 → 3.389, son sürüm v1.7.3 (28 Kasım 2026).
 - **28 Kasım 2026:** Yıldız 3.367 → 3.389, son sürüm v1.7.1 (28 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 3.362 → 3.367, son sürüm v1.6.6 (17 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 3.361 → 3.362, son sürüm v1.6.5 (15 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 3.360 → 3.361, son sürüm v1.6.4 (14 Kasım 2026).
 
 ## Ne kazandırır?
 

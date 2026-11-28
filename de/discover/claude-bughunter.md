@@ -2,16 +2,16 @@
 
 elementalsouls/Claude-BugHunter bietet ein Capability-Paket, das auf Claude Code läuft und für das Debugging sowie externe Red-Team-Operationen entwickelt wurde. Dieses in Python entwickelte Tool bietet umfassende Inhalte inklusive Berichtsmustern, die 24 grundlegende Schwachstellenklassen abdecken, sowie Angriffsmatrizen für die Infrastruktur.
 
-- ★ 25.512
+- ★ 26.892
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Aktualisierungen
 
+- **28. November 2026:** Sterne 25,512 → 26,892, neueste Version v2.1 (5. Juni 2026).
 - **27. November 2026:** Sterne 23,974 → 25,512, neueste Version v2.1 (5. Juni 2026).
 - **26. November 2026:** Sterne 22,478 → 23,974, neueste Version v2.1 (5. Juni 2026).
 - **25. November 2026:** Sterne 20,968 → 22,478, neueste Version v2.1 (5. Juni 2026).
-- **24. November 2026:** Sterne 19,451 → 20,968, neueste Version v2.1 (5. Juni 2026).
 
 ## Was es bringt
 

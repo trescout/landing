@@ -8,10 +8,10 @@ Clypra es una aplicación de edición de vídeo de código abierto desarrollada 
 
 ## Actualizaciones
 
+- **28 de noviembre de 2026:** Estrellas 3,389 → 3,389, última versión v1.7.3 (28 de noviembre de 2026).
 - **28 de noviembre de 2026:** Estrellas 3,367 → 3,389, última versión v1.7.1 (28 de noviembre de 2026).
 - **17 de noviembre de 2026:** Estrellas 3,362 → 3,367, última versión v1.6.6 (17 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 3,361 → 3,362, última versión v1.6.5 (15 de noviembre de 2026).
-- **15 de noviembre de 2026:** Estrellas 3,360 → 3,361, última versión v1.6.4 (14 de noviembre de 2026).
 
 ## Qué aporta
 

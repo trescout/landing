@@ -8,10 +8,10 @@ Clypra is an open source video editor application developed using Tauri, React a
 
 ## Updates
 
+- **November 28, 2026:** Stars 3,389 → 3,389, latest release v1.7.3 (November 28, 2026).
 - **November 28, 2026:** Stars 3,367 → 3,389, latest release v1.7.1 (November 28, 2026).
 - **November 17, 2026:** Stars 3,362 → 3,367, latest release v1.6.6 (November 17, 2026).
 - **November 16, 2026:** Stars 3,361 → 3,362, latest release v1.6.5 (November 15, 2026).
-- **November 15, 2026:** Stars 3,360 → 3,361, latest release v1.6.4 (November 14, 2026).
 
 ## What you get
 

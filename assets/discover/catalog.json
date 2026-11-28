@@ -22167,14 +22167,14 @@
     "slug": "simplex-chat",
     "title": "Simplex Chat",
     "tagline": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir…",
-    "meta": "★ 19.709 · Haskell",
+    "meta": "★ 19.789 · Haskell",
     "image": "/assets/discover/og/simplex-chat.webp",
     "source": "GitHub",
     "date": "2026-06-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 19709,
+    "stars": 19789,
     "lite": false,
     "headline": "Kullanıcı tanımlayıcısı olmayan gizli mesajlaşma",
     "last_review": "2026-11-28",
@@ -22227,6 +22227,13 @@
         "onceki_yildiz": 19698,
         "surum": "v7.1.4",
         "surum_tarihi": "2026-11-14"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 19789,
+        "onceki_yildiz": 19709,
+        "surum": "v7.1.5",
+        "surum_tarihi": "2026-11-25"
       }
     ],
     "tagline_en": "SimpleX is a privacy-focused platform that is the first messaging network that operates without using user identifiers.",
@@ -31682,6 +31689,13 @@
         "yildiz": 3389,
         "onceki_yildiz": 3367,
         "surum": "v1.7.1",
+        "surum_tarihi": "2026-11-28"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 3389,
+        "onceki_yildiz": 3389,
+        "surum": "v1.7.3",
         "surum_tarihi": "2026-11-28"
       }
     ],
@@ -71935,14 +71949,14 @@
     "slug": "claude-bughunter",
     "title": "Claude-BugHunter",
     "tagline": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan…",
-    "meta": "★ 25.512 · Python",
+    "meta": "★ 26.892 · Python",
     "image": "/assets/discover/og/claude-bughunter.webp",
     "source": "GitHub",
     "date": "2026-11-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25512,
+    "stars": 26892,
     "last_seen": "2026-11-28",
     "summary": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.",
     "lite": false,
@@ -72030,6 +72044,13 @@
         "tarih": "2026-11-27",
         "yildiz": 25512,
         "onceki_yildiz": 23974,
+        "surum": "v2.1",
+        "surum_tarihi": "2026-06-05"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 26892,
+        "onceki_yildiz": 25512,
         "surum": "v2.1",
         "surum_tarihi": "2026-06-05"
       }
@@ -72268,7 +72289,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 12.139 · Python",
+    "meta": "★ 12.190 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -72276,7 +72297,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 12139,
+    "stars": 12190,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -72393,6 +72414,13 @@
         "yildiz": 12139,
         "onceki_yildiz": 11816,
         "surum": "v4.26.0",
+        "surum_tarihi": "2026-11-28"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 12190,
+        "onceki_yildiz": 12139,
+        "surum": "v4.26.1",
         "surum_tarihi": "2026-11-28"
       }
     ],
