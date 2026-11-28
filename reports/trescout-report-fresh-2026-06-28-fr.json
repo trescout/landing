@@ -41,12 +41,6 @@
       "sourceName": "hackernews",
       "items": [
         {
-          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Un compte GitHub anonyme nommé Bikini partage publiquement des codes d'exploitation préparés pour des vulnérabilités de sécurité non signalées auparavant (zéro jour). Le référentiel en question contient des documents techniques et des outils d'attaque ciblant les vulnérabilités critiques de divers logiciels.",
-          "meta": "780 votes · 303 commentaires"
-        },
-        {
           "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
           "summary": "Développé par DeepSeek, DSpark augmente la vitesse d'inférence des grands modèles de langage grâce à la méthode de décodage spéculatif. Cette approche augmente l'efficacité des calculs en validant les prédictions d'un petit modèle avec un grand modèle.",

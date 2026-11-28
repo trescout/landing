@@ -120,6 +120,24 @@
       "sozluk_terimleri": [],
       "tarih": "2026-11-20",
       "gerekce": "Yayın kararı · içerik filtresi olmayan çoklu görsel/video üretim modellerini ve filtreleri aşmaya dönük kullanım akışını teşvik ediyor; kötüye kullanım ve güvenlik riski nedeniyle kaldırıldı."
+    },
+    {
+      "slug": "exploitarium",
+      "repolar": [
+        "https://github.com/bikini/exploitarium"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-11-28",
+      "gerekce": "Yayın kararı · çok sayıda çalıştırılabilir exploit/PoC, yüksek etkili RCE/host-escape örnekleri ve koordinasyonsuz zafiyet ifşası; insan incelemesi sonrası TreScout kataloğundan kalıcı olarak çıkarıldı."
+    },
+    {
+      "slug": "hermesenabler",
+      "repolar": [
+        "https://github.com/pookjw/HermesEnabler"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-11-28",
+      "gerekce": "Yayın kararı · Apple/Hermès entitlement ve platform kısıtlarını aşma amacı, MobileGestalt değişikliği ve cihaz bütünlüğü riski; insan incelemesi sonrası TreScout kataloğundan kalıcı olarak çıkarıldı."
     }
   ]
 }

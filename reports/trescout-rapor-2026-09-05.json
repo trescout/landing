@@ -188,25 +188,6 @@
           "streakDays": 2
         },
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber güvenlik araştırmalarını tek bir arşivde toplayan bir Python deposu. Güvenlik araştırmacılarına yönelik bu kaynak, henüz raporlanmamış zafiyetleri inceleyerek siber güvenlik alanına ilgiyi artırmayı hedefliyor.",
-          "meta": "Python · ★ 4.574 · +74 bugün",
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-05T08:04:08.837Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4574,
-              "engagementCount": 74,
-              "rank": 10,
-              "extra": {
-                "starsToday": 74
-              }
-            }
-          }
-        },
-        {
           "title": "bannedbook/fanqiang",
           "url": "https://github.com/bannedbook/fanqiang",
           "summary": "Fanqiang, internet sansürünü aşmaya yarayan ve Kotlin diliyle geliştirilen bir ağ erişim aracıdır. Kullanıcılara kısıtlı dijital içeriklere ulaşmaları için gerekli olan teknik altyapıyı sağlar.",

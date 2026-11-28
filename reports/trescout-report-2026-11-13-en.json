@@ -70,27 +70,6 @@
           }
         },
         {
-          "title": "pookjw/HermesEnabler",
-          "url": "https://github.com/pookjw/HermesEnabler",
-          "summary": "pookjw/HermesEnabler is software that makes Hermès watch faces available on all Apple Watch devices with supported watchOS versions. This tool, which can be compiled with Xcode on macOS or installed via application loading tools like Sideloadly, requires an Apple Watch paired with an iPhone.",
-          "meta": "Objective-C · ★ 1,613 · +218 today",
-          "snapshot": {
-            "sourceId": "pookjw/HermesEnabler",
-            "capturedAt": "2026-11-13T05:16:20.566Z",
-            "metadata": {
-              "language": "Objective-C",
-              "popularity": 1613,
-              "engagementCount": 218,
-              "rank": 4,
-              "extra": {
-                "starsToday": 218,
-                "baglam": "readme"
-              }
-            },
-            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
-          }
-        },
-        {
           "title": "we-promise/sure",
           "url": "https://github.com/we-promise/sure",
           "summary": "Developed with the Ruby language, sure is a personal finance and asset management application open for everyone to use. Offering features that allow users to connect with financial advisors, this project is positioned as an open-source financial management tool.",

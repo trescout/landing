@@ -38,10 +38,6 @@ Evet, birçok akıllı saat üreticisi geliştiriciler için özel tasarım ara�
 - [Design System](https://trescout.com/dictionary/design-system/)
 - [Desktop App](https://trescout.com/dictionary/desktop-app/)
 
-## İlgili araçlar
-
-- [HermesEnabler](https://trescout.com/discover/hermesenabler/)
-
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

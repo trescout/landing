@@ -38,10 +38,6 @@ Oui, de nombreux fabricants de montres connectées proposent des outils de conce
 - [Design System](https://trescout.com/fr/dictionary/design-system/)
 - [Desktop App](https://trescout.com/fr/dictionary/desktop-app/)
 
-## Outils liés
-
-- [HermesEnabler](https://trescout.com/fr/discover/hermesenabler/)
-
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/watch-faces/)
 
 ---
