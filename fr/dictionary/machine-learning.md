@@ -44,9 +44,9 @@ Parce qu’il peut effectuer des tâches complexes en quelques secondes, en util
 - [Opencv](https://trescout.com/fr/discover/opencv/)
 - [Cs249r Book](https://trescout.com/fr/discover/cs249r-book/)
 - [Machine Learning for Trading](https://trescout.com/fr/discover/machine-learning-for-trading/)
-- [Maths Cs AI Compendium](https://trescout.com/fr/discover/maths-cs-ai-compendium/)
 - [Higgsfield](https://trescout.com/fr/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/fr/discover/bonsai-demo/)
+- [Maths Cs AI Compendium](https://trescout.com/fr/discover/maths-cs-ai-compendium/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/machine-learning/)
 

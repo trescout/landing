@@ -45,8 +45,8 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 - [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/fr/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/fr/discover/ponytail/)
-- [Awesome LLM Apps](https://trescout.com/fr/discover/awesome-llm-apps/)
 - [Orca](https://trescout.com/fr/discover/orca/)
+- [Awesome LLM Apps](https://trescout.com/fr/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/fr/discover/browser-use/)
 - [Agent Skills](https://trescout.com/fr/discover/agent-skills/)
 

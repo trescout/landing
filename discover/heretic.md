@@ -2,7 +2,7 @@
 
 **Heretic**, transformer tabanlı dil modellerinden **güvenlik hizalaması (safety alignment)** kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
 
-- ★ 41.948
+- ★ 43.556
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
@@ -19,10 +19,10 @@ git clone https://github.com/p-e-w/heretic.git
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 41.948 → 43.556, son sürüm v2.1.0 (8 Kasım 2026), depo arşivlendi, geliştirme durdu.
 - **18 Kasım 2026:** Yıldız 39.947 → 41.948, son sürüm v2.1.0 (8 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 39.601 → 39.947, son sürüm v2.1.0 (8 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 37.706 → 39.601, son sürüm v2.0.0 (1 Kasım 2026).
-- **2 Kasım 2026:** Yıldız 36.044 → 37.706, son sürüm v2.0.0 (1 Kasım 2026).
 
 - **Kimin için:** ML araştırmacıları / ileri düzey kullanıcılar
 - **Zorluk:** İleri · model ağırlıklarıyla çalışma bilgisi

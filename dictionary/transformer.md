@@ -68,8 +68,8 @@ Hayır; günümüzde görüntüler (Vision Transformer), ses dosyaları (Whisper
 ## İlgili araçlar
 
 - [Minimind](https://trescout.com/discover/minimind/)
-- [Airllm](https://trescout.com/discover/airllm/)
 - [Heretic](https://trescout.com/discover/heretic/)
+- [Airllm](https://trescout.com/discover/airllm/)
 - [Train LLM from Scratch](https://trescout.com/discover/train-llm-from-scratch/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

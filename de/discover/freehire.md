@@ -2,16 +2,16 @@
 
 Freehire, entwickelt in Go, ist eine Open-Source-Suchmaschine (Quellcode ist für jeden zugänglich und erweiterbar), die für Arbeitssuchende konzipiert wurde. Sie bietet eine Plattform, mit der Benutzer Stellenanzeigen durchsuchen und finden können.
 
-- ★ 3.773
+- ★ 3.782
 - Go
 - GitHub Trending · 2026-10-22
 
 ## Aktualisierungen
 
+- **28. November 2026:** Sterne 3,773 → 3,782, neueste Version deploy-20261128-0143 (28. November 2026).
 - **27. November 2026:** Sterne 3,753 → 3,773, neueste Version deploy-20261126-1922 (26. November 2026).
 - **26. November 2026:** Sterne 3,750 → 3,753, neueste Version deploy-20261126-1743 (26. November 2026).
 - **26. November 2026:** Sterne 3,710 → 3,750, neueste Version deploy-20261126-1402 (26. November 2026).
-- **25. November 2026:** Sterne 3,700 → 3,710, neueste Version deploy-20261125-1801 (25. November 2026).
 
 ## Was es bringt
 

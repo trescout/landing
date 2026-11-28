@@ -2,16 +2,16 @@
 
 O AG-UI é um protocolo de comunicação de código aberto baseado em eventos que conecta agentes de inteligência artificial a interfaces de usuário. Ele simplifica as integrações de aplicativos, permitindo que os desenvolvedores estabeleçam um fluxo de dados padrão entre agentes de IA e interfaces de usuário.
 
-- ★ 20.988
+- ★ 22.011
 - TypeScript
 - GitHub Trending · 2026-11-15
 
 ## Atualizações
 
+- **28 de novembro de 2026:** Estrelas 20,988 → 22,011, versão mais recente release/2026-11-27 (27 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 20,398 → 20,988, versão mais recente release/2026-11-21 (21 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 19,320 → 20,398, versão mais recente release/2026-11-17 (17 de novembro de 2026).
 - **17 de novembro de 2026:** Estrelas 17,433 → 19,320, versão mais recente release/2026-11-13 (13 de novembro de 2026).
-- **15 de novembro de 2026:** Estrelas 17,432 → 17,433, versão mais recente release/2026-11-13 (13 de novembro de 2026).
 
 ## O que você ganha
 

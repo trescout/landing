@@ -2,16 +2,16 @@
 
 GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.
 
-- ★ 8.856
+- ★ 8.912
 - TypeScript
 - GitHub Trending · 2026-07-28
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 8.856 → 8.912, son sürüm v3.11.0 (28 Kasım 2026).
 - **26 Kasım 2026:** Yıldız 8.810 → 8.856, son sürüm v3.10.1 (25 Kasım 2026).
 - **25 Kasım 2026:** Yıldız 8.722 → 8.810, son sürüm v3.10.0 (25 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 8.628 → 8.722, son sürüm v3.9.0 (17 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 8.440 → 8.628, son sürüm v3.8.0 (14 Kasım 2026).
 
 ## Ne kazandırır?
 

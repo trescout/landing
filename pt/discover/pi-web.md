@@ -2,16 +2,16 @@
 
 Pi-web oferece uma interface de usuário baseada na web aprimorada (UI da web) para o agente de codificação Pi. Esta ferramenta, escrita em linguagem TypeScript, permite gerenciar processos de codificação por meio de uma interface visual.
 
-- ★ 8.424
+- ★ 8.465
 - TypeScript
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **28 de novembro de 2026:** Estrelas 8,424 → 8,465, versão mais recente v0.20.0 (28 de novembro de 2026).
 - **26 de novembro de 2026:** Estrelas 8,343 → 8,424, versão mais recente v0.19.0 (26 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 8,238 → 8,343, versão mais recente v0.18.0 (20 de novembro de 2026).
 - **15 de novembro de 2026:** Estrelas 8,196 → 8,238, versão mais recente v0.17.0 (14 de novembro de 2026).
-- **13 de novembro de 2026:** Estrelas 8,026 → 8,196, versão mais recente v0.16.0 (12 de novembro de 2026).
 
 ## O que você ganha
 

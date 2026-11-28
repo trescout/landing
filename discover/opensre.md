@@ -2,16 +2,16 @@
 
 Tracer-Cloud/opensre, yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçler (CI/CD) için geliştirilmiş açık kaynaklı (open source) bir yapay zekâ ajanıdır. Kurulumu sırasında yönetici yetkisi gerektirmeyen bu araç, sistem güvenilirliğini artırmayı amaçlar.
 
-- ★ 16.011
+- ★ 16.274
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 16.011 → 16.274, son sürüm v0.1.2026.11.28 (28 Kasım 2026).
 - **27 Kasım 2026:** Yıldız 15.696 → 16.011, son sürüm v0.1.2026.11.27 (27 Kasım 2026).
 - **26 Kasım 2026:** Yıldız 15.402 → 15.696, son sürüm v0.1.2026.11.26 (26 Kasım 2026).
 - **25 Kasım 2026:** Yıldız 14.930 → 15.402, son sürüm v0.1.2026.11.25 (25 Kasım 2026).
-- **24 Kasım 2026:** Yıldız 14.742 → 14.930, son sürüm v0.1.2026.11.24 (24 Kasım 2026).
 
 ## Ne kazandırır?
 

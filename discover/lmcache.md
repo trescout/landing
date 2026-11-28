@@ -2,16 +2,16 @@
 
 LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını verimli hale getiren bu sistem, aynı bağlamı kullanan sorgularda hesaplama yükünü azaltmayı hedefliyor.
 
-- ★ 12.482
+- ★ 12.503
 - Python
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 12.482 → 12.503, son sürüm v0.5.9rc2 (28 Kasım 2026).
 - **26 Kasım 2026:** Yıldız 12.452 → 12.482, son sürüm v0.5.9rc1 (26 Kasım 2026).
 - **23 Kasım 2026:** Yıldız 12.403 → 12.452, son sürüm v0.5.8 (22 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 12.344 → 12.403, son sürüm v0.5.8rc3 (21 Kasım 2026).
-- **12 Kasım 2026:** Yıldız 12.292 → 12.344, son sürüm v0.5.7.post1 (12 Kasım 2026).
 
 ## Ne kazandırır?
 

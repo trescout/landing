@@ -2,16 +2,16 @@
 
 Motrix é um gerenciador de download abrangente desenvolvido em TypeScript que atende a todas as necessidades de download de arquivos. Oferece aos usuários a oportunidade de gerenciar diferentes protocolos como HTTP, FTP e BitTorrent através de uma única interface.
 
-- ★ 58.844
+- ★ 58.911
 - TypeScript
 - GitHub Trending · 2026-08-18
 
 ## Atualizações
 
+- **28 de novembro de 2026:** Estrelas 58,844 → 58,911, versão mais recente v2.4.8 (27 de novembro de 2026).
 - **26 de novembro de 2026:** Estrelas 58,552 → 58,844, versão mais recente v2.4.7 (26 de novembro de 2026).
 - **20 de novembro de 2026:** Estrelas 58,546 → 58,552, versão mais recente v2.4.5 (20 de novembro de 2026).
 - **20 de novembro de 2026:** Estrelas 58,410 → 58,546, versão mais recente v2.4.4 (20 de novembro de 2026).
-- **17 de novembro de 2026:** Estrelas 58,345 → 58,410, versão mais recente v2.4.3 (17 de novembro de 2026).
 
 ## O que você ganha
 

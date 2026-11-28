@@ -2,16 +2,16 @@
 
 OpenMed é uma plataforma que reúne modelos de inteligência artificial de código aberto e conjuntos de dados utilizados na área da saúde. Desenvolvida para aplicações voltadas para a área médica, esta biblioteca baseada em Python visa padronizar os processos de processamento de dados de saúde.
 
-- ★ 5.805
+- ★ 5.857
 - Python
 - GitHub Trending · 2026-06-10
 
 ## Atualizações
 
+- **28 de novembro de 2026:** Estrelas 5,805 → 5,857, versão mais recente v4.0.0 (27 de novembro de 2026).
 - **14 de novembro de 2026:** Estrelas 5,772 → 5,805, versão mais recente v3.3.0 (13 de novembro de 2026).
 - **4 de novembro de 2026:** Estrelas 5,715 → 5,772, versão mais recente v3.2.0 (3 de novembro de 2026).
 - **27 de outubro de 2026:** Estrelas 5,457 → 5,715, versão mais recente v3.1.0 (26 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 5,329 → 5,457, versão mais recente v3.0.0 (7 de outubro de 2026).
 
 ## O que você ganha
 
@@ -58,6 +58,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Apple Silicon](https://trescout.com/pt/dictionary/apple-silicon/)
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

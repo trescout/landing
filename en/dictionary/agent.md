@@ -45,8 +45,8 @@ Yes, they can manage your files or run your applications if you give them the ne
 - [Opencode](https://trescout.com/en/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/en/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/en/discover/ponytail/)
-- [Awesome LLM Apps](https://trescout.com/en/discover/awesome-llm-apps/)
 - [Orca](https://trescout.com/en/discover/orca/)
+- [Awesome LLM Apps](https://trescout.com/en/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/en/discover/browser-use/)
 - [Agent Skills](https://trescout.com/en/discover/agent-skills/)
 

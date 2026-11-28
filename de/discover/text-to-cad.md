@@ -2,16 +2,16 @@
 
 Text-zu-CAD-Tools sind eine Sammlung von Agentenfähigkeiten, die zur Automatisierung von Robotik- und Hardware-Designprozessen entwickelt wurden. Diese JavaScript-basierte Bibliothek ermöglicht die Erstellung komplexer technischer Modelle mit Befehlen in natürlicher Sprache.
 
-- ★ 27.595
+- ★ 27.666
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Aktualisierungen
 
+- **28. November 2026:** Sterne 27,595 → 27,666, neueste Version v0.11.19 (28. November 2026).
 - **27. November 2026:** Sterne 27,221 → 27,595, neueste Version v0.11.18 (26. November 2026).
 - **23. November 2026:** Sterne 27,062 → 27,221, neueste Version v0.11.17 (23. November 2026).
 - **21. November 2026:** Sterne 27,008 → 27,062, neueste Version v0.11.15 (21. November 2026).
-- **21. November 2026:** Sterne 26,788 → 27,008, neueste Version v0.11.14 (21. November 2026).
 
 ## Was es bringt
 

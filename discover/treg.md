@@ -2,15 +2,15 @@
 
 Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme katmanı (routing layer). Farklı dil modelleri ve araçlar arasında standart bir köprü kurarak geliştiricilerin ajan tabanlı iş akışlarını OpenRouter üzerinden kolayca entegre etmesine imkân tanıyor.
 
-- ★ 8.802
+- ★ 9.842
 - GitHub Trending · 2026-09-23
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 8.802 → 9.842.
 - **23 Kasım 2026:** Yıldız 7.738 → 8.802.
 - **10 Kasım 2026:** Yıldız 6.720 → 7.738.
 - **31 Ekim 2026:** Yıldız 5.646 → 6.720.
-- **17 Ekim 2026:** Yıldız 4.625 → 5.646.
 
 ## Ne kazandırır?
 

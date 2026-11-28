@@ -2,12 +2,13 @@
 
 Meloong-Git/PCL, Minecraft oyununu başlatmak için kullanılan Plain Craft Launcher adlı aracın kaynak kodlarını içeren bir projedir. Visual Basic .NET diliyle geliştirilen bu çalışma, arayüz kütüphanesi, animasyon modülleri ve oyun başlatma süreçleri gibi temel bileşenleri barındırır.
 
-- ★ 8.860
+- ★ 9.862
 - Visual Basic .NET
 - GitHub Trending · 2026-10-23
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 8.860 → 9.862, son sürüm 2.99.0.0 (20 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 8.848 → 8.860, son sürüm 2.99.0.0 (20 Ekim 2026).
 
 ## Ne kazandırır?

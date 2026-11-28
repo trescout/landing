@@ -2,15 +2,15 @@
 
 Treg is a routing layer that allows managing agent tools developed for artificial intelligence agents through a single interface. It provides a standard bridge between different language models and tools, allowing developers to easily integrate agent-based workflows via OpenRouter.
 
-- ★ 8,802
+- ★ 9,842
 - GitHub Trending · 2026-09-23
 
 ## Updates
 
+- **November 28, 2026:** Stars 8,802 → 9,842.
 - **November 23, 2026:** Stars 7,738 → 8,802.
 - **November 10, 2026:** Stars 6,720 → 7,738.
 - **October 31, 2026:** Stars 5,646 → 6,720.
-- **October 17, 2026:** Stars 4,625 → 5,646.
 
 ## What you get
 

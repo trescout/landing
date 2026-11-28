@@ -2,17 +2,17 @@
 
 PPF Contact Solver, como motor de física de ZOZO, está diseñado para resolver contactos entre tela, sólido y cuerda en simulaciones basadas en física. Aumenta la consistencia física en las simulaciones calculando la interacción de diferentes geometrías. También se puede ejecutar de forma remota gracias al complemento Blender.
 
-- ★ 4.618
+- ★ 4.624
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Actualizaciones
 
+- **28 de noviembre de 2026:** Estrellas 4,618 → 4,624, última versión addon-2026-11-28-1138 (28 de noviembre de 2026).
 - **25 de noviembre de 2026:** Estrellas 4,616 → 4,618, última versión addon-2026-11-25-1609 (25 de noviembre de 2026).
 - **24 de noviembre de 2026:** Estrellas 4,615 → 4,616, última versión addon-2026-11-24-1906 (24 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 4,614 → 4,615, última versión addon-2026-11-21-1749 (21 de noviembre de 2026).
-- **20 de noviembre de 2026:** Estrellas 4,614 → 4,614, última versión addon-2026-11-20-0804 (19 de noviembre de 2026).
 
 ## Instalación
 

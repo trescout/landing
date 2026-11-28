@@ -2,12 +2,13 @@
 
 Rust, güvenilir ve verimli yazılımlar geliştirmeyi amaçlayan sistem programlama dili olarak öne çıkıyor. Geniş bir kullanıcı kitlesi tarafından benimsenen bu dil, performans odaklı uygulamalar için altyapı sağlıyor.
 
-- ★ 121.869
+- ★ 122.444
 - Rust
 - GitHub Trending · 2026-10-15
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 121.869 → 122.444, son sürüm 1.100.1 (27 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 120.404 → 121.869, son sürüm 1.100.0 (12 Kasım 2026).
 - **16 Ekim 2026:** Yıldız 120.232 → 120.404, son sürüm 1.99.1 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 120.224 → 120.232, son sürüm 1.99.0 (1 Ekim 2026).

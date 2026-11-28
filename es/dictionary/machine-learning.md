@@ -44,9 +44,9 @@ Porque puede realizar tareas complejas en segundos, utilizando datos que la gent
 - [Opencv](https://trescout.com/es/discover/opencv/)
 - [Cs249r Book](https://trescout.com/es/discover/cs249r-book/)
 - [Machine Learning for Trading](https://trescout.com/es/discover/machine-learning-for-trading/)
-- [Maths Cs AI Compendium](https://trescout.com/es/discover/maths-cs-ai-compendium/)
 - [Higgsfield](https://trescout.com/es/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/es/discover/bonsai-demo/)
+- [Maths Cs AI Compendium](https://trescout.com/es/discover/maths-cs-ai-compendium/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/machine-learning/)
 

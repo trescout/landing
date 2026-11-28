@@ -2,16 +2,16 @@
 
 Symfony ist ein PHP-Framework, das zur Entwicklung von Web- und Konsolenanwendungen verwendet wird. Diese Struktur, die wiederverwendbare PHP-Komponenten bietet, bildet die Grundlage vieler beliebter Webprojekte.
 
-- ★ 31.478
+- ★ 31.476
 - PHP
 - GitHub Trending · 2026-11-07
 
 ## Aktualisierungen
 
+- **28. November 2026:** Sterne 31,478 → 31,476, neueste Version v8.2.0 (28. November 2026).
 - **27. November 2026:** Sterne 31,473 → 31,478, neueste Version v8.1.13 (27. November 2026).
 - **27. November 2026:** Sterne 31,457 → 31,473, neueste Version v5.4.58 (27. November 2026).
 - **25. November 2026:** Sterne 31,437 → 31,457, neueste Version v8.2.0-RC1 (25. November 2026).
-- **14. November 2026:** Sterne 31,467 → 31,437, neueste Version v8.2.0-BETA2 (13. November 2026).
 
 ## Was es bringt
 

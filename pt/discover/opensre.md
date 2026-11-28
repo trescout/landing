@@ -2,16 +2,16 @@
 
 Tracer-Cloud/opensre é um agente de inteligência artificial de código aberto desenvolvido para processos (CI/CD) que permitem que atualizações de software sejam testadas e implantadas automaticamente. Esta ferramenta, que não requer privilégios de administrador durante a instalação, visa aumentar a confiabilidade do sistema.
 
-- ★ 16.011
+- ★ 16.274
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Atualizações
 
+- **28 de novembro de 2026:** Estrelas 16,011 → 16,274, versão mais recente v0.1.2026.11.28 (28 de novembro de 2026).
 - **27 de novembro de 2026:** Estrelas 15,696 → 16,011, versão mais recente v0.1.2026.11.27 (27 de novembro de 2026).
 - **26 de novembro de 2026:** Estrelas 15,402 → 15,696, versão mais recente v0.1.2026.11.26 (26 de novembro de 2026).
 - **25 de novembro de 2026:** Estrelas 14,930 → 15,402, versão mais recente v0.1.2026.11.25 (25 de novembro de 2026).
-- **24 de novembro de 2026:** Estrelas 14,742 → 14,930, versão mais recente v0.1.2026.11.24 (24 de novembro de 2026).
 
 ## O que você ganha
 

@@ -44,9 +44,9 @@ Sadece elindeki verilerle ilgili kalıpları öğrenebilir, veride olmayan bir �
 - [Opencv](https://trescout.com/discover/opencv/)
 - [Cs249r Book](https://trescout.com/discover/cs249r-book/)
 - [Machine Learning for Trading](https://trescout.com/discover/machine-learning-for-trading/)
-- [Maths Cs AI Compendium](https://trescout.com/discover/maths-cs-ai-compendium/)
 - [Higgsfield](https://trescout.com/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/discover/bonsai-demo/)
+- [Maths Cs AI Compendium](https://trescout.com/discover/maths-cs-ai-compendium/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

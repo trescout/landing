@@ -45,8 +45,8 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 - [Opencode](https://trescout.com/de/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/de/discover/ponytail/)
-- [Awesome LLM Apps](https://trescout.com/de/discover/awesome-llm-apps/)
 - [Orca](https://trescout.com/de/discover/orca/)
+- [Awesome LLM Apps](https://trescout.com/de/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/de/discover/browser-use/)
 - [Agent Skills](https://trescout.com/de/discover/agent-skills/)
 

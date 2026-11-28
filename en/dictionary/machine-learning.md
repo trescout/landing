@@ -44,9 +44,9 @@ Because it can do complex tasks in seconds, using data, that people cannot code 
 - [Opencv](https://trescout.com/en/discover/opencv/)
 - [Cs249r Book](https://trescout.com/en/discover/cs249r-book/)
 - [Machine Learning for Trading](https://trescout.com/en/discover/machine-learning-for-trading/)
-- [Maths Cs AI Compendium](https://trescout.com/en/discover/maths-cs-ai-compendium/)
 - [Higgsfield](https://trescout.com/en/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/en/discover/bonsai-demo/)
+- [Maths Cs AI Compendium](https://trescout.com/en/discover/maths-cs-ai-compendium/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/machine-learning/)
 
