@@ -58663,6 +58663,76 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
+# Yapay zekâ ile profesyonel diyagramlar oluşturun
+
+Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.
+
+- ★ 71.208
+- HTML
+- GitHub Trending · 2026-08-13
+
+## Güncelleme
+
+- **24 Kasım 2026:** Yıldız 67.690 → 71.208.
+- **17 Kasım 2026:** Yıldız 64.430 → 67.690.
+- **3 Kasım 2026:** Yıldız 61.113 → 64.430.
+- **26 Ekim 2026:** Yıldız 58.061 → 61.113.
+
+## Ne kazandırır?
+
+- 27 farklı türde editoryal kalitede diyagram sunar
+- HTML ve SVG kullanarak temiz görseller üretir
+- Marka kimliğinize uygun tasarımları hızla oluşturur
+
+## Kurulum
+
+**Yerel kurulum ve yapılandırma**
+
+```
+git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design
+
+# Pi: register the checkout as a local package
+pi install ~/code/diagram-design
+
+# Claude Code: symlink the inner skill
+ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-design
+```
+
+## Kod bilmiyorsanız
+
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
+Claude Code veya kullandığın yapay zekâ asistanına, mevcut projemin mimarisini veya iş akışını analiz etmesini söyle. Ardından, diagram-design kütüphanesindeki 27 farklı görsel türünden, anlattığım konuya en uygun olanı seçerek temiz bir HTML ve SVG diyagramı oluşturmasını iste. Tasarımın markamın renklerine ve görsel diline uyumlu olması için web sitemi referans almasını belirt.
+
+Depo: https://github.com/cathrynlavery/diagram-design. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
+- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur.
+- **Lisans:** MIT
+
+## Bağlantılar
+
+- [GitHub deposu →](https://github.com/cathrynlavery/diagram-design)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+
+- [SVG](https://trescout.com/dictionary/svg/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+
+
+---
+
 # Bilgisayar bilimleri için kapsamlı yol haritası
 
 Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine öğrenmek isteyenler için kapsamlı bir yol haritası sunuyor. Temel derslerden uzmanlık alanlarına kadar geniş bir müfredatı kaynaklar ve çalışma yöntemleriyle birleştiriyor.
@@ -59230,76 +59300,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ansible/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile profesyonel diyagramlar oluşturun
-
-Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.
-
-- ★ 71.208
-- HTML
-- GitHub Trending · 2026-08-13
-
-## Güncelleme
-
-- **24 Kasım 2026:** Yıldız 67.690 → 71.208.
-- **17 Kasım 2026:** Yıldız 64.430 → 67.690.
-- **3 Kasım 2026:** Yıldız 61.113 → 64.430.
-- **26 Ekim 2026:** Yıldız 58.061 → 61.113.
-
-## Ne kazandırır?
-
-- 27 farklı türde editoryal kalitede diyagram sunar
-- HTML ve SVG kullanarak temiz görseller üretir
-- Marka kimliğinize uygun tasarımları hızla oluşturur
-
-## Kurulum
-
-**Yerel kurulum ve yapılandırma**
-
-```
-git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design
-
-# Pi: register the checkout as a local package
-pi install ~/code/diagram-design
-
-# Claude Code: symlink the inner skill
-ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-design
-```
-
-## Kod bilmiyorsanız
-
-Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
-
-Claude Code veya kullandığın yapay zekâ asistanına, mevcut projemin mimarisini veya iş akışını analiz etmesini söyle. Ardından, diagram-design kütüphanesindeki 27 farklı görsel türünden, anlattığım konuya en uygun olanı seçerek temiz bir HTML ve SVG diyagramı oluşturmasını iste. Tasarımın markamın renklerine ve görsel diline uyumlu olması için web sitemi referans almasını belirt.
-
-Depo: https://github.com/cathrynlavery/diagram-design. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
-
-Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
-
-Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
-
-Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
-
-- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur.
-- **Lisans:** MIT
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/cathrynlavery/diagram-design)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [SVG](https://trescout.com/dictionary/svg/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/
 TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 
@@ -73111,16 +73111,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.
 
-- ★ 25.512
+- ★ 26.892
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 25.512 → 26.892, son sürüm v2.1 (5 Haziran 2026).
 - **27 Kasım 2026:** Yıldız 23.974 → 25.512, son sürüm v2.1 (5 Haziran 2026).
 - **26 Kasım 2026:** Yıldız 22.478 → 23.974, son sürüm v2.1 (5 Haziran 2026).
 - **25 Kasım 2026:** Yıldız 20.968 → 22.478, son sürüm v2.1 (5 Haziran 2026).
-- **24 Kasım 2026:** Yıldız 19.451 → 20.968, son sürüm v2.1 (5 Haziran 2026).
 
 ## Ne kazandırır?
 
@@ -76336,16 +76336,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir iletişim altyapısı sunuyor. Haskell diliyle geliştirilen platform, merkeziyetsiz yapısı sayesinde kullanıcı verilerini tamamen anonim tutmayı hedefliyor.
 
-- ★ 19.709
+- ★ 19.789
 - Haskell
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 19.709 → 19.789, son sürüm v7.1.5 (25 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 19.698 → 19.709, son sürüm v7.1.4 (14 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 19.665 → 19.698, son sürüm v7.1.3 (11 Kasım 2026).
 - **9 Kasım 2026:** Yıldız 19.498 → 19.665, son sürüm v7.1.2 (7 Kasım 2026).
-- **28 Eylül 2026:** Yıldız 19.380 → 19.498, son sürüm v7.0.3 (26 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -79581,6 +79581,69 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
+# Yapay zekâ ajanları için inceleme katmanı
+
+plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.
+
+- ★ 15.491
+- TypeScript
+- GitHub Trending · 2026-11-14
+
+## Güncelleme
+
+- **28 Kasım 2026:** Yıldız 15.220 → 15.491, son sürüm v0.29.6 (27 Kasım 2026).
+- **26 Kasım 2026:** Yıldız 15.030 → 15.220, son sürüm v0.29.5 (26 Kasım 2026).
+- **25 Kasım 2026:** Yıldız 14.640 → 15.030, son sürüm v0.29.4 (25 Kasım 2026).
+- **23 Kasım 2026:** Yıldız 14.264 → 14.640, son sürüm v0.29.3 (23 Kasım 2026).
+
+## Ne kazandırır?
+
+- Ajan planlarını ve kodlarını tarayıcıda inceleyin.
+- Doğrudan arayüz üzerinden geri bildirim gönderin.
+- Yerel değişiklikleri veya çekme isteklerini gözden geçirin.
+
+## Kurulum
+
+**Aracı kurmak için şu komutu çalıştırın:**
+
+```
+curl -fsSL https://plannotator.ai/install.sh | bash
+```
+
+## Kod bilmiyorsanız
+
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
+Yapay zekâ ajanımın planlama, kod inceleme ve geri bildirim süreçlerini yönetebilmesi için Plannotator aracını kurmak istiyorum. Lütfen gerekli kurulumu başlatmak için şu komutu çalıştır: curl -fsSL https://plannotator.ai/install.sh | bash
+
+Depo: https://github.com/backnotprop/plannotator. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
+- **Kimin için:** Kodlama yaparken yapay zekâ ajanlarıyla çalışan ve süreçleri tarayıcı üzerinden yönetmek isteyen geliştiriciler içindir.
+- **Lisans:** Apache-2.0
+
+## Bağlantılar
+
+- [GitHub deposu →](https://github.com/backnotprop/plannotator)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-11-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/plannotator/
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+
+
+---
+
 # Farklı alanlarda hazır beceriler kazanın
 
 ConardLi tarafından geliştirilen garden-skills, web tasarımı, bilgi edinme ve görsel oluşturma gibi çeşitli alanlarda hazır yetenek paketleri (skills) sunan açık kaynaklı bir koleksiyondur. Geliştiricilerin projelerine entegre edebileceği bu modüler yapı, farklı işlevlerin merkezi bir düzenle kullanılmasını sağlar.
@@ -79653,69 +79716,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/garden-skills/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanları için inceleme katmanı
-
-plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.
-
-- ★ 15.491
-- TypeScript
-- GitHub Trending · 2026-11-14
-
-## Güncelleme
-
-- **28 Kasım 2026:** Yıldız 15.220 → 15.491, son sürüm v0.29.6 (27 Kasım 2026).
-- **26 Kasım 2026:** Yıldız 15.030 → 15.220, son sürüm v0.29.5 (26 Kasım 2026).
-- **25 Kasım 2026:** Yıldız 14.640 → 15.030, son sürüm v0.29.4 (25 Kasım 2026).
-- **23 Kasım 2026:** Yıldız 14.264 → 14.640, son sürüm v0.29.3 (23 Kasım 2026).
-
-## Ne kazandırır?
-
-- Ajan planlarını ve kodlarını tarayıcıda inceleyin.
-- Doğrudan arayüz üzerinden geri bildirim gönderin.
-- Yerel değişiklikleri veya çekme isteklerini gözden geçirin.
-
-## Kurulum
-
-**Aracı kurmak için şu komutu çalıştırın:**
-
-```
-curl -fsSL https://plannotator.ai/install.sh | bash
-```
-
-## Kod bilmiyorsanız
-
-Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
-
-Yapay zekâ ajanımın planlama, kod inceleme ve geri bildirim süreçlerini yönetebilmesi için Plannotator aracını kurmak istiyorum. Lütfen gerekli kurulumu başlatmak için şu komutu çalıştır: curl -fsSL https://plannotator.ai/install.sh | bash
-
-Depo: https://github.com/backnotprop/plannotator. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
-
-Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
-
-Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
-
-Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
-
-- **Kimin için:** Kodlama yaparken yapay zekâ ajanlarıyla çalışan ve süreçleri tarayıcı üzerinden yönetmek isteyen geliştiriciler içindir.
-- **Lisans:** Apache-2.0
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/backnotprop/plannotator)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-11-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/plannotator/
 TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 
@@ -83061,8 +83061,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Sideloading](https://trescout.com/dictionary/sideloading/)
 - [Xcode](https://trescout.com/dictionary/xcode/)
+- [Sideloading](https://trescout.com/dictionary/sideloading/)
 - [Jailbreak](https://trescout.com/dictionary/jailbreak/)
 - [Binary](https://trescout.com/dictionary/binary/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
@@ -83279,16 +83279,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.
 
-- ★ 12.139
+- ★ 12.190
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 12.139 → 12.190, son sürüm v4.26.1 (28 Kasım 2026).
 - **28 Kasım 2026:** Yıldız 11.816 → 12.139, son sürüm v4.26.0 (28 Kasım 2026).
 - **27 Kasım 2026:** Yıldız 11.768 → 11.816, son sürüm v4.20.3 (27 Kasım 2026).
 - **27 Kasım 2026:** Yıldız 11.432 → 11.768, son sürüm v4.20.1 (27 Kasım 2026).
-- **26 Kasım 2026:** Yıldız 11.377 → 11.432, son sürüm v4.10.0 (26 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -95057,10 +95057,10 @@ Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kod
 
 ## Güncelleme
 
+- **28 Kasım 2026:** Yıldız 3.389 → 3.389, son sürüm v1.7.3 (28 Kasım 2026).
 - **28 Kasım 2026:** Yıldız 3.367 → 3.389, son sürüm v1.7.1 (28 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 3.362 → 3.367, son sürüm v1.6.6 (17 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 3.361 → 3.362, son sürüm v1.6.5 (15 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 3.360 → 3.361, son sürüm v1.6.4 (14 Kasım 2026).
 
 ## Ne kazandırır?
 

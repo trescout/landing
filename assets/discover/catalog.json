@@ -45306,7 +45306,7 @@
     "slug": "diagram-design",
     "title": "Diagram Design",
     "tagline": "Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı…",
-    "meta": "★ 71.208 · HTML",
+    "meta": "★ 74.785 · HTML",
     "image": "/assets/discover/og/diagram-design.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -45314,7 +45314,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 71208,
+    "stars": 74785,
     "lite": false,
     "headline": "Yapay zekâ ile profesyonel diyagramlar oluşturun",
     "tagline_en": "Diagram-design, developed by Cathryn Lavery, consists of 29 different models prepared for the artificial intelligence-supported coding tool Claude Code.",
@@ -45438,6 +45438,11 @@
         "tarih": "2026-11-24",
         "yildiz": 71208,
         "onceki_yildiz": 67690
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 74785,
+        "onceki_yildiz": 71208
       }
     ],
     "last_seen": "2026-11-28"
@@ -63107,7 +63112,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 9.000 · TypeScript",
+    "meta": "★ 9.005 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -63115,7 +63120,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9000,
+    "stars": 9005,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -63401,6 +63406,13 @@
         "onceki_yildiz": 8977,
         "surum": "v0.7.24",
         "surum_tarihi": "2026-11-27"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 9005,
+        "onceki_yildiz": 9000,
+        "surum": "v0.7.25",
+        "surum_tarihi": "2026-11-28"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",
@@ -71471,7 +71483,7 @@
     "slug": "plannotator",
     "title": "Plannotator",
     "tagline": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren…",
-    "meta": "★ 15.491 · TypeScript",
+    "meta": "★ 15.511 · TypeScript",
     "image": "/assets/discover/og/plannotator.webp",
     "source": "GitHub",
     "date": "2026-11-14",
@@ -71479,7 +71491,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 15491,
+    "stars": 15511,
     "last_seen": "2026-11-17",
     "summary": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.",
     "lite": false,
@@ -71562,6 +71574,13 @@
         "onceki_yildiz": 15220,
         "surum": "v0.29.6",
         "surum_tarihi": "2026-11-27"
+      },
+      {
+        "tarih": "2026-11-28",
+        "yildiz": 15511,
+        "onceki_yildiz": 15491,
+        "surum": "v0.29.7",
+        "surum_tarihi": "2026-11-28"
       }
     ],
     "tagline_en": "plannotator, which combines planning, code review, and feedback processes for artificial intelligence agents into a single workspace…",
