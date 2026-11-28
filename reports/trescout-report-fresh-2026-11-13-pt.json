@@ -8,27 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "pookjw/HermesEnabler",
-          "url": "https://github.com/pookjw/HermesEnabler",
-          "summary": "pookjw/HermesEnabler é um software que torna os mostradores de relógio (watch faces) Hermès utilizáveis em todos os dispositivos Apple Watch com versões compatíveis do watchOS. Esta ferramenta, que pode ser compilada com o Xcode no macOS ou instalada com ferramentas de sideload como o Sideloadly, requer um Apple Watch emparelhado com um iPhone.",
-          "meta": "Objective-C · ★ 1.613 · +218 hoje",
-          "snapshot": {
-            "sourceId": "pookjw/HermesEnabler",
-            "capturedAt": "2026-11-13T05:16:20.566Z",
-            "metadata": {
-              "language": "Objective-C",
-              "popularity": 1613,
-              "engagementCount": 218,
-              "rank": 4,
-              "extra": {
-                "starsToday": 218,
-                "baglam": "readme"
-              }
-            },
-            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
-          }
-        },
-        {
           "title": "QwenLM/qwen-code",
           "url": "https://github.com/QwenLM/qwen-code",
           "summary": "QwenLM/qwen-code é um agente de codificação de inteligência artificial de código aberto (open-source) que funciona no terminal, editor, desktop e navegador. Desenvolvida na linguagem TypeScript, esta ferramenta visa apoiar os processos de desenvolvimento de software em diferentes plataformas.",

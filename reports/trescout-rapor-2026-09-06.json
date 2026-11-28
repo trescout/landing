@@ -284,26 +284,6 @@
           "streakDays": 3
         },
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve zafiyet araştırmalarını tek bir arşivde toplayan bir Python deposudur. Henüz raporlanmamış güvenlik zafiyetlerini bir araya getirerek, siber güvenlik alanına ilgi duyan kişilere uygulamalı bir öğrenme kaynağı sunmayı hedefler.",
-          "meta": "Python · ★ 4.757 · +230 bugün",
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-06T08:22:58.002Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4757,
-              "engagementCount": 230,
-              "rank": 15,
-              "extra": {
-                "starsToday": 230
-              }
-            }
-          },
-          "streakDays": 2
-        },
-        {
           "title": "nvm-sh/nvm",
           "url": "https://github.com/nvm-sh/nvm",
           "summary": "Node Version Manager, geliştiricilerin sistemlerinde birden fazla Node.js sürümünü yönetmelerini sağlayan bir komut satırı aracıdır. Farklı projeler arasında hızlı geçiş yapmayı mümkün kılarak yazılım geliştirme ortamlarını standartlaştırır.",

@@ -179,25 +179,6 @@
           }
         },
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium is a Python repository that collects public proof-of-concept (PoC) vulnerabilities and cybersecurity research in a single archive. This resource, aimed at security researchers, seeks to increase interest in the field of cybersecurity by examining unreported vulnerabilities.",
-          "meta": "Python · ★ 4,574 · +74 today",
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-05T08:04:08.837Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4574,
-              "engagementCount": 74,
-              "rank": 10,
-              "extra": {
-                "starsToday": 74
-              }
-            }
-          }
-        },
-        {
           "title": "bannedbook/fanqiang",
           "url": "https://github.com/bannedbook/fanqiang",
           "summary": "Fanqiang is a network access tool developed in the Kotlin language used to bypass internet censorship. It provides users with the technical infrastructure necessary to access restricted digital content.",

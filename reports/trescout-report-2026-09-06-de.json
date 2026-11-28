@@ -274,25 +274,6 @@
           }
         },
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium ist ein Python-Repository, das öffentlich zugängliche Proof-of-Concepts (PoC) für Sicherheitslücken und Schwachstellenforschungen in einem Archiv sammelt. Durch die Zusammenführung noch nicht gemeldeter Sicherheitslücken zielt es darauf ab, Interessierten im Bereich Cybersicherheit eine praktische Lernressource zu bieten.",
-          "meta": "Python · ★ 4.757 · +230 heute",
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-06T08:22:58.002Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4757,
-              "engagementCount": 230,
-              "rank": 15,
-              "extra": {
-                "starsToday": 230
-              }
-            }
-          }
-        },
-        {
           "title": "nvm-sh/nvm",
           "url": "https://github.com/nvm-sh/nvm",
           "summary": "Node Version Manager ist ein Befehlszeilentool, mit dem Entwickler mehrere Node.js-Versionen auf ihren Systemen verwalten können. Es ermöglicht den schnellen Wechsel zwischen verschiedenen Projekten und standardisiert so die Softwareentwicklungsumgebungen.",

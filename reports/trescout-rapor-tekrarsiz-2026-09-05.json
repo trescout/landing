@@ -8,26 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber güvenlik araştırmalarını tek bir arşivde toplayan bir Python deposu. Güvenlik araştırmacılarına yönelik bu kaynak, henüz raporlanmamış zafiyetleri inceleyerek siber güvenlik alanına ilgiyi artırmayı hedefliyor.",
-          "meta": "Python · ★ 4.574 · +74 bugün",
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-05T08:04:08.837Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4574,
-              "engagementCount": 74,
-              "rank": 10,
-              "extra": {
-                "starsToday": 74
-              }
-            }
-          },
-          "returning": true
-        },
-        {
           "title": "radixark/miles",
           "url": "https://github.com/radixark/miles",
           "summary": "Miles, büyük dil modelleri (LLM) ve görsel dil modelleri (VLM) için pekiştirmeli öğrenme (reinforcement learning) süreçlerini yöneten kurumsal odaklı bir çerçeve. Eğitim sonrası süreçleri (post-training) optimize etmek amacıyla geliştirilen bu Python tabanlı araç, slime projesiyle eş zamanlı olarak evrimleşiyor.",

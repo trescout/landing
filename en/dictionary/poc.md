@@ -74,7 +74,6 @@ A prototype shows, a PoC proves. One is a showroom, the other is an experiment.
 
 ## Related tools
 
-- [Exploitarium](https://trescout.com/en/discover/exploitarium/)
 - [VulnClaw](https://trescout.com/en/discover/vulnclaw/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/poc/)

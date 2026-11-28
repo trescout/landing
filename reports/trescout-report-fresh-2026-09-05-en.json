@@ -8,26 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "bikini/exploitarium",
-          "url": "https://github.com/bikini/exploitarium",
-          "summary": "Exploitarium is a Python repository that collects public proof-of-concept (PoC) vulnerabilities and cybersecurity research in a single archive. This resource, aimed at security researchers, seeks to increase interest in the field of cybersecurity by examining unreported vulnerabilities.",
-          "meta": "Python · ★ 4,574 · +74 today",
-          "returning": true,
-          "snapshot": {
-            "sourceId": "bikini/exploitarium",
-            "capturedAt": "2026-09-05T08:04:08.837Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 4574,
-              "engagementCount": 74,
-              "rank": 10,
-              "extra": {
-                "starsToday": 74
-              }
-            }
-          }
-        },
-        {
           "title": "radixark/miles",
           "url": "https://github.com/radixark/miles",
           "summary": "Miles is an enterprise-focused framework that manages reinforcement learning processes for large language models (LLM) and vision-language models (VLM). Developed to optimize post-training processes, this Python-based tool evolves concurrently with the slime project.",

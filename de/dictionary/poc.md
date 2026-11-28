@@ -74,7 +74,6 @@ Ein Prototyp zeigt, ein PoC beweist. Das eine ist ein Schaufenster, das andere e
 
 ## Verwandte Werkzeuge
 
-- [Exploitarium](https://trescout.com/de/discover/exploitarium/)
 - [VulnClaw](https://trescout.com/de/discover/vulnclaw/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/poc/)

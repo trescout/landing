@@ -38,10 +38,6 @@ Yes, many smartwatch manufacturers offer special design tools for developers.
 - [Design System](https://trescout.com/en/dictionary/design-system/)
 - [Desktop App](https://trescout.com/en/dictionary/desktop-app/)
 
-## Related tools
-
-- [HermesEnabler](https://trescout.com/en/discover/hermesenabler/)
-
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/watch-faces/)
 
 ---

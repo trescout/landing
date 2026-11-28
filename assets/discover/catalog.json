@@ -56152,31 +56152,6 @@
     ]
   },
   {
-    "slug": "exploitarium",
-    "title": "Exploitarium",
-    "tagline": "Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber güvenlik araştırmalarını tek bir arşivde toplayan bir…",
-    "meta": "★ 4.574 · Python",
-    "image": "/assets/discover/og/exploitarium.webp",
-    "source": "GitHub",
-    "date": "2026-09-05",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 4574,
-    "summary": "Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber güvenlik araştırmalarını tek bir arşivde toplayan bir Python deposu. Güvenlik araştırmacılarına yönelik bu kaynak, henüz raporlanmamış zafiyetleri inceleyerek siber güvenlik alanına ilgiyi artırmayı hedefliyor.",
-    "lite": false,
-    "headline": "Güvenlik açıkları için kapsamlı arşiv",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "last_review": "2026-11-28",
-    "tagline_en": "Exploitarium is an archive that collects public proof-of-concept (PoC) exploits and cybersecurity research in a single place...",
-    "tagline_fr": "Exploitarium est une archive qui rassemble des preuves de concept (PoC) de vulnérabilités accessibles au public et des recherches en cybersécurité dans un seul…",
-    "tagline_pt": "Exploitarium é um arquivo que reúne provas de conceito (PoC) de vulnerabilidades públicas e pesquisas de segurança cibernética em um único lugar…",
-    "tagline_es": "Exploitarium es un archivo que recopila pruebas de concepto (PoC) de vulnerabilidades públicas e investigaciones de ciberseguridad en un solo lugar...",
-    "tagline_de": "Exploitarium ist ein Archiv, das öffentlich zugängliche Proof-of-Concepts (PoC) für Sicherheitslücken und Cybersicherheitsforschung an einem Ort sammelt...",
-    "last_seen": "2026-09-06"
-  },
-  {
     "slug": "miles",
     "title": "Miles",
     "tagline": "Miles, büyük dil modelleri (LLM) ve görsel dil modelleri (VLM) için pekiştirmeli öğrenme (reinforcement learning) süreçlerini…",
@@ -71285,54 +71260,6 @@
     "tagline_es": "TheAlgorithms/Java ofrece una colección de código abierto de varios algoritmos escritos en el lenguaje de programación Java.",
     "tagline_pt": "TheAlgorithms/Java oferece uma coleção de código aberto de vários algoritmos escritos na linguagem de programação Java.",
     "tagline_de": "TheAlgorithms/Java bietet eine Open-Source-Sammlung verschiedener Algorithmen, die in der Programmiersprache Java geschrieben sind."
-  },
-  {
-    "slug": "hermesenabler",
-    "title": "HermesEnabler",
-    "tagline": "pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch…",
-    "meta": "★ 2.207",
-    "image": "/assets/discover/og/hermesenabler.webp",
-    "source": "GitHub",
-    "date": "2026-11-13",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 2207,
-    "last_seen": "2026-11-13",
-    "summary": "pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch cihazlarında kullanılabilir hale getiren bir yazılımdır. macOS üzerinde Xcode ile derlenebilen veya Sideloadly gibi uygulama yükleme araçlarıyla kurulabilen bu araç, iPhone ile eşleşmiş bir Apple Watch gerektirir.",
-    "lite": false,
-    "headline": "Apple Watch için Hermès kadranlarını etkinleştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "last_review": "2026-11-28",
-    "guncellemeler": [
-      {
-        "tarih": "2026-11-13",
-        "yildiz": 1617,
-        "onceki_yildiz": 1613,
-        "surum": "1.5.4",
-        "surum_tarihi": "2026-11-13"
-      },
-      {
-        "tarih": "2026-11-16",
-        "yildiz": 2025,
-        "onceki_yildiz": 1617,
-        "surum": "1.6.2",
-        "surum_tarihi": "2026-11-16"
-      },
-      {
-        "tarih": "2026-11-19",
-        "yildiz": 2207,
-        "onceki_yildiz": 2025,
-        "surum": "1.6.3",
-        "surum_tarihi": "2026-11-19"
-      }
-    ],
-    "tagline_en": "pookjw/HermesEnabler brings Hermès watch faces to all Apple Watches with supported watchOS versions…",
-    "tagline_fr": "pookjw/HermesEnabler apporte les cadrans de montre Hermès à toutes les Apple Watch disposant des versions de watchOS prises en charge…",
-    "tagline_es": "pookjw/HermesEnabler, permite las esferas de reloj (watch faces) de Hermès en todos los Apple Watch con versiones de watchOS compatibles…",
-    "tagline_pt": "pookjw/HermesEnabler, traz mostradores de relógio (watch faces) do Hermès para todos os Apple Watch com versões suportadas do watchOS...",
-    "tagline_de": "pookjw/HermesEnabler bringt Hermès-Zifferblätter auf alle Apple Watches mit unterstützten watchOS-Versionen…"
   },
   {
     "slug": "qwen-code",

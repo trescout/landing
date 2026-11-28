@@ -70,27 +70,6 @@
           }
         },
         {
-          "title": "pookjw/HermesEnabler",
-          "url": "https://github.com/pookjw/HermesEnabler",
-          "summary": "pookjw/HermesEnabler est un logiciel qui rend les cadrans de montre (watch faces) Hermès utilisables sur tous les appareils Apple Watch dotés de versions watchOS prises en charge. Cet outil, qui peut être compilé avec Xcode sur macOS ou installé avec des outils de chargement d'applications comme Sideloadly, nécessite une Apple Watch jumelée à un iPhone.",
-          "meta": "Objective-C · ★ 1 613 · +218 aujourd'hui",
-          "snapshot": {
-            "sourceId": "pookjw/HermesEnabler",
-            "capturedAt": "2026-11-13T05:16:20.566Z",
-            "metadata": {
-              "language": "Objective-C",
-              "popularity": 1613,
-              "engagementCount": 218,
-              "rank": 4,
-              "extra": {
-                "starsToday": 218,
-                "baglam": "readme"
-              }
-            },
-            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
-          }
-        },
-        {
           "title": "we-promise/sure",
           "url": "https://github.com/we-promise/sure",
           "summary": "Développé avec le langage Ruby, sure est une application de gestion des finances personnelles et du patrimoine ouverte à tous. Offrant des fonctionnalités permettant aux utilisateurs de se connecter avec des conseillers financiers, ce projet se positionne comme un outil de gestion financière open source.",
