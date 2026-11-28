@@ -170,8 +170,17 @@ function buildVariant(V) {
     const tarih = tarihYaz(dateStr);
 
     const pdfPath = path.join(ROOT, 'reports', V.ciktiPdf(dateStr));
+    const trPdfPath = path.join(ROOT, 'reports', V.trPdf(dateStr));
     const pdfVar = fs.existsSync(pdfPath);
-    const pdfUrl = pdfVar ? `/reports/${V.ciktiPdf(dateStr)}` : `/reports/${V.trPdf(dateStr)}`;
+    const pdfUrl = pdfVar
+      ? `/reports/${V.ciktiPdf(dateStr)}`
+      : fs.existsSync(trPdfPath)
+        ? `/reports/${V.trPdf(dateStr)}`
+        : null;
+    const pdfActions = pdfUrl
+      ? `<a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${D.rapor_ac.replace('{dil}', D.rapor_dil_adi)}</a>
+        <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>`
+      : '';
     // Report cards are currently rendered from the Turkish source report. Keep
     // the image URL stable for localized pages until localized report cards exist.
     const ogImage = `https://trescout.com${V.trUrlBase}/${dateStr}/og.png`;
@@ -269,10 +278,7 @@ function buildVariant(V) {
       <h1 class="rep-title">${tarih}</h1>
       <div class="rep-chips">${badgeTag}${chips}</div>
       <p class="rep-editorial">${editorial}</p>
-      <div class="rep-actions">
-        <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${D.rapor_ac.replace('{dil}', D.rapor_dil_adi)}</a>
-        <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>
-      </div>
+      ${pdfActions ? `<div class="rep-actions">${pdfActions}</div>` : ''}
 ${cekim ? `      <p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
 ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
       <p class="rep-note">${D.rapor_not}</p>
@@ -308,7 +314,7 @@ ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
           </a>
           <div class="card-actions">
             <a class="act act-read" href="${V.urlBase}/${dateStr}/">${D.rapor_oku}</a>
-            <a class="act act-pdf" href="${pdfUrl}" download>${D.rapor_indir}</a>
+            ${pdfUrl ? `<a class="act act-pdf" href="${pdfUrl}" download>${D.rapor_indir}</a>` : ''}
           </div>
         </article>`);
   });
